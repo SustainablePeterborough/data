@@ -1,12 +1,1 @@
 From,To
-GEO,DGUID
-DGUID,Gender (3a)
-Gender (3a),Economic family characteristics of persons (13)
-Economic family characteristics of persons (13),Statistics (6C)
-Statistics (6C),Age (8)
-Age (8),Individual MBM poverty status (7)
-Individual MBM poverty status (7),UOM_ID
-UOM_ID,SCALAR_FACTOR
-SCALAR_FACTOR,SCALAR_ID
-SCALAR_ID,COORDINATE
-COORDINATE,DECIMALS
