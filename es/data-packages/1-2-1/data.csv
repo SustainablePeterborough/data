@@ -1,1 +1,433 @@
-Year,Value
+Year,Geography,Gender,Age,Value
+2020,Ontario,,,8.3
+2020,Ontario,,0 to 17 years,8.7
+2020,Ontario,,18 to 24 years,13.7
+2020,Ontario,,25 to 54 years,8.3
+2020,Ontario,,55 to 64 years,8.9
+2020,Ontario,,65 years and over,4.8
+2015,Ontario,,,15.5
+2015,Ontario,,0 to 17 years,20.0
+2015,Ontario,,18 to 24 years,21.7
+2015,Ontario,,25 to 54 years,15.7
+2015,Ontario,,55 to 64 years,13.7
+2015,Ontario,,65 years and over,7.7
+2020,Ontario,Men+,,8.5
+2020,Ontario,Men+,0 to 17 years,8.7
+2020,Ontario,Men+,18 to 24 years,14.0
+2020,Ontario,Men+,25 to 54 years,8.5
+2020,Ontario,Men+,55 to 64 years,9.3
+2020,Ontario,Men+,65 years and over,4.5
+2015,Ontario,Men+,,15.3
+2015,Ontario,Men+,0 to 17 years,20.0
+2015,Ontario,Men+,18 to 24 years,21.0
+2015,Ontario,Men+,25 to 54 years,15.0
+2015,Ontario,Men+,55 to 64 years,13.9
+2015,Ontario,Men+,65 years and over,7.2
+2020,Ontario,Women+,,8.1
+2020,Ontario,Women+,0 to 17 years,8.7
+2020,Ontario,Women+,18 to 24 years,13.4
+2020,Ontario,Women+,25 to 54 years,8.0
+2020,Ontario,Women+,55 to 64 years,8.5
+2020,Ontario,Women+,65 years and over,5.0
+2015,Ontario,Women+,,15.8
+2015,Ontario,Women+,0 to 17 years,20.0
+2015,Ontario,Women+,18 to 24 years,22.4
+2015,Ontario,Women+,25 to 54 years,16.3
+2015,Ontario,Women+,55 to 64 years,13.5
+2015,Ontario,Women+,65 years and over,8.2
+2020,Asphodel-Norwood,,,5.7
+2020,Asphodel-Norwood,,0 to 17 years,5.2
+2020,Asphodel-Norwood,,18 to 24 years,10.2
+2020,Asphodel-Norwood,,25 to 54 years,5.6
+2020,Asphodel-Norwood,,55 to 64 years,8.1
+2020,Asphodel-Norwood,,65 years and over,3.4
+2015,Asphodel-Norwood,,,11.7
+2015,Asphodel-Norwood,,0 to 17 years,14.4
+2015,Asphodel-Norwood,,18 to 24 years,17.5
+2015,Asphodel-Norwood,,25 to 54 years,11.3
+2015,Asphodel-Norwood,,55 to 64 years,15.9
+2015,Asphodel-Norwood,,65 years and over,3.4
+2020,Asphodel-Norwood,Men+,,5.5
+2020,Asphodel-Norwood,Men+,0 to 17 years,6.3
+2020,Asphodel-Norwood,Men+,18 to 24 years,9.4
+2020,Asphodel-Norwood,Men+,25 to 54 years,5.1
+2020,Asphodel-Norwood,Men+,55 to 64 years,9.9
+2020,Asphodel-Norwood,Men+,65 years and over,0.0
+2015,Asphodel-Norwood,Men+,,11.2
+2015,Asphodel-Norwood,Men+,0 to 17 years,10.6
+2015,Asphodel-Norwood,Men+,18 to 24 years,17.4
+2015,Asphodel-Norwood,Men+,25 to 54 years,9.0
+2015,Asphodel-Norwood,Men+,55 to 64 years,19.2
+2015,Asphodel-Norwood,Men+,65 years and over,7.2
+2020,Asphodel-Norwood,Women+,,6.0
+2020,Asphodel-Norwood,Women+,0 to 17 years,3.9
+2020,Asphodel-Norwood,Women+,18 to 24 years,11.1
+2020,Asphodel-Norwood,Women+,25 to 54 years,6.0
+2020,Asphodel-Norwood,Women+,55 to 64 years,6.6
+2020,Asphodel-Norwood,Women+,65 years and over,4.7
+2015,Asphodel-Norwood,Women+,,12.2
+2015,Asphodel-Norwood,Women+,0 to 17 years,18.7
+2015,Asphodel-Norwood,Women+,18 to 24 years,17.6
+2015,Asphodel-Norwood,Women+,25 to 54 years,14.2
+2015,Asphodel-Norwood,Women+,55 to 64 years,13.6
+2015,Asphodel-Norwood,Women+,65 years and over,0.0
+2020,Otonabee-South Monaghan,,,5.1
+2020,Otonabee-South Monaghan,,0 to 17 years,7.4
+2020,Otonabee-South Monaghan,,18 to 24 years,4.8
+2020,Otonabee-South Monaghan,,25 to 54 years,6.1
+2020,Otonabee-South Monaghan,,55 to 64 years,4.5
+2020,Otonabee-South Monaghan,,65 years and over,2.1
+2015,Otonabee-South Monaghan,,,8.1
+2015,Otonabee-South Monaghan,,0 to 17 years,11.3
+2015,Otonabee-South Monaghan,,18 to 24 years,0.0
+2015,Otonabee-South Monaghan,,25 to 54 years,9.3
+2015,Otonabee-South Monaghan,,55 to 64 years,10.8
+2015,Otonabee-South Monaghan,,65 years and over,3.6
+2020,Otonabee-South Monaghan,Men+,,5.2
+2020,Otonabee-South Monaghan,Men+,0 to 17 years,7.0
+2020,Otonabee-South Monaghan,Men+,18 to 24 years,0.0
+2020,Otonabee-South Monaghan,Men+,25 to 54 years,6.5
+2020,Otonabee-South Monaghan,Men+,55 to 64 years,5.3
+2020,Otonabee-South Monaghan,Men+,65 years and over,2.4
+2015,Otonabee-South Monaghan,Men+,,8.7
+2015,Otonabee-South Monaghan,Men+,0 to 17 years,11.0
+2015,Otonabee-South Monaghan,Men+,18 to 24 years,0.0
+2015,Otonabee-South Monaghan,Men+,25 to 54 years,10.3
+2015,Otonabee-South Monaghan,Men+,55 to 64 years,11.2
+2015,Otonabee-South Monaghan,Men+,65 years and over,2.9
+2020,Otonabee-South Monaghan,Women+,,4.9
+2020,Otonabee-South Monaghan,Women+,0 to 17 years,8.6
+2020,Otonabee-South Monaghan,Women+,18 to 24 years,0.0
+2020,Otonabee-South Monaghan,Women+,25 to 54 years,5.8
+2020,Otonabee-South Monaghan,Women+,55 to 64 years,3.7
+2020,Otonabee-South Monaghan,Women+,65 years and over,0.0
+2015,Otonabee-South Monaghan,Women+,,7.7
+2015,Otonabee-South Monaghan,Women+,0 to 17 years,10.6
+2015,Otonabee-South Monaghan,Women+,18 to 24 years,0.0
+2015,Otonabee-South Monaghan,Women+,25 to 54 years,8.3
+2015,Otonabee-South Monaghan,Women+,55 to 64 years,10.3
+2015,Otonabee-South Monaghan,Women+,65 years and over,4.3
+2020,Hiawatha First Nation,,,0.0
+2020,Hiawatha First Nation,,0 to 17 years,0.0
+2020,Hiawatha First Nation,,18 to 24 years,0.0
+2020,Hiawatha First Nation,,25 to 54 years,0.0
+2020,Hiawatha First Nation,,55 to 64 years,0.0
+2020,Hiawatha First Nation,,65 years and over,0.0
+2015,Hiawatha First Nation,,,0.0
+2015,Hiawatha First Nation,,0 to 17 years,0.0
+2015,Hiawatha First Nation,,18 to 24 years,0.0
+2015,Hiawatha First Nation,,25 to 54 years,0.0
+2015,Hiawatha First Nation,,55 to 64 years,0.0
+2015,Hiawatha First Nation,,65 years and over,0.0
+2020,Hiawatha First Nation,Men+,,0.0
+2020,Hiawatha First Nation,Men+,0 to 17 years,0.0
+2020,Hiawatha First Nation,Men+,18 to 24 years,0.0
+2020,Hiawatha First Nation,Men+,25 to 54 years,0.0
+2020,Hiawatha First Nation,Men+,55 to 64 years,0.0
+2020,Hiawatha First Nation,Men+,65 years and over,0.0
+2015,Hiawatha First Nation,Men+,,0.0
+2015,Hiawatha First Nation,Men+,0 to 17 years,0.0
+2015,Hiawatha First Nation,Men+,18 to 24 years,0.0
+2015,Hiawatha First Nation,Men+,25 to 54 years,0.0
+2015,Hiawatha First Nation,Men+,55 to 64 years,0.0
+2015,Hiawatha First Nation,Men+,65 years and over,0.0
+2020,Hiawatha First Nation,Women+,,0.0
+2020,Hiawatha First Nation,Women+,0 to 17 years,0.0
+2020,Hiawatha First Nation,Women+,18 to 24 years,0.0
+2020,Hiawatha First Nation,Women+,25 to 54 years,0.0
+2020,Hiawatha First Nation,Women+,55 to 64 years,0.0
+2020,Hiawatha First Nation,Women+,65 years and over,0.0
+2015,Hiawatha First Nation,Women+,,0.0
+2015,Hiawatha First Nation,Women+,0 to 17 years,0.0
+2015,Hiawatha First Nation,Women+,18 to 24 years,0.0
+2015,Hiawatha First Nation,Women+,25 to 54 years,0.0
+2015,Hiawatha First Nation,Women+,55 to 64 years,0.0
+2015,Hiawatha First Nation,Women+,65 years and over,0.0
+2020,Cavan Monaghan,,,3.5
+2020,Cavan Monaghan,,0 to 17 years,3.3
+2020,Cavan Monaghan,,18 to 24 years,4.4
+2020,Cavan Monaghan,,25 to 54 years,2.9
+2020,Cavan Monaghan,,55 to 64 years,7.5
+2020,Cavan Monaghan,,65 years and over,1.3
+2015,Cavan Monaghan,,,7.7
+2015,Cavan Monaghan,,0 to 17 years,11.8
+2015,Cavan Monaghan,,18 to 24 years,7.0
+2015,Cavan Monaghan,,25 to 54 years,6.3
+2015,Cavan Monaghan,,55 to 64 years,9.4
+2015,Cavan Monaghan,,65 years and over,4.3
+2020,Cavan Monaghan,Men+,,3.4
+2020,Cavan Monaghan,Men+,0 to 17 years,2.6
+2020,Cavan Monaghan,Men+,18 to 24 years,0.0
+2020,Cavan Monaghan,Men+,25 to 54 years,2.0
+2020,Cavan Monaghan,Men+,55 to 64 years,8.5
+2020,Cavan Monaghan,Men+,65 years and over,0.0
+2015,Cavan Monaghan,Men+,,7.4
+2015,Cavan Monaghan,Men+,0 to 17 years,11.3
+2015,Cavan Monaghan,Men+,18 to 24 years,6.7
+2015,Cavan Monaghan,Men+,25 to 54 years,5.5
+2015,Cavan Monaghan,Men+,55 to 64 years,11.3
+2015,Cavan Monaghan,Men+,65 years and over,3.9
+2020,Cavan Monaghan,Women+,,3.7
+2020,Cavan Monaghan,Women+,0 to 17 years,3.0
+2020,Cavan Monaghan,Women+,18 to 24 years,0.0
+2020,Cavan Monaghan,Women+,25 to 54 years,3.7
+2020,Cavan Monaghan,Women+,55 to 64 years,7.1
+2020,Cavan Monaghan,Women+,65 years and over,0.0
+2015,Cavan Monaghan,Women+,,8.0
+2015,Cavan Monaghan,Women+,0 to 17 years,12.4
+2015,Cavan Monaghan,Women+,18 to 24 years,5.9
+2015,Cavan Monaghan,Women+,25 to 54 years,6.8
+2015,Cavan Monaghan,Women+,55 to 64 years,8.0
+2015,Cavan Monaghan,Women+,65 years and over,5.3
+2020,Peterborough,,,9.8
+2020,Peterborough,,0 to 17 years,8.2
+2020,Peterborough,,18 to 24 years,25.3
+2020,Peterborough,,25 to 54 years,9.4
+2020,Peterborough,,55 to 64 years,12.7
+2020,Peterborough,,65 years and over,3.5
+2015,Peterborough,,,18.3
+2015,Peterborough,,0 to 17 years,21.6
+2015,Peterborough,,18 to 24 years,37.2
+2015,Peterborough,,25 to 54 years,18.8
+2015,Peterborough,,55 to 64 years,15.9
+2015,Peterborough,,65 years and over,6.6
+2020,Peterborough,Men+,,10.1
+2020,Peterborough,Men+,0 to 17 years,7.8
+2020,Peterborough,Men+,18 to 24 years,23.4
+2020,Peterborough,Men+,25 to 54 years,10.5
+2020,Peterborough,Men+,55 to 64 years,13.6
+2020,Peterborough,Men+,65 years and over,3.2
+2015,Peterborough,Men+,,18.2
+2015,Peterborough,Men+,0 to 17 years,20.8
+2015,Peterborough,Men+,18 to 24 years,36.0
+2015,Peterborough,Men+,25 to 54 years,18.7
+2015,Peterborough,Men+,55 to 64 years,16.4
+2015,Peterborough,Men+,65 years and over,5.8
+2020,Peterborough,Women+,,9.5
+2020,Peterborough,Women+,0 to 17 years,8.5
+2020,Peterborough,Women+,18 to 24 years,27.2
+2020,Peterborough,Women+,25 to 54 years,8.4
+2020,Peterborough,Women+,55 to 64 years,12.0
+2020,Peterborough,Women+,65 years and over,3.8
+2015,Peterborough,Women+,,18.3
+2015,Peterborough,Women+,0 to 17 years,22.4
+2015,Peterborough,Women+,18 to 24 years,38.2
+2015,Peterborough,Women+,25 to 54 years,18.9
+2015,Peterborough,Women+,55 to 64 years,15.4
+2015,Peterborough,Women+,65 years and over,7.2
+2020,Selwyn,,,3.5
+2020,Selwyn,,0 to 17 years,4.1
+2020,Selwyn,,18 to 24 years,4.5
+2020,Selwyn,,25 to 54 years,3.6
+2020,Selwyn,,55 to 64 years,5.0
+2020,Selwyn,,65 years and over,1.9
+2015,Selwyn,,,8.8
+2015,Selwyn,,0 to 17 years,12.9
+2015,Selwyn,,18 to 24 years,9.8
+2015,Selwyn,,25 to 54 years,8.4
+2015,Selwyn,,55 to 64 years,10.2
+2015,Selwyn,,65 years and over,4.8
+2020,Selwyn,Men+,,3.7
+2020,Selwyn,Men+,0 to 17 years,3.7
+2020,Selwyn,Men+,18 to 24 years,6.9
+2020,Selwyn,Men+,25 to 54 years,3.4
+2020,Selwyn,Men+,55 to 64 years,6.7
+2020,Selwyn,Men+,65 years and over,1.7
+2015,Selwyn,Men+,,8.7
+2015,Selwyn,Men+,0 to 17 years,14.8
+2015,Selwyn,Men+,18 to 24 years,10.9
+2015,Selwyn,Men+,25 to 54 years,7.9
+2015,Selwyn,Men+,55 to 64 years,9.0
+2015,Selwyn,Men+,65 years and over,4.4
+2020,Selwyn,Women+,,3.3
+2020,Selwyn,Women+,0 to 17 years,4.5
+2020,Selwyn,Women+,18 to 24 years,0.0
+2020,Selwyn,Women+,25 to 54 years,3.8
+2020,Selwyn,Women+,55 to 64 years,3.4
+2020,Selwyn,Women+,65 years and over,2.1
+2015,Selwyn,Women+,,8.9
+2015,Selwyn,Women+,0 to 17 years,11.0
+2015,Selwyn,Women+,18 to 24 years,8.5
+2015,Selwyn,Women+,25 to 54 years,8.9
+2015,Selwyn,Women+,55 to 64 years,11.2
+2015,Selwyn,Women+,65 years and over,5.1
+2020,Curve Lake First Nation 35,,,0.0
+2020,Curve Lake First Nation 35,,0 to 17 years,0.0
+2020,Curve Lake First Nation 35,,18 to 24 years,0.0
+2020,Curve Lake First Nation 35,,25 to 54 years,0.0
+2020,Curve Lake First Nation 35,,55 to 64 years,0.0
+2020,Curve Lake First Nation 35,,65 years and over,0.0
+2015,Curve Lake First Nation 35,,,0.0
+2015,Curve Lake First Nation 35,,0 to 17 years,0.0
+2015,Curve Lake First Nation 35,,18 to 24 years,0.0
+2015,Curve Lake First Nation 35,,25 to 54 years,0.0
+2015,Curve Lake First Nation 35,,55 to 64 years,0.0
+2015,Curve Lake First Nation 35,,65 years and over,0.0
+2020,Curve Lake First Nation 35,Men+,,0.0
+2020,Curve Lake First Nation 35,Men+,0 to 17 years,0.0
+2020,Curve Lake First Nation 35,Men+,18 to 24 years,0.0
+2020,Curve Lake First Nation 35,Men+,25 to 54 years,0.0
+2020,Curve Lake First Nation 35,Men+,55 to 64 years,0.0
+2020,Curve Lake First Nation 35,Men+,65 years and over,0.0
+2015,Curve Lake First Nation 35,Men+,,0.0
+2015,Curve Lake First Nation 35,Men+,0 to 17 years,0.0
+2015,Curve Lake First Nation 35,Men+,18 to 24 years,0.0
+2015,Curve Lake First Nation 35,Men+,25 to 54 years,0.0
+2015,Curve Lake First Nation 35,Men+,55 to 64 years,0.0
+2015,Curve Lake First Nation 35,Men+,65 years and over,0.0
+2020,Curve Lake First Nation 35,Women+,,0.0
+2020,Curve Lake First Nation 35,Women+,0 to 17 years,0.0
+2020,Curve Lake First Nation 35,Women+,18 to 24 years,0.0
+2020,Curve Lake First Nation 35,Women+,25 to 54 years,0.0
+2020,Curve Lake First Nation 35,Women+,55 to 64 years,0.0
+2020,Curve Lake First Nation 35,Women+,65 years and over,0.0
+2015,Curve Lake First Nation 35,Women+,,0.0
+2015,Curve Lake First Nation 35,Women+,0 to 17 years,0.0
+2015,Curve Lake First Nation 35,Women+,18 to 24 years,0.0
+2015,Curve Lake First Nation 35,Women+,25 to 54 years,0.0
+2015,Curve Lake First Nation 35,Women+,55 to 64 years,0.0
+2015,Curve Lake First Nation 35,Women+,65 years and over,0.0
+2020,Douro-Dummer,,,3.0
+2020,Douro-Dummer,,0 to 17 years,0.0
+2020,Douro-Dummer,,18 to 24 years,0.0
+2020,Douro-Dummer,,25 to 54 years,3.2
+2020,Douro-Dummer,,55 to 64 years,6.4
+2020,Douro-Dummer,,65 years and over,2.3
+2015,Douro-Dummer,,,6.8
+2015,Douro-Dummer,,0 to 17 years,7.5
+2015,Douro-Dummer,,18 to 24 years,5.4
+2015,Douro-Dummer,,25 to 54 years,7.5
+2015,Douro-Dummer,,55 to 64 years,7.8
+2015,Douro-Dummer,,65 years and over,4.8
+2020,Douro-Dummer,Men+,,4.1
+2020,Douro-Dummer,Men+,0 to 17 years,0.0
+2020,Douro-Dummer,Men+,18 to 24 years,0.0
+2020,Douro-Dummer,Men+,25 to 54 years,4.1
+2020,Douro-Dummer,Men+,55 to 64 years,9.8
+2020,Douro-Dummer,Men+,65 years and over,2.1
+2015,Douro-Dummer,Men+,,6.9
+2015,Douro-Dummer,Men+,0 to 17 years,6.5
+2015,Douro-Dummer,Men+,18 to 24 years,0.0
+2015,Douro-Dummer,Men+,25 to 54 years,8.4
+2015,Douro-Dummer,Men+,55 to 64 years,9.6
+2015,Douro-Dummer,Men+,65 years and over,4.3
+2020,Douro-Dummer,Women+,,2.1
+2020,Douro-Dummer,Women+,0 to 17 years,0.0
+2020,Douro-Dummer,Women+,18 to 24 years,0.0
+2020,Douro-Dummer,Women+,25 to 54 years,2.4
+2020,Douro-Dummer,Women+,55 to 64 years,3.4
+2020,Douro-Dummer,Women+,65 years and over,2.5
+2015,Douro-Dummer,Women+,,6.8
+2015,Douro-Dummer,Women+,0 to 17 years,7.8
+2015,Douro-Dummer,Women+,18 to 24 years,0.0
+2015,Douro-Dummer,Women+,25 to 54 years,6.2
+2015,Douro-Dummer,Women+,55 to 64 years,6.2
+2015,Douro-Dummer,Women+,65 years and over,6.2
+2020,Havelock-Belmont-Methuen,,,7.3
+2020,Havelock-Belmont-Methuen,,0 to 17 years,7.1
+2020,Havelock-Belmont-Methuen,,18 to 24 years,0.0
+2020,Havelock-Belmont-Methuen,,25 to 54 years,5.8
+2020,Havelock-Belmont-Methuen,,55 to 64 years,18.6
+2020,Havelock-Belmont-Methuen,,65 years and over,2.2
+2015,Havelock-Belmont-Methuen,,,16.2
+2015,Havelock-Belmont-Methuen,,0 to 17 years,19.0
+2015,Havelock-Belmont-Methuen,,18 to 24 years,18.2
+2015,Havelock-Belmont-Methuen,,25 to 54 years,18.4
+2015,Havelock-Belmont-Methuen,,55 to 64 years,24.7
+2015,Havelock-Belmont-Methuen,,65 years and over,5.7
+2020,Havelock-Belmont-Methuen,Men+,,8.2
+2020,Havelock-Belmont-Methuen,Men+,0 to 17 years,9.4
+2020,Havelock-Belmont-Methuen,Men+,18 to 24 years,0.0
+2020,Havelock-Belmont-Methuen,Men+,25 to 54 years,6.9
+2020,Havelock-Belmont-Methuen,Men+,55 to 64 years,18.9
+2020,Havelock-Belmont-Methuen,Men+,65 years and over,2.4
+2015,Havelock-Belmont-Methuen,Men+,,16.0
+2015,Havelock-Belmont-Methuen,Men+,0 to 17 years,18.8
+2015,Havelock-Belmont-Methuen,Men+,18 to 24 years,20.0
+2015,Havelock-Belmont-Methuen,Men+,25 to 54 years,17.4
+2015,Havelock-Belmont-Methuen,Men+,55 to 64 years,25.3
+2015,Havelock-Belmont-Methuen,Men+,65 years and over,5.3
+2020,Havelock-Belmont-Methuen,Women+,,6.4
+2020,Havelock-Belmont-Methuen,Women+,0 to 17 years,0.0
+2020,Havelock-Belmont-Methuen,Women+,18 to 24 years,0.0
+2020,Havelock-Belmont-Methuen,Women+,25 to 54 years,4.7
+2020,Havelock-Belmont-Methuen,Women+,55 to 64 years,17.3
+2020,Havelock-Belmont-Methuen,Women+,65 years and over,0.0
+2015,Havelock-Belmont-Methuen,Women+,,16.5
+2015,Havelock-Belmont-Methuen,Women+,0 to 17 years,17.9
+2015,Havelock-Belmont-Methuen,Women+,18 to 24 years,20.8
+2015,Havelock-Belmont-Methuen,Women+,25 to 54 years,18.5
+2015,Havelock-Belmont-Methuen,Women+,55 to 64 years,24.2
+2015,Havelock-Belmont-Methuen,Women+,65 years and over,7.0
+2020,North Kawartha,,,6.0
+2020,North Kawartha,,0 to 17 years,0.0
+2020,North Kawartha,,18 to 24 years,0.0
+2020,North Kawartha,,25 to 54 years,7.0
+2020,North Kawartha,,55 to 64 years,10.5
+2020,North Kawartha,,65 years and over,2.2
+2015,North Kawartha,,,12.6
+2015,North Kawartha,,0 to 17 years,16.0
+2015,North Kawartha,,18 to 24 years,25.7
+2015,North Kawartha,,25 to 54 years,13.9
+2015,North Kawartha,,55 to 64 years,8.7
+2015,North Kawartha,,65 years and over,9.8
+2020,North Kawartha,Men+,,7.0
+2020,North Kawartha,Men+,0 to 17 years,0.0
+2020,North Kawartha,Men+,18 to 24 years,0.0
+2020,North Kawartha,Men+,25 to 54 years,8.5
+2020,North Kawartha,Men+,55 to 64 years,14.5
+2020,North Kawartha,Men+,65 years and over,0.0
+2015,North Kawartha,Men+,,11.1
+2015,North Kawartha,Men+,0 to 17 years,13.2
+2015,North Kawartha,Men+,18 to 24 years,0.0
+2015,North Kawartha,Men+,25 to 54 years,12.7
+2015,North Kawartha,Men+,55 to 64 years,10.7
+2015,North Kawartha,Men+,65 years and over,7.5
+2020,North Kawartha,Women+,,4.8
+2020,North Kawartha,Women+,0 to 17 years,0.0
+2020,North Kawartha,Women+,18 to 24 years,0.0
+2020,North Kawartha,Women+,25 to 54 years,5.6
+2020,North Kawartha,Women+,55 to 64 years,6.0
+2020,North Kawartha,Women+,65 years and over,0.0
+2015,North Kawartha,Women+,,14.2
+2015,North Kawartha,Women+,0 to 17 years,18.9
+2015,North Kawartha,Women+,18 to 24 years,30.0
+2015,North Kawartha,Women+,25 to 54 years,15.3
+2015,North Kawartha,Women+,55 to 64 years,5.0
+2015,North Kawartha,Women+,65 years and over,12.5
+2020,Trent Lakes,,,5.2
+2020,Trent Lakes,,0 to 17 years,9.3
+2020,Trent Lakes,,18 to 24 years,0.0
+2020,Trent Lakes,,25 to 54 years,5.9
+2020,Trent Lakes,,55 to 64 years,8.8
+2020,Trent Lakes,,65 years and over,0.0
+2015,Trent Lakes,,,9.6
+2015,Trent Lakes,,0 to 17 years,16.0
+2015,Trent Lakes,,18 to 24 years,12.5
+2015,Trent Lakes,,25 to 54 years,13.4
+2015,Trent Lakes,,55 to 64 years,9.3
+2015,Trent Lakes,,65 years and over,3.1
+2020,Trent Lakes,Men+,,5.7
+2020,Trent Lakes,Men+,0 to 17 years,9.2
+2020,Trent Lakes,Men+,18 to 24 years,0.0
+2020,Trent Lakes,Men+,25 to 54 years,5.5
+2020,Trent Lakes,Men+,55 to 64 years,11.3
+2020,Trent Lakes,Men+,65 years and over,0.0
+2015,Trent Lakes,Men+,,10.0
+2015,Trent Lakes,Men+,0 to 17 years,13.8
+2015,Trent Lakes,Men+,18 to 24 years,15.6
+2015,Trent Lakes,Men+,25 to 54 years,14.2
+2015,Trent Lakes,Men+,55 to 64 years,11.5
+2015,Trent Lakes,Men+,65 years and over,3.4
+2020,Trent Lakes,Women+,,4.5
+2020,Trent Lakes,Women+,0 to 17 years,8.0
+2020,Trent Lakes,Women+,18 to 24 years,0.0
+2020,Trent Lakes,Women+,25 to 54 years,6.4
+2020,Trent Lakes,Women+,55 to 64 years,6.2
+2020,Trent Lakes,Women+,65 years and over,0.0
+2015,Trent Lakes,Women+,,9.3
+2015,Trent Lakes,Women+,0 to 17 years,20.0
+2015,Trent Lakes,Women+,18 to 24 years,0.0
+2015,Trent Lakes,Women+,25 to 54 years,12.7
+2015,Trent Lakes,Women+,55 to 64 years,7.4
+2015,Trent Lakes,Women+,65 years and over,3.4
