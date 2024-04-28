@@ -21,57 +21,51 @@
             "constraints": {
               "enum": [
                 "Canada",
-                "Atlantic provinces",
-                "Newfoundland and Labrador",
-                "Prince Edward Island",
-                "Nova Scotia",
-                "New Brunswick",
-                "Quebec",
                 "Ontario",
-                "Prairie provinces",
-                "Manitoba",
-                "Saskatchewan",
-                "Alberta",
-                "British Columbia",
-                "Québec, Quebec",
-                "Montréal, Quebec",
-                "Ottawa-Gatineau, Ontario/Quebec",
-                "Toronto, Ontario",
-                "Winnipeg, Manitoba",
-                "Calgary, Alberta",
-                "Edmonton, Alberta",
-                "Vancouver, British Columbia",
+                "Asphodel-Norwood",
+                "Otonabee-South Monaghan",
+                "Hiawatha First Nation",
+                "Cavan Monaghan",
+                "Peterborough (City)",
+                "Selwyn",
+                "Curve Lake First Nation",
+                "Douro-Dummer",
+                "Havelock-Belmont-Methuen",
+                "North Kawartha",
+                "Trent Lakes",
                 ""
               ]
             },
             "title": "Geography"
           },
           {
-            "name": "Persons in low income",
+            "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Persons under 18 years",
-                "Persons 18 to 64 years",
-                "Persons 65 years and over",
-                "Males",
-                "Males, under 18 years",
-                "Males, 18 to 64 years",
-                "Males, 65 years and over",
-                "Females",
-                "Females, under 18 years",
-                "Females, 18 to 64 years",
-                "Females, 65 years and over",
-                "All persons",
+                "Total (all genders)",
+                "Men+",
+                "Women+",
                 ""
               ]
             },
-            "title": "Persons in low income"
+            "title": "Gender"
           },
           {
-            "name": "GeoCode",
+            "name": "Age",
             "type": "string",
-            "title": "GeoCode"
+            "constraints": {
+              "enum": [
+                "Total (all ages)",
+                "0 to 17 years",
+                "18 to 24 years",
+                "25 to 54 years",
+                "55 to 64 years",
+                "65 years and over",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Value",

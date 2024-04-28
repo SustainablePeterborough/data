@@ -12,12 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Canada",
+                "Ontario",
+                "Asphodel-Norwood",
+                "Otonabee-South Monaghan",
+                "Hiawatha First Nation",
+                "Cavan Monaghan",
+                "Peterborough (City)",
+                "Selwyn",
+                "Curve Lake First Nation",
+                "Douro-Dummer",
+                "Havelock-Belmont-Methuen",
+                "North Kawartha",
+                "Trent Lakes",
+                ""
+              ]
+            },
+            "title": "Geography"
+          },
+          {
+            "name": "Household size",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total number of households",
+                "1 person",
+                "2 or more persons",
+                ""
+              ]
+            },
+            "title": "Household size"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

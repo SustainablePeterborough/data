@@ -1,33 +1,15 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Alberta,12,1
-Asphodel-Norwood,18,1
-Atlantic provinces,12,1
-British Columbia,12,1
-"Calgary, Alberta",12,1
-Canada,11,1
-Cavan Monaghan,18,1
-Curve Lake First Nation 35,18,1
-Douro-Dummer,18,1
-"Edmonton, Alberta",12,1
-Havelock-Belmont-Methuen,18,1
-Hiawatha First Nation,18,1
-Manitoba,12,1
-"Montréal, Quebec",12,1
-New Brunswick,12,1
-Newfoundland and Labrador,12,1
-North Kawartha,18,1
-Nova Scotia,12,1
-Ontario,30,2
-Otonabee-South Monaghan,18,1
-"Ottawa-Gatineau, Ontario/Quebec",12,1
-Peterborough,18,1
-Prairie provinces,12,1
-Prince Edward Island,12,1
-Quebec,12,1
-"Québec, Quebec",12,1
-Saskatchewan,12,1
-Selwyn,18,1
-"Toronto, Ontario",12,1
-Trent Lakes,18,1
-"Vancouver, British Columbia",12,1
-"Winnipeg, Manitoba",12,1
+Asphodel-Norwood,180,4
+Canada,181,5
+Cavan Monaghan,180,4
+Curve Lake First Nation,180,4
+Douro-Dummer,180,4
+Havelock-Belmont-Methuen,180,4
+Hiawatha First Nation,180,4
+North Kawartha,180,4
+Ontario,181,5
+Otonabee-South Monaghan,180,4
+Peterborough (City),180,4
+Peterborough (CMA),1,1
+Selwyn,180,4
+Trent Lakes,180,4

@@ -1,1 +1,79 @@
-Year,Value
+Year,Geography,Household size,Value
+2020,Canada,Total number of households,84000
+2015,Canada,Total number of households,76000
+2020,Canada,1 person,41600
+2015,Canada,1 person,38000
+2020,Canada,2 or more persons,105000
+2015,Canada,2 or more persons,95000
+2020,Ontario,Total number of households,91000
+2015,Ontario,Total number of households,80000
+2020,Ontario,1 person,43600
+2015,Ontario,1 person,40000
+2020,Ontario,2 or more persons,111000
+2015,Ontario,2 or more persons,98000
+2020,Asphodel-Norwood,Total number of households,80000
+2015,Asphodel-Norwood,Total number of households,70500
+2020,Asphodel-Norwood,1 person,42000
+2015,Asphodel-Norwood,1 person,34400
+2020,Asphodel-Norwood,2 or more persons,93000
+2015,Asphodel-Norwood,2 or more persons,82000
+2020,Otonabee-South Monaghan,Total number of households,97000
+2015,Otonabee-South Monaghan,Total number of households,86000
+2020,Otonabee-South Monaghan,1 person,43200
+2015,Otonabee-South Monaghan,1 person,40400
+2020,Otonabee-South Monaghan,2 or more persons,110000
+2015,Otonabee-South Monaghan,2 or more persons,98000
+2020,Hiawatha First Nation,Total number of households,62400
+2015,Hiawatha First Nation,Total number of households,51600
+2020,Hiawatha First Nation,1 person,25000
+2015,Hiawatha First Nation,1 person,21600
+2020,Hiawatha First Nation,2 or more persons,73500
+2015,Hiawatha First Nation,2 or more persons,64000
+2020,Cavan Monaghan,Total number of households,110000
+2015,Cavan Monaghan,Total number of households,98000
+2020,Cavan Monaghan,1 person,48400
+2015,Cavan Monaghan,1 person,43600
+2020,Cavan Monaghan,2 or more persons,120000
+2015,Cavan Monaghan,2 or more persons,108000
+2020,Peterborough (City),Total number of households,71500
+2015,Peterborough (City),Total number of households,62800
+2020,Peterborough (City),1 person,36800
+2015,Peterborough (City),1 person,33200
+2020,Peterborough (City),2 or more persons,92000
+2015,Peterborough (City),2 or more persons,81000
+2020,Selwyn,Total number of households,95000
+2015,Selwyn,Total number of households,86000
+2020,Selwyn,1 person,45200
+2015,Selwyn,1 person,40800
+2020,Selwyn,2 or more persons,113000
+2015,Selwyn,2 or more persons,100000
+2020,Curve Lake First Nation,Total number of households,53200
+2015,Curve Lake First Nation,Total number of households,42000
+2020,Curve Lake First Nation,1 person,27400
+2015,Curve Lake First Nation,1 person,22800
+2020,Curve Lake First Nation,2 or more persons,67500
+2015,Curve Lake First Nation,2 or more persons,52000
+2020,Douro-Dummer,Total number of households,96000
+2015,Douro-Dummer,Total number of households,87000
+2020,Douro-Dummer,1 person,45600
+2015,Douro-Dummer,1 person,40400
+2020,Douro-Dummer,2 or more persons,111000
+2015,Douro-Dummer,2 or more persons,99000
+2020,Havelock-Belmont-Methuen,Total number of households,71000
+2015,Havelock-Belmont-Methuen,Total number of households,59200
+2020,Havelock-Belmont-Methuen,1 person,38400
+2015,Havelock-Belmont-Methuen,1 person,29600
+2020,Havelock-Belmont-Methuen,2 or more persons,87000
+2015,Havelock-Belmont-Methuen,2 or more persons,73500
+2020,North Kawartha,Total number of households,73000
+2015,North Kawartha,Total number of households,62800
+2020,North Kawartha,1 person,36800
+2015,North Kawartha,1 person,32800
+2020,North Kawartha,2 or more persons,91000
+2015,North Kawartha,2 or more persons,77000
+2020,Trent Lakes,Total number of households,85000
+2015,Trent Lakes,Total number of households,74000
+2020,Trent Lakes,1 person,42400
+2015,Trent Lakes,1 person,42800
+2020,Trent Lakes,2 or more persons,99000
+2015,Trent Lakes,2 or more persons,86000

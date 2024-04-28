@@ -1,1 +1,820 @@
-Year,Value
+Year,Geography,Labour force status,Age,Gender,Value
+2021,Canada,Participation rate,Total (all ages),Total (all genders),63.7
+2021,Canada,Participation rate,Total (all ages),Men+,67.7
+2021,Canada,Participation rate,Total (all ages),Women+,59.8
+2021,Canada,Participation rate,15 to 24 years,Total (all genders),60.3
+2021,Canada,Participation rate,15 to 24 years,Men+,59.8
+2021,Canada,Participation rate,15 to 24 years,Women+,60.8
+2021,Canada,Participation rate,25 to 34 years,Total (all genders),85.1
+2021,Canada,Participation rate,25 to 34 years,Men+,88.3
+2021,Canada,Participation rate,25 to 34 years,Women+,82.0
+2021,Canada,Participation rate,35 to 44 years,Total (all genders),86.5
+2021,Canada,Participation rate,35 to 44 years,Men+,90.6
+2021,Canada,Participation rate,35 to 44 years,Women+,82.4
+2021,Canada,Participation rate,45 to 54 years,Total (all genders),85.3
+2021,Canada,Participation rate,45 to 54 years,Men+,88.5
+2021,Canada,Participation rate,45 to 54 years,Women+,82.2
+2021,Canada,Participation rate,55 to 64 years,Total (all genders),66.1
+2021,Canada,Participation rate,55 to 64 years,Men+,71.6
+2021,Canada,Participation rate,55 to 64 years,Women+,60.9
+2021,Canada,Participation rate,65 years and over,Total (all genders),15.8
+2021,Canada,Participation rate,65 years and over,Men+,20.4
+2021,Canada,Participation rate,65 years and over,Women+,11.7
+2021,Canada,Employment rate,Total (all ages),Total (all genders),57.1
+2021,Canada,Employment rate,Total (all ages),Men+,60.9
+2021,Canada,Employment rate,Total (all ages),Women+,53.4
+2021,Canada,Employment rate,15 to 24 years,Total (all genders),48.5
+2021,Canada,Employment rate,15 to 24 years,Men+,48.3
+2021,Canada,Employment rate,15 to 24 years,Women+,48.8
+2021,Canada,Employment rate,25 to 34 years,Total (all genders),76.7
+2021,Canada,Employment rate,25 to 34 years,Men+,79.9
+2021,Canada,Employment rate,25 to 34 years,Women+,73.5
+2021,Canada,Employment rate,35 to 44 years,Total (all genders),79.9
+2021,Canada,Employment rate,35 to 44 years,Men+,84.4
+2021,Canada,Employment rate,35 to 44 years,Women+,75.6
+2021,Canada,Employment rate,45 to 54 years,Total (all genders),78.9
+2021,Canada,Employment rate,45 to 54 years,Men+,82.2
+2021,Canada,Employment rate,45 to 54 years,Women+,75.8
+2021,Canada,Employment rate,55 to 64 years,Total (all genders),59.8
+2021,Canada,Employment rate,55 to 64 years,Men+,64.9
+2021,Canada,Employment rate,55 to 64 years,Women+,54.9
+2021,Canada,Employment rate,65 years and over,Total (all genders),13.7
+2021,Canada,Employment rate,65 years and over,Men+,17.8
+2021,Canada,Employment rate,65 years and over,Women+,10.0
+2021,Canada,Unemployment rate,Total (all ages),Total (all genders),10.3
+2021,Canada,Unemployment rate,Total (all ages),Men+,9.9
+2021,Canada,Unemployment rate,Total (all ages),Women+,10.7
+2021,Canada,Unemployment rate,15 to 24 years,Total (all genders),19.5
+2021,Canada,Unemployment rate,15 to 24 years,Men+,19.3
+2021,Canada,Unemployment rate,15 to 24 years,Women+,19.7
+2021,Canada,Unemployment rate,25 to 34 years,Total (all genders),9.9
+2021,Canada,Unemployment rate,25 to 34 years,Men+,9.5
+2021,Canada,Unemployment rate,25 to 34 years,Women+,10.3
+2021,Canada,Unemployment rate,35 to 44 years,Total (all genders),7.6
+2021,Canada,Unemployment rate,35 to 44 years,Men+,6.9
+2021,Canada,Unemployment rate,35 to 44 years,Women+,8.3
+2021,Canada,Unemployment rate,45 to 54 years,Total (all genders),7.5
+2021,Canada,Unemployment rate,45 to 54 years,Men+,7.2
+2021,Canada,Unemployment rate,45 to 54 years,Women+,7.8
+2021,Canada,Unemployment rate,55 to 64 years,Total (all genders),9.6
+2021,Canada,Unemployment rate,55 to 64 years,Men+,9.4
+2021,Canada,Unemployment rate,55 to 64 years,Women+,9.8
+2021,Canada,Unemployment rate,65 years and over,Total (all genders),13.5
+2021,Canada,Unemployment rate,65 years and over,Men+,12.8
+2021,Canada,Unemployment rate,65 years and over,Women+,14.6
+2021,Ontario,Participation rate,Total (all ages),Total (all genders),62.8
+2021,Ontario,Participation rate,Total (all ages),Men+,67.1
+2021,Ontario,Participation rate,Total (all ages),Women+,58.7
+2021,Ontario,Participation rate,15 to 24 years,Total (all genders),57.4
+2021,Ontario,Participation rate,15 to 24 years,Men+,57.0
+2021,Ontario,Participation rate,15 to 24 years,Women+,57.7
+2021,Ontario,Participation rate,25 to 34 years,Total (all genders),84.3
+2021,Ontario,Participation rate,25 to 34 years,Men+,87.5
+2021,Ontario,Participation rate,25 to 34 years,Women+,81.0
+2021,Ontario,Participation rate,35 to 44 years,Total (all genders),84.9
+2021,Ontario,Participation rate,35 to 44 years,Men+,89.9
+2021,Ontario,Participation rate,35 to 44 years,Women+,80.3
+2021,Ontario,Participation rate,45 to 54 years,Total (all genders),84.1
+2021,Ontario,Participation rate,45 to 54 years,Men+,88.1
+2021,Ontario,Participation rate,45 to 54 years,Women+,80.5
+2021,Ontario,Participation rate,55 to 64 years,Total (all genders),66.1
+2021,Ontario,Participation rate,55 to 64 years,Men+,71.8
+2021,Ontario,Participation rate,55 to 64 years,Women+,60.8
+2021,Ontario,Participation rate,65 years and over,Total (all genders),15.6
+2021,Ontario,Participation rate,65 years and over,Men+,20.4
+2021,Ontario,Participation rate,65 years and over,Women+,11.5
+2021,Ontario,Employment rate,Total (all ages),Total (all genders),55.1
+2021,Ontario,Employment rate,Total (all ages),Men+,59.6
+2021,Ontario,Employment rate,Total (all ages),Women+,50.8
+2021,Ontario,Employment rate,15 to 24 years,Total (all genders),42.9
+2021,Ontario,Employment rate,15 to 24 years,Men+,43.3
+2021,Ontario,Employment rate,15 to 24 years,Women+,42.3
+2021,Ontario,Employment rate,25 to 34 years,Total (all genders),74.3
+2021,Ontario,Employment rate,25 to 34 years,Men+,78.0
+2021,Ontario,Employment rate,25 to 34 years,Women+,70.7
+2021,Ontario,Employment rate,35 to 44 years,Total (all genders),77.1
+2021,Ontario,Employment rate,35 to 44 years,Men+,83.0
+2021,Ontario,Employment rate,35 to 44 years,Women+,71.7
+2021,Ontario,Employment rate,45 to 54 years,Total (all genders),76.8
+2021,Ontario,Employment rate,45 to 54 years,Men+,81.3
+2021,Ontario,Employment rate,45 to 54 years,Women+,72.6
+2021,Ontario,Employment rate,55 to 64 years,Total (all genders),59.1
+2021,Ontario,Employment rate,55 to 64 years,Men+,64.9
+2021,Ontario,Employment rate,55 to 64 years,Women+,53.7
+2021,Ontario,Employment rate,65 years and over,Total (all genders),13.5
+2021,Ontario,Employment rate,65 years and over,Men+,17.8
+2021,Ontario,Employment rate,65 years and over,Women+,9.8
+2021,Ontario,Unemployment rate,Total (all ages),Total (all genders),12.2
+2021,Ontario,Unemployment rate,Total (all ages),Men+,11.2
+2021,Ontario,Unemployment rate,Total (all ages),Women+,13.4
+2021,Ontario,Unemployment rate,15 to 24 years,Total (all genders),25.3
+2021,Ontario,Unemployment rate,15 to 24 years,Men+,24.0
+2021,Ontario,Unemployment rate,15 to 24 years,Women+,26.6
+2021,Ontario,Unemployment rate,25 to 34 years,Total (all genders),11.8
+2021,Ontario,Unemployment rate,25 to 34 years,Men+,10.9
+2021,Ontario,Unemployment rate,25 to 34 years,Women+,12.8
+2021,Ontario,Unemployment rate,35 to 44 years,Total (all genders),9.2
+2021,Ontario,Unemployment rate,35 to 44 years,Men+,7.7
+2021,Ontario,Unemployment rate,35 to 44 years,Women+,10.7
+2021,Ontario,Unemployment rate,45 to 54 years,Total (all genders),8.8
+2021,Ontario,Unemployment rate,45 to 54 years,Men+,7.8
+2021,Ontario,Unemployment rate,45 to 54 years,Women+,9.8
+2021,Ontario,Unemployment rate,55 to 64 years,Total (all genders),10.6
+2021,Ontario,Unemployment rate,55 to 64 years,Men+,9.7
+2021,Ontario,Unemployment rate,55 to 64 years,Women+,11.6
+2021,Ontario,Unemployment rate,65 years and over,Total (all genders),13.4
+2021,Ontario,Unemployment rate,65 years and over,Men+,12.6
+2021,Ontario,Unemployment rate,65 years and over,Women+,14.7
+2021,Asphodel-Norwood,Participation rate,Total (all ages),Total (all genders),58.2
+2021,Asphodel-Norwood,Participation rate,Total (all ages),Men+,61.5
+2021,Asphodel-Norwood,Participation rate,Total (all ages),Women+,54.7
+2021,Asphodel-Norwood,Participation rate,15 to 24 years,Total (all genders),61.2
+2021,Asphodel-Norwood,Participation rate,15 to 24 years,Men+,55.3
+2021,Asphodel-Norwood,Participation rate,15 to 24 years,Women+,69.2
+2021,Asphodel-Norwood,Participation rate,25 to 34 years,Total (all genders),87.9
+2021,Asphodel-Norwood,Participation rate,25 to 34 years,Men+,94.0
+2021,Asphodel-Norwood,Participation rate,25 to 34 years,Women+,83.3
+2021,Asphodel-Norwood,Participation rate,35 to 44 years,Total (all genders),82.9
+2021,Asphodel-Norwood,Participation rate,35 to 44 years,Men+,86.0
+2021,Asphodel-Norwood,Participation rate,35 to 44 years,Women+,79.2
+2021,Asphodel-Norwood,Participation rate,45 to 54 years,Total (all genders),82.2
+2021,Asphodel-Norwood,Participation rate,45 to 54 years,Men+,84.0
+2021,Asphodel-Norwood,Participation rate,45 to 54 years,Women+,78.8
+2021,Asphodel-Norwood,Participation rate,55 to 64 years,Total (all genders),57.8
+2021,Asphodel-Norwood,Participation rate,55 to 64 years,Men+,63.4
+2021,Asphodel-Norwood,Participation rate,55 to 64 years,Women+,53.9
+2021,Asphodel-Norwood,Participation rate,65 years and over,Total (all genders),16.1
+2021,Asphodel-Norwood,Participation rate,65 years and over,Men+,22.2
+2021,Asphodel-Norwood,Participation rate,65 years and over,Women+,10.4
+2021,Asphodel-Norwood,Employment rate,Total (all ages),Total (all genders),52.4
+2021,Asphodel-Norwood,Employment rate,Total (all ages),Men+,56.4
+2021,Asphodel-Norwood,Employment rate,Total (all ages),Women+,48.4
+2021,Asphodel-Norwood,Employment rate,15 to 24 years,Total (all genders),51.8
+2021,Asphodel-Norwood,Employment rate,15 to 24 years,Men+,44.7
+2021,Asphodel-Norwood,Employment rate,15 to 24 years,Women+,59.0
+2021,Asphodel-Norwood,Employment rate,25 to 34 years,Total (all genders),81.0
+2021,Asphodel-Norwood,Employment rate,25 to 34 years,Men+,90.0
+2021,Asphodel-Norwood,Employment rate,25 to 34 years,Women+,75.8
+2021,Asphodel-Norwood,Employment rate,35 to 44 years,Total (all genders),75.2
+2021,Asphodel-Norwood,Employment rate,35 to 44 years,Men+,78.9
+2021,Asphodel-Norwood,Employment rate,35 to 44 years,Women+,70.8
+2021,Asphodel-Norwood,Employment rate,45 to 54 years,Total (all genders),75.2
+2021,Asphodel-Norwood,Employment rate,45 to 54 years,Men+,78.0
+2021,Asphodel-Norwood,Employment rate,45 to 54 years,Women+,73.1
+2021,Asphodel-Norwood,Employment rate,55 to 64 years,Total (all genders),51.0
+2021,Asphodel-Norwood,Employment rate,55 to 64 years,Men+,57.7
+2021,Asphodel-Norwood,Employment rate,55 to 64 years,Women+,46.1
+2021,Asphodel-Norwood,Employment rate,65 years and over,Total (all genders),14.1
+2021,Asphodel-Norwood,Employment rate,65 years and over,Men+,21.2
+2021,Asphodel-Norwood,Employment rate,65 years and over,Women+,7.5
+2021,Asphodel-Norwood,Unemployment rate,Total (all ages),Total (all genders),10.2
+2021,Asphodel-Norwood,Unemployment rate,Total (all ages),Men+,8.3
+2021,Asphodel-Norwood,Unemployment rate,Total (all ages),Women+,11.8
+2021,Asphodel-Norwood,Unemployment rate,15 to 24 years,Total (all genders),15.4
+2021,Asphodel-Norwood,Unemployment rate,15 to 24 years,Men+,19.2
+2021,Asphodel-Norwood,Unemployment rate,15 to 24 years,Women+,14.8
+2021,Asphodel-Norwood,Unemployment rate,25 to 34 years,Total (all genders),6.9
+2021,Asphodel-Norwood,Unemployment rate,25 to 34 years,Men+,6.4
+2021,Asphodel-Norwood,Unemployment rate,25 to 34 years,Women+,9.1
+2021,Asphodel-Norwood,Unemployment rate,35 to 44 years,Total (all genders),8.0
+2021,Asphodel-Norwood,Unemployment rate,35 to 44 years,Men+,8.2
+2021,Asphodel-Norwood,Unemployment rate,35 to 44 years,Women+,7.9
+2021,Asphodel-Norwood,Unemployment rate,45 to 54 years,Total (all genders),8.4
+2021,Asphodel-Norwood,Unemployment rate,45 to 54 years,Men+,9.5
+2021,Asphodel-Norwood,Unemployment rate,45 to 54 years,Women+,7.3
+2021,Asphodel-Norwood,Unemployment rate,55 to 64 years,Total (all genders),11.8
+2021,Asphodel-Norwood,Unemployment rate,55 to 64 years,Men+,8.9
+2021,Asphodel-Norwood,Unemployment rate,55 to 64 years,Women+,14.6
+2021,Asphodel-Norwood,Unemployment rate,65 years and over,Total (all genders),12.1
+2021,Asphodel-Norwood,Unemployment rate,65 years and over,Men+,9.1
+2021,Asphodel-Norwood,Unemployment rate,65 years and over,Women+,18.2
+2021,Otonabee-South Monaghan,Participation rate,Total (all ages),Total (all genders),59.6
+2021,Otonabee-South Monaghan,Participation rate,Total (all ages),Men+,62.8
+2021,Otonabee-South Monaghan,Participation rate,Total (all ages),Women+,56.3
+2021,Otonabee-South Monaghan,Participation rate,15 to 24 years,Total (all genders),68.3
+2021,Otonabee-South Monaghan,Participation rate,15 to 24 years,Men+,72.1
+2021,Otonabee-South Monaghan,Participation rate,15 to 24 years,Women+,62.3
+2021,Otonabee-South Monaghan,Participation rate,25 to 34 years,Total (all genders),90.3
+2021,Otonabee-South Monaghan,Participation rate,25 to 34 years,Men+,94.1
+2021,Otonabee-South Monaghan,Participation rate,25 to 34 years,Women+,89.3
+2021,Otonabee-South Monaghan,Participation rate,35 to 44 years,Total (all genders),87.5
+2021,Otonabee-South Monaghan,Participation rate,35 to 44 years,Men+,89.9
+2021,Otonabee-South Monaghan,Participation rate,35 to 44 years,Women+,85.2
+2021,Otonabee-South Monaghan,Participation rate,45 to 54 years,Total (all genders),84.3
+2021,Otonabee-South Monaghan,Participation rate,45 to 54 years,Men+,86.9
+2021,Otonabee-South Monaghan,Participation rate,45 to 54 years,Women+,78.6
+2021,Otonabee-South Monaghan,Participation rate,55 to 64 years,Total (all genders),61.9
+2021,Otonabee-South Monaghan,Participation rate,55 to 64 years,Men+,63.8
+2021,Otonabee-South Monaghan,Participation rate,55 to 64 years,Women+,60.4
+2021,Otonabee-South Monaghan,Participation rate,65 years and over,Total (all genders),16.3
+2021,Otonabee-South Monaghan,Participation rate,65 years and over,Men+,21.6
+2021,Otonabee-South Monaghan,Participation rate,65 years and over,Women+,11.6
+2021,Otonabee-South Monaghan,Employment rate,Total (all ages),Total (all genders),54.1
+2021,Otonabee-South Monaghan,Employment rate,Total (all ages),Men+,57.6
+2021,Otonabee-South Monaghan,Employment rate,Total (all ages),Women+,50.4
+2021,Otonabee-South Monaghan,Employment rate,15 to 24 years,Total (all genders),50.0
+2021,Otonabee-South Monaghan,Employment rate,15 to 24 years,Men+,57.4
+2021,Otonabee-South Monaghan,Employment rate,15 to 24 years,Women+,39.6
+2021,Otonabee-South Monaghan,Employment rate,25 to 34 years,Total (all genders),83.3
+2021,Otonabee-South Monaghan,Employment rate,25 to 34 years,Men+,86.8
+2021,Otonabee-South Monaghan,Employment rate,25 to 34 years,Women+,81.3
+2021,Otonabee-South Monaghan,Employment rate,35 to 44 years,Total (all genders),83.1
+2021,Otonabee-South Monaghan,Employment rate,35 to 44 years,Men+,86.1
+2021,Otonabee-South Monaghan,Employment rate,35 to 44 years,Women+,81.5
+2021,Otonabee-South Monaghan,Employment rate,45 to 54 years,Total (all genders),77.8
+2021,Otonabee-South Monaghan,Employment rate,45 to 54 years,Men+,83.3
+2021,Otonabee-South Monaghan,Employment rate,45 to 54 years,Women+,71.4
+2021,Otonabee-South Monaghan,Employment rate,55 to 64 years,Total (all genders),57.0
+2021,Otonabee-South Monaghan,Employment rate,55 to 64 years,Men+,58.5
+2021,Otonabee-South Monaghan,Employment rate,55 to 64 years,Women+,56.0
+2021,Otonabee-South Monaghan,Employment rate,65 years and over,Total (all genders),15.4
+2021,Otonabee-South Monaghan,Employment rate,65 years and over,Men+,19.2
+2021,Otonabee-South Monaghan,Employment rate,65 years and over,Women+,11.6
+2021,Otonabee-South Monaghan,Unemployment rate,Total (all ages),Total (all genders),9.3
+2021,Otonabee-South Monaghan,Unemployment rate,Total (all ages),Men+,8.0
+2021,Otonabee-South Monaghan,Unemployment rate,Total (all ages),Women+,10.5
+2021,Otonabee-South Monaghan,Unemployment rate,15 to 24 years,Total (all genders),28.0
+2021,Otonabee-South Monaghan,Unemployment rate,15 to 24 years,Men+,18.4
+2021,Otonabee-South Monaghan,Unemployment rate,15 to 24 years,Women+,39.4
+2021,Otonabee-South Monaghan,Unemployment rate,25 to 34 years,Total (all genders),7.7
+2021,Otonabee-South Monaghan,Unemployment rate,25 to 34 years,Men+,7.8
+2021,Otonabee-South Monaghan,Unemployment rate,25 to 34 years,Women+,7.5
+2021,Otonabee-South Monaghan,Unemployment rate,35 to 44 years,Total (all genders),4.3
+2021,Otonabee-South Monaghan,Unemployment rate,35 to 44 years,Men+,2.8
+2021,Otonabee-South Monaghan,Unemployment rate,35 to 44 years,Women+,5.8
+2021,Otonabee-South Monaghan,Unemployment rate,45 to 54 years,Total (all genders),7.0
+2021,Otonabee-South Monaghan,Unemployment rate,45 to 54 years,Men+,5.5
+2021,Otonabee-South Monaghan,Unemployment rate,45 to 54 years,Women+,9.1
+2021,Otonabee-South Monaghan,Unemployment rate,55 to 64 years,Total (all genders),7.9
+2021,Otonabee-South Monaghan,Unemployment rate,55 to 64 years,Men+,8.4
+2021,Otonabee-South Monaghan,Unemployment rate,55 to 64 years,Women+,8.6
+2021,Otonabee-South Monaghan,Unemployment rate,65 years and over,Total (all genders),5.6
+2021,Otonabee-South Monaghan,Unemployment rate,65 years and over,Men+,8.3
+2021,Otonabee-South Monaghan,Unemployment rate,65 years and over,Women+,0.0
+2021,Hiawatha First Nation,Participation rate,Total (all ages),Total (all genders),52.5
+2021,Hiawatha First Nation,Participation rate,Total (all ages),Men+,48.1
+2021,Hiawatha First Nation,Participation rate,Total (all ages),Women+,57.6
+2021,Hiawatha First Nation,Participation rate,15 to 24 years,Total (all genders),66.7
+2021,Hiawatha First Nation,Participation rate,15 to 24 years,Men+,66.7
+2021,Hiawatha First Nation,Participation rate,15 to 24 years,Women+,66.7
+2021,Hiawatha First Nation,Participation rate,25 to 34 years,Total (all genders),83.3
+2021,Hiawatha First Nation,Participation rate,25 to 34 years,Men+,100.0
+2021,Hiawatha First Nation,Participation rate,25 to 34 years,Women+,66.7
+2021,Hiawatha First Nation,Participation rate,35 to 44 years,Total (all genders),87.5
+2021,Hiawatha First Nation,Participation rate,35 to 44 years,Men+,75.0
+2021,Hiawatha First Nation,Participation rate,35 to 44 years,Women+,80.0
+2021,Hiawatha First Nation,Participation rate,45 to 54 years,Total (all genders),87.5
+2021,Hiawatha First Nation,Participation rate,45 to 54 years,Men+,100.0
+2021,Hiawatha First Nation,Participation rate,45 to 54 years,Women+,80.0
+2021,Hiawatha First Nation,Participation rate,55 to 64 years,Total (all genders),69.2
+2021,Hiawatha First Nation,Participation rate,55 to 64 years,Men+,80.0
+2021,Hiawatha First Nation,Participation rate,55 to 64 years,Women+,75.0
+2021,Hiawatha First Nation,Participation rate,65 years and over,Total (all genders),10.5
+2021,Hiawatha First Nation,Participation rate,65 years and over,Men+,0.0
+2021,Hiawatha First Nation,Participation rate,65 years and over,Women+,20.0
+2021,Hiawatha First Nation,Employment rate,Total (all ages),Total (all genders),44.3
+2021,Hiawatha First Nation,Employment rate,Total (all ages),Men+,44.4
+2021,Hiawatha First Nation,Employment rate,Total (all ages),Women+,48.5
+2021,Hiawatha First Nation,Employment rate,15 to 24 years,Total (all genders),50.0
+2021,Hiawatha First Nation,Employment rate,15 to 24 years,Men+,66.7
+2021,Hiawatha First Nation,Employment rate,15 to 24 years,Women+,66.7
+2021,Hiawatha First Nation,Employment rate,25 to 34 years,Total (all genders),66.7
+2021,Hiawatha First Nation,Employment rate,25 to 34 years,Men+,100.0
+2021,Hiawatha First Nation,Employment rate,25 to 34 years,Women+,66.7
+2021,Hiawatha First Nation,Employment rate,35 to 44 years,Total (all genders),75.0
+2021,Hiawatha First Nation,Employment rate,35 to 44 years,Men+,75.0
+2021,Hiawatha First Nation,Employment rate,35 to 44 years,Women+,80.0
+2021,Hiawatha First Nation,Employment rate,45 to 54 years,Total (all genders),62.5
+2021,Hiawatha First Nation,Employment rate,45 to 54 years,Men+,100.0
+2021,Hiawatha First Nation,Employment rate,45 to 54 years,Women+,40.0
+2021,Hiawatha First Nation,Employment rate,55 to 64 years,Total (all genders),53.8
+2021,Hiawatha First Nation,Employment rate,55 to 64 years,Men+,40.0
+2021,Hiawatha First Nation,Employment rate,55 to 64 years,Women+,50.0
+2021,Hiawatha First Nation,Employment rate,65 years and over,Total (all genders),10.5
+2021,Hiawatha First Nation,Employment rate,65 years and over,Men+,0.0
+2021,Hiawatha First Nation,Employment rate,65 years and over,Women+,20.0
+2021,Hiawatha First Nation,Unemployment rate,Total (all ages),Total (all genders),15.6
+2021,Hiawatha First Nation,Unemployment rate,Total (all ages),Men+,15.4
+2021,Hiawatha First Nation,Unemployment rate,Total (all ages),Women+,10.5
+2021,Hiawatha First Nation,Unemployment rate,15 to 24 years,Total (all genders),0.0
+2021,Hiawatha First Nation,Unemployment rate,15 to 24 years,Men+,0.0
+2021,Hiawatha First Nation,Unemployment rate,15 to 24 years,Women+,0.0
+2021,Hiawatha First Nation,Unemployment rate,25 to 34 years,Total (all genders),0.0
+2021,Hiawatha First Nation,Unemployment rate,25 to 34 years,Men+,0.0
+2021,Hiawatha First Nation,Unemployment rate,25 to 34 years,Women+,0.0
+2021,Hiawatha First Nation,Unemployment rate,35 to 44 years,Total (all genders),28.6
+2021,Hiawatha First Nation,Unemployment rate,35 to 44 years,Men+,0.0
+2021,Hiawatha First Nation,Unemployment rate,35 to 44 years,Women+,0.0
+2021,Hiawatha First Nation,Unemployment rate,45 to 54 years,Total (all genders),28.6
+2021,Hiawatha First Nation,Unemployment rate,45 to 54 years,Men+,66.7
+2021,Hiawatha First Nation,Unemployment rate,45 to 54 years,Women+,50.0
+2021,Hiawatha First Nation,Unemployment rate,55 to 64 years,Total (all genders),22.2
+2021,Hiawatha First Nation,Unemployment rate,55 to 64 years,Men+,50.0
+2021,Hiawatha First Nation,Unemployment rate,55 to 64 years,Women+,0.0
+2021,Hiawatha First Nation,Unemployment rate,65 years and over,Total (all genders),0.0
+2021,Hiawatha First Nation,Unemployment rate,65 years and over,Men+,0.0
+2021,Hiawatha First Nation,Unemployment rate,65 years and over,Women+,0.0
+2021,Cavan Monaghan,Participation rate,Total (all ages),Total (all genders),64.2
+2021,Cavan Monaghan,Participation rate,Total (all ages),Men+,68.2
+2021,Cavan Monaghan,Participation rate,Total (all ages),Women+,60.1
+2021,Cavan Monaghan,Participation rate,15 to 24 years,Total (all genders),62.9
+2021,Cavan Monaghan,Participation rate,15 to 24 years,Men+,60.8
+2021,Cavan Monaghan,Participation rate,15 to 24 years,Women+,65.5
+2021,Cavan Monaghan,Participation rate,25 to 34 years,Total (all genders),86.4
+2021,Cavan Monaghan,Participation rate,25 to 34 years,Men+,91.7
+2021,Cavan Monaghan,Participation rate,25 to 34 years,Women+,81.4
+2021,Cavan Monaghan,Participation rate,35 to 44 years,Total (all genders),88.6
+2021,Cavan Monaghan,Participation rate,35 to 44 years,Men+,96.5
+2021,Cavan Monaghan,Participation rate,35 to 44 years,Women+,81.3
+2021,Cavan Monaghan,Participation rate,45 to 54 years,Total (all genders),90.1
+2021,Cavan Monaghan,Participation rate,45 to 54 years,Men+,94.3
+2021,Cavan Monaghan,Participation rate,45 to 54 years,Women+,85.0
+2021,Cavan Monaghan,Participation rate,55 to 64 years,Total (all genders),67.1
+2021,Cavan Monaghan,Participation rate,55 to 64 years,Men+,70.9
+2021,Cavan Monaghan,Participation rate,55 to 64 years,Women+,62.9
+2021,Cavan Monaghan,Participation rate,65 years and over,Total (all genders),17.5
+2021,Cavan Monaghan,Participation rate,65 years and over,Men+,21.3
+2021,Cavan Monaghan,Participation rate,65 years and over,Women+,14.4
+2021,Cavan Monaghan,Employment rate,Total (all ages),Total (all genders),58.3
+2021,Cavan Monaghan,Employment rate,Total (all ages),Men+,62.3
+2021,Cavan Monaghan,Employment rate,Total (all ages),Women+,54.4
+2021,Cavan Monaghan,Employment rate,15 to 24 years,Total (all genders),49.5
+2021,Cavan Monaghan,Employment rate,15 to 24 years,Men+,47.1
+2021,Cavan Monaghan,Employment rate,15 to 24 years,Women+,51.2
+2021,Cavan Monaghan,Employment rate,25 to 34 years,Total (all genders),75.0
+2021,Cavan Monaghan,Employment rate,25 to 34 years,Men+,78.7
+2021,Cavan Monaghan,Employment rate,25 to 34 years,Women+,71.7
+2021,Cavan Monaghan,Employment rate,35 to 44 years,Total (all genders),85.2
+2021,Cavan Monaghan,Employment rate,35 to 44 years,Men+,93.8
+2021,Cavan Monaghan,Employment rate,35 to 44 years,Women+,77.2
+2021,Cavan Monaghan,Employment rate,45 to 54 years,Total (all genders),85.5
+2021,Cavan Monaghan,Employment rate,45 to 54 years,Men+,90.2
+2021,Cavan Monaghan,Employment rate,45 to 54 years,Women+,80.0
+2021,Cavan Monaghan,Employment rate,55 to 64 years,Total (all genders),62.0
+2021,Cavan Monaghan,Employment rate,55 to 64 years,Men+,66.7
+2021,Cavan Monaghan,Employment rate,55 to 64 years,Women+,57.1
+2021,Cavan Monaghan,Employment rate,65 years and over,Total (all genders),15.9
+2021,Cavan Monaghan,Employment rate,65 years and over,Men+,19.7
+2021,Cavan Monaghan,Employment rate,65 years and over,Women+,12.9
+2021,Cavan Monaghan,Unemployment rate,Total (all ages),Total (all genders),9.2
+2021,Cavan Monaghan,Unemployment rate,Total (all ages),Men+,8.9
+2021,Cavan Monaghan,Unemployment rate,Total (all ages),Women+,9.5
+2021,Cavan Monaghan,Unemployment rate,15 to 24 years,Total (all genders),21.4
+2021,Cavan Monaghan,Unemployment rate,15 to 24 years,Men+,22.6
+2021,Cavan Monaghan,Unemployment rate,15 to 24 years,Women+,20.0
+2021,Cavan Monaghan,Unemployment rate,25 to 34 years,Total (all genders),13.2
+2021,Cavan Monaghan,Unemployment rate,25 to 34 years,Men+,14.1
+2021,Cavan Monaghan,Unemployment rate,25 to 34 years,Women+,12.0
+2021,Cavan Monaghan,Unemployment rate,35 to 44 years,Total (all genders),3.8
+2021,Cavan Monaghan,Unemployment rate,35 to 44 years,Men+,2.8
+2021,Cavan Monaghan,Unemployment rate,35 to 44 years,Women+,5.0
+2021,Cavan Monaghan,Unemployment rate,45 to 54 years,Total (all genders),5.5
+2021,Cavan Monaghan,Unemployment rate,45 to 54 years,Men+,4.3
+2021,Cavan Monaghan,Unemployment rate,45 to 54 years,Women+,6.9
+2021,Cavan Monaghan,Unemployment rate,55 to 64 years,Total (all genders),8.0
+2021,Cavan Monaghan,Unemployment rate,55 to 64 years,Men+,6.8
+2021,Cavan Monaghan,Unemployment rate,55 to 64 years,Women+,8.4
+2021,Cavan Monaghan,Unemployment rate,65 years and over,Total (all genders),10.6
+2021,Cavan Monaghan,Unemployment rate,65 years and over,Men+,7.7
+2021,Cavan Monaghan,Unemployment rate,65 years and over,Women+,10.7
+2021,Peterborough (City),Participation rate,Total (all ages),Total (all genders),57.2
+2021,Peterborough (City),Participation rate,Total (all ages),Men+,60.6
+2021,Peterborough (City),Participation rate,Total (all ages),Women+,54.3
+2021,Peterborough (City),Participation rate,15 to 24 years,Total (all genders),64.9
+2021,Peterborough (City),Participation rate,15 to 24 years,Men+,64.0
+2021,Peterborough (City),Participation rate,15 to 24 years,Women+,65.9
+2021,Peterborough (City),Participation rate,25 to 34 years,Total (all genders),82.2
+2021,Peterborough (City),Participation rate,25 to 34 years,Men+,85.2
+2021,Peterborough (City),Participation rate,25 to 34 years,Women+,79.1
+2021,Peterborough (City),Participation rate,35 to 44 years,Total (all genders),82.2
+2021,Peterborough (City),Participation rate,35 to 44 years,Men+,85.4
+2021,Peterborough (City),Participation rate,35 to 44 years,Women+,79.5
+2021,Peterborough (City),Participation rate,45 to 54 years,Total (all genders),80.9
+2021,Peterborough (City),Participation rate,45 to 54 years,Men+,82.2
+2021,Peterborough (City),Participation rate,45 to 54 years,Women+,79.7
+2021,Peterborough (City),Participation rate,55 to 64 years,Total (all genders),60.3
+2021,Peterborough (City),Participation rate,55 to 64 years,Men+,61.9
+2021,Peterborough (City),Participation rate,55 to 64 years,Women+,59.1
+2021,Peterborough (City),Participation rate,65 years and over,Total (all genders),11.6
+2021,Peterborough (City),Participation rate,65 years and over,Men+,14.8
+2021,Peterborough (City),Participation rate,65 years and over,Women+,9.2
+2021,Peterborough (City),Employment rate,Total (all ages),Total (all genders),48.8
+2021,Peterborough (City),Employment rate,Total (all ages),Men+,52.1
+2021,Peterborough (City),Employment rate,Total (all ages),Women+,45.9
+2021,Peterborough (City),Employment rate,15 to 24 years,Total (all genders),48.4
+2021,Peterborough (City),Employment rate,15 to 24 years,Men+,48.6
+2021,Peterborough (City),Employment rate,15 to 24 years,Women+,48.3
+2021,Peterborough (City),Employment rate,25 to 34 years,Total (all genders),69.0
+2021,Peterborough (City),Employment rate,25 to 34 years,Men+,71.9
+2021,Peterborough (City),Employment rate,25 to 34 years,Women+,66.2
+2021,Peterborough (City),Employment rate,35 to 44 years,Total (all genders),73.1
+2021,Peterborough (City),Employment rate,35 to 44 years,Men+,76.4
+2021,Peterborough (City),Employment rate,35 to 44 years,Women+,70.1
+2021,Peterborough (City),Employment rate,45 to 54 years,Total (all genders),72.5
+2021,Peterborough (City),Employment rate,45 to 54 years,Men+,75.1
+2021,Peterborough (City),Employment rate,45 to 54 years,Women+,70.4
+2021,Peterborough (City),Employment rate,55 to 64 years,Total (all genders),53.5
+2021,Peterborough (City),Employment rate,55 to 64 years,Men+,55.4
+2021,Peterborough (City),Employment rate,55 to 64 years,Women+,52.0
+2021,Peterborough (City),Employment rate,65 years and over,Total (all genders),10.0
+2021,Peterborough (City),Employment rate,65 years and over,Men+,12.6
+2021,Peterborough (City),Employment rate,65 years and over,Women+,7.9
+2021,Peterborough (City),Unemployment rate,Total (all ages),Total (all genders),14.7
+2021,Peterborough (City),Unemployment rate,Total (all ages),Men+,14.0
+2021,Peterborough (City),Unemployment rate,Total (all ages),Women+,15.4
+2021,Peterborough (City),Unemployment rate,15 to 24 years,Total (all genders),25.3
+2021,Peterborough (City),Unemployment rate,15 to 24 years,Men+,24.0
+2021,Peterborough (City),Unemployment rate,15 to 24 years,Women+,26.7
+2021,Peterborough (City),Unemployment rate,25 to 34 years,Total (all genders),16.0
+2021,Peterborough (City),Unemployment rate,25 to 34 years,Men+,15.8
+2021,Peterborough (City),Unemployment rate,25 to 34 years,Women+,16.3
+2021,Peterborough (City),Unemployment rate,35 to 44 years,Total (all genders),11.1
+2021,Peterborough (City),Unemployment rate,35 to 44 years,Men+,10.3
+2021,Peterborough (City),Unemployment rate,35 to 44 years,Women+,11.8
+2021,Peterborough (City),Unemployment rate,45 to 54 years,Total (all genders),10.3
+2021,Peterborough (City),Unemployment rate,45 to 54 years,Men+,8.6
+2021,Peterborough (City),Unemployment rate,45 to 54 years,Women+,12.0
+2021,Peterborough (City),Unemployment rate,55 to 64 years,Total (all genders),11.3
+2021,Peterborough (City),Unemployment rate,55 to 64 years,Men+,10.6
+2021,Peterborough (City),Unemployment rate,55 to 64 years,Women+,12.0
+2021,Peterborough (City),Unemployment rate,65 years and over,Total (all genders),14.1
+2021,Peterborough (City),Unemployment rate,65 years and over,Men+,15.0
+2021,Peterborough (City),Unemployment rate,65 years and over,Women+,13.5
+2021,Selwyn,Participation rate,Total (all ages),Total (all genders),56.7
+2021,Selwyn,Participation rate,Total (all ages),Men+,59.7
+2021,Selwyn,Participation rate,Total (all ages),Women+,53.8
+2021,Selwyn,Participation rate,15 to 24 years,Total (all genders),65.6
+2021,Selwyn,Participation rate,15 to 24 years,Men+,65.4
+2021,Selwyn,Participation rate,15 to 24 years,Women+,66.1
+2021,Selwyn,Participation rate,25 to 34 years,Total (all genders),88.6
+2021,Selwyn,Participation rate,25 to 34 years,Men+,91.4
+2021,Selwyn,Participation rate,25 to 34 years,Women+,86.1
+2021,Selwyn,Participation rate,35 to 44 years,Total (all genders),90.1
+2021,Selwyn,Participation rate,35 to 44 years,Men+,94.1
+2021,Selwyn,Participation rate,35 to 44 years,Women+,85.3
+2021,Selwyn,Participation rate,45 to 54 years,Total (all genders),89.9
+2021,Selwyn,Participation rate,45 to 54 years,Men+,91.4
+2021,Selwyn,Participation rate,45 to 54 years,Women+,88.2
+2021,Selwyn,Participation rate,55 to 64 years,Total (all genders),60.3
+2021,Selwyn,Participation rate,55 to 64 years,Men+,64.1
+2021,Selwyn,Participation rate,55 to 64 years,Women+,57.1
+2021,Selwyn,Participation rate,65 years and over,Total (all genders),15.8
+2021,Selwyn,Participation rate,65 years and over,Men+,19.8
+2021,Selwyn,Participation rate,65 years and over,Women+,11.8
+2021,Selwyn,Employment rate,Total (all ages),Total (all genders),50.8
+2021,Selwyn,Employment rate,Total (all ages),Men+,53.8
+2021,Selwyn,Employment rate,Total (all ages),Women+,47.9
+2021,Selwyn,Employment rate,15 to 24 years,Total (all genders),52.5
+2021,Selwyn,Employment rate,15 to 24 years,Men+,55.1
+2021,Selwyn,Employment rate,15 to 24 years,Women+,51.1
+2021,Selwyn,Employment rate,25 to 34 years,Total (all genders),75.3
+2021,Selwyn,Employment rate,25 to 34 years,Men+,77.0
+2021,Selwyn,Employment rate,25 to 34 years,Women+,73.3
+2021,Selwyn,Employment rate,35 to 44 years,Total (all genders),83.5
+2021,Selwyn,Employment rate,35 to 44 years,Men+,89.2
+2021,Selwyn,Employment rate,35 to 44 years,Women+,77.5
+2021,Selwyn,Employment rate,45 to 54 years,Total (all genders),83.8
+2021,Selwyn,Employment rate,45 to 54 years,Men+,86.2
+2021,Selwyn,Employment rate,45 to 54 years,Women+,81.4
+2021,Selwyn,Employment rate,55 to 64 years,Total (all genders),55.1
+2021,Selwyn,Employment rate,55 to 64 years,Men+,58.6
+2021,Selwyn,Employment rate,55 to 64 years,Women+,52.0
+2021,Selwyn,Employment rate,65 years and over,Total (all genders),14.3
+2021,Selwyn,Employment rate,65 years and over,Men+,17.3
+2021,Selwyn,Employment rate,65 years and over,Women+,11.2
+2021,Selwyn,Unemployment rate,Total (all ages),Total (all genders),10.6
+2021,Selwyn,Unemployment rate,Total (all ages),Men+,9.9
+2021,Selwyn,Unemployment rate,Total (all ages),Women+,11.2
+2021,Selwyn,Unemployment rate,15 to 24 years,Total (all genders),19.9
+2021,Selwyn,Unemployment rate,15 to 24 years,Men+,16.7
+2021,Selwyn,Unemployment rate,15 to 24 years,Women+,23.5
+2021,Selwyn,Unemployment rate,25 to 34 years,Total (all genders),14.7
+2021,Selwyn,Unemployment rate,25 to 34 years,Men+,15.2
+2021,Selwyn,Unemployment rate,25 to 34 years,Women+,14.1
+2021,Selwyn,Unemployment rate,35 to 44 years,Total (all genders),7.0
+2021,Selwyn,Unemployment rate,35 to 44 years,Men+,5.2
+2021,Selwyn,Unemployment rate,35 to 44 years,Women+,9.2
+2021,Selwyn,Unemployment rate,45 to 54 years,Total (all genders),6.5
+2021,Selwyn,Unemployment rate,45 to 54 years,Men+,6.3
+2021,Selwyn,Unemployment rate,45 to 54 years,Women+,7.2
+2021,Selwyn,Unemployment rate,55 to 64 years,Total (all genders),8.8
+2021,Selwyn,Unemployment rate,55 to 64 years,Men+,8.6
+2021,Selwyn,Unemployment rate,55 to 64 years,Women+,8.9
+2021,Selwyn,Unemployment rate,65 years and over,Total (all genders),9.8
+2021,Selwyn,Unemployment rate,65 years and over,Men+,11.8
+2021,Selwyn,Unemployment rate,65 years and over,Women+,4.9
+2021,Curve Lake First Nation,Participation rate,Total (all ages),Total (all genders),46.1
+2021,Curve Lake First Nation,Participation rate,Total (all ages),Men+,49.0
+2021,Curve Lake First Nation,Participation rate,Total (all ages),Women+,43.9
+2021,Curve Lake First Nation,Participation rate,15 to 24 years,Total (all genders),36.0
+2021,Curve Lake First Nation,Participation rate,15 to 24 years,Men+,41.7
+2021,Curve Lake First Nation,Participation rate,15 to 24 years,Women+,33.3
+2021,Curve Lake First Nation,Participation rate,25 to 34 years,Total (all genders),73.9
+2021,Curve Lake First Nation,Participation rate,25 to 34 years,Men+,90.9
+2021,Curve Lake First Nation,Participation rate,25 to 34 years,Women+,61.5
+2021,Curve Lake First Nation,Participation rate,35 to 44 years,Total (all genders),69.6
+2021,Curve Lake First Nation,Participation rate,35 to 44 years,Men+,66.7
+2021,Curve Lake First Nation,Participation rate,35 to 44 years,Women+,72.7
+2021,Curve Lake First Nation,Participation rate,45 to 54 years,Total (all genders),69.7
+2021,Curve Lake First Nation,Participation rate,45 to 54 years,Men+,64.3
+2021,Curve Lake First Nation,Participation rate,45 to 54 years,Women+,68.4
+2021,Curve Lake First Nation,Participation rate,55 to 64 years,Total (all genders),50.0
+2021,Curve Lake First Nation,Participation rate,55 to 64 years,Men+,54.2
+2021,Curve Lake First Nation,Participation rate,55 to 64 years,Women+,47.8
+2021,Curve Lake First Nation,Participation rate,65 years and over,Total (all genders),9.3
+2021,Curve Lake First Nation,Participation rate,65 years and over,Men+,12.5
+2021,Curve Lake First Nation,Participation rate,65 years and over,Women+,6.9
+2021,Curve Lake First Nation,Employment rate,Total (all ages),Total (all genders),36.9
+2021,Curve Lake First Nation,Employment rate,Total (all ages),Men+,37.8
+2021,Curve Lake First Nation,Employment rate,Total (all ages),Women+,35.5
+2021,Curve Lake First Nation,Employment rate,15 to 24 years,Total (all genders),24.0
+2021,Curve Lake First Nation,Employment rate,15 to 24 years,Men+,25.0
+2021,Curve Lake First Nation,Employment rate,15 to 24 years,Women+,25.0
+2021,Curve Lake First Nation,Employment rate,25 to 34 years,Total (all genders),60.9
+2021,Curve Lake First Nation,Employment rate,25 to 34 years,Men+,63.6
+2021,Curve Lake First Nation,Employment rate,25 to 34 years,Women+,46.2
+2021,Curve Lake First Nation,Employment rate,35 to 44 years,Total (all genders),56.5
+2021,Curve Lake First Nation,Employment rate,35 to 44 years,Men+,50.0
+2021,Curve Lake First Nation,Employment rate,35 to 44 years,Women+,54.5
+2021,Curve Lake First Nation,Employment rate,45 to 54 years,Total (all genders),51.5
+2021,Curve Lake First Nation,Employment rate,45 to 54 years,Men+,42.9
+2021,Curve Lake First Nation,Employment rate,45 to 54 years,Women+,52.6
+2021,Curve Lake First Nation,Employment rate,55 to 64 years,Total (all genders),43.8
+2021,Curve Lake First Nation,Employment rate,55 to 64 years,Men+,45.8
+2021,Curve Lake First Nation,Employment rate,55 to 64 years,Women+,43.5
+2021,Curve Lake First Nation,Employment rate,65 years and over,Total (all genders),7.4
+2021,Curve Lake First Nation,Employment rate,65 years and over,Men+,12.5
+2021,Curve Lake First Nation,Employment rate,65 years and over,Women+,0.0
+2021,Curve Lake First Nation,Unemployment rate,Total (all ages),Total (all genders),21.1
+2021,Curve Lake First Nation,Unemployment rate,Total (all ages),Men+,20.8
+2021,Curve Lake First Nation,Unemployment rate,Total (all ages),Women+,19.1
+2021,Curve Lake First Nation,Unemployment rate,15 to 24 years,Total (all genders),33.3
+2021,Curve Lake First Nation,Unemployment rate,15 to 24 years,Men+,40.0
+2021,Curve Lake First Nation,Unemployment rate,15 to 24 years,Women+,0.0
+2021,Curve Lake First Nation,Unemployment rate,25 to 34 years,Total (all genders),23.5
+2021,Curve Lake First Nation,Unemployment rate,25 to 34 years,Men+,20.0
+2021,Curve Lake First Nation,Unemployment rate,25 to 34 years,Women+,0.0
+2021,Curve Lake First Nation,Unemployment rate,35 to 44 years,Total (all genders),18.8
+2021,Curve Lake First Nation,Unemployment rate,35 to 44 years,Men+,25.0
+2021,Curve Lake First Nation,Unemployment rate,35 to 44 years,Women+,25.0
+2021,Curve Lake First Nation,Unemployment rate,45 to 54 years,Total (all genders),26.1
+2021,Curve Lake First Nation,Unemployment rate,45 to 54 years,Men+,33.3
+2021,Curve Lake First Nation,Unemployment rate,45 to 54 years,Women+,23.1
+2021,Curve Lake First Nation,Unemployment rate,55 to 64 years,Total (all genders),16.7
+2021,Curve Lake First Nation,Unemployment rate,55 to 64 years,Men+,15.4
+2021,Curve Lake First Nation,Unemployment rate,55 to 64 years,Women+,18.2
+2021,Curve Lake First Nation,Unemployment rate,65 years and over,Total (all genders),0.0
+2021,Curve Lake First Nation,Unemployment rate,65 years and over,Men+,0.0
+2021,Curve Lake First Nation,Unemployment rate,65 years and over,Women+,100.0
+2021,Douro-Dummer,Participation rate,Total (all ages),Total (all genders),60.0
+2021,Douro-Dummer,Participation rate,Total (all ages),Men+,61.2
+2021,Douro-Dummer,Participation rate,Total (all ages),Women+,58.8
+2021,Douro-Dummer,Participation rate,15 to 24 years,Total (all genders),65.6
+2021,Douro-Dummer,Participation rate,15 to 24 years,Men+,58.3
+2021,Douro-Dummer,Participation rate,15 to 24 years,Women+,70.7
+2021,Douro-Dummer,Participation rate,25 to 34 years,Total (all genders),85.7
+2021,Douro-Dummer,Participation rate,25 to 34 years,Men+,87.0
+2021,Douro-Dummer,Participation rate,25 to 34 years,Women+,84.5
+2021,Douro-Dummer,Participation rate,35 to 44 years,Total (all genders),88.8
+2021,Douro-Dummer,Participation rate,35 to 44 years,Men+,91.1
+2021,Douro-Dummer,Participation rate,35 to 44 years,Women+,86.4
+2021,Douro-Dummer,Participation rate,45 to 54 years,Total (all genders),84.7
+2021,Douro-Dummer,Participation rate,45 to 54 years,Men+,91.9
+2021,Douro-Dummer,Participation rate,45 to 54 years,Women+,79.1
+2021,Douro-Dummer,Participation rate,55 to 64 years,Total (all genders),61.6
+2021,Douro-Dummer,Participation rate,55 to 64 years,Men+,65.9
+2021,Douro-Dummer,Participation rate,55 to 64 years,Women+,58.5
+2021,Douro-Dummer,Participation rate,65 years and over,Total (all genders),19.1
+2021,Douro-Dummer,Participation rate,65 years and over,Men+,22.5
+2021,Douro-Dummer,Participation rate,65 years and over,Women+,15.1
+2021,Douro-Dummer,Employment rate,Total (all ages),Total (all genders),54.7
+2021,Douro-Dummer,Employment rate,Total (all ages),Men+,57.5
+2021,Douro-Dummer,Employment rate,Total (all ages),Women+,51.9
+2021,Douro-Dummer,Employment rate,15 to 24 years,Total (all genders),51.3
+2021,Douro-Dummer,Employment rate,15 to 24 years,Men+,55.6
+2021,Douro-Dummer,Employment rate,15 to 24 years,Women+,47.6
+2021,Douro-Dummer,Employment rate,25 to 34 years,Total (all genders),79.3
+2021,Douro-Dummer,Employment rate,25 to 34 years,Men+,82.6
+2021,Douro-Dummer,Employment rate,25 to 34 years,Women+,76.1
+2021,Douro-Dummer,Employment rate,35 to 44 years,Total (all genders),82.7
+2021,Douro-Dummer,Employment rate,35 to 44 years,Men+,85.6
+2021,Douro-Dummer,Employment rate,35 to 44 years,Women+,80.7
+2021,Douro-Dummer,Employment rate,45 to 54 years,Total (all genders),79.7
+2021,Douro-Dummer,Employment rate,45 to 54 years,Men+,86.0
+2021,Douro-Dummer,Employment rate,45 to 54 years,Women+,73.6
+2021,Douro-Dummer,Employment rate,55 to 64 years,Total (all genders),56.6
+2021,Douro-Dummer,Employment rate,55 to 64 years,Men+,61.4
+2021,Douro-Dummer,Employment rate,55 to 64 years,Women+,53.1
+2021,Douro-Dummer,Employment rate,65 years and over,Total (all genders),17.4
+2021,Douro-Dummer,Employment rate,65 years and over,Men+,20.4
+2021,Douro-Dummer,Employment rate,65 years and over,Women+,13.8
+2021,Douro-Dummer,Unemployment rate,Total (all ages),Total (all genders),8.8
+2021,Douro-Dummer,Unemployment rate,Total (all ages),Men+,6.1
+2021,Douro-Dummer,Unemployment rate,Total (all ages),Women+,12.0
+2021,Douro-Dummer,Unemployment rate,15 to 24 years,Total (all genders),20.8
+2021,Douro-Dummer,Unemployment rate,15 to 24 years,Men+,4.8
+2021,Douro-Dummer,Unemployment rate,15 to 24 years,Women+,32.8
+2021,Douro-Dummer,Unemployment rate,25 to 34 years,Total (all genders),6.7
+2021,Douro-Dummer,Unemployment rate,25 to 34 years,Men+,5.0
+2021,Douro-Dummer,Unemployment rate,25 to 34 years,Women+,10.0
+2021,Douro-Dummer,Unemployment rate,35 to 44 years,Total (all genders),6.9
+2021,Douro-Dummer,Unemployment rate,35 to 44 years,Men+,6.1
+2021,Douro-Dummer,Unemployment rate,35 to 44 years,Women+,7.9
+2021,Douro-Dummer,Unemployment rate,45 to 54 years,Total (all genders),6.7
+2021,Douro-Dummer,Unemployment rate,45 to 54 years,Men+,5.1
+2021,Douro-Dummer,Unemployment rate,45 to 54 years,Women+,8.3
+2021,Douro-Dummer,Unemployment rate,55 to 64 years,Total (all genders),7.5
+2021,Douro-Dummer,Unemployment rate,55 to 64 years,Men+,6.9
+2021,Douro-Dummer,Unemployment rate,55 to 64 years,Women+,9.3
+2021,Douro-Dummer,Unemployment rate,65 years and over,Total (all genders),7.5
+2021,Douro-Dummer,Unemployment rate,65 years and over,Men+,9.3
+2021,Douro-Dummer,Unemployment rate,65 years and over,Women+,8.3
+2021,Havelock-Belmont-Methuen,Participation rate,Total (all ages),Total (all genders),49.7
+2021,Havelock-Belmont-Methuen,Participation rate,Total (all ages),Men+,53.3
+2021,Havelock-Belmont-Methuen,Participation rate,Total (all ages),Women+,45.7
+2021,Havelock-Belmont-Methuen,Participation rate,15 to 24 years,Total (all genders),66.7
+2021,Havelock-Belmont-Methuen,Participation rate,15 to 24 years,Men+,65.9
+2021,Havelock-Belmont-Methuen,Participation rate,15 to 24 years,Women+,65.9
+2021,Havelock-Belmont-Methuen,Participation rate,25 to 34 years,Total (all genders),83.9
+2021,Havelock-Belmont-Methuen,Participation rate,25 to 34 years,Men+,95.0
+2021,Havelock-Belmont-Methuen,Participation rate,25 to 34 years,Women+,76.6
+2021,Havelock-Belmont-Methuen,Participation rate,35 to 44 years,Total (all genders),85.7
+2021,Havelock-Belmont-Methuen,Participation rate,35 to 44 years,Men+,90.2
+2021,Havelock-Belmont-Methuen,Participation rate,35 to 44 years,Women+,81.4
+2021,Havelock-Belmont-Methuen,Participation rate,45 to 54 years,Total (all genders),78.9
+2021,Havelock-Belmont-Methuen,Participation rate,45 to 54 years,Men+,79.4
+2021,Havelock-Belmont-Methuen,Participation rate,45 to 54 years,Women+,79.7
+2021,Havelock-Belmont-Methuen,Participation rate,55 to 64 years,Total (all genders),53.2
+2021,Havelock-Belmont-Methuen,Participation rate,55 to 64 years,Men+,62.2
+2021,Havelock-Belmont-Methuen,Participation rate,55 to 64 years,Women+,43.9
+2021,Havelock-Belmont-Methuen,Participation rate,65 years and over,Total (all genders),13.4
+2021,Havelock-Belmont-Methuen,Participation rate,65 years and over,Men+,17.9
+2021,Havelock-Belmont-Methuen,Participation rate,65 years and over,Women+,8.5
+2021,Havelock-Belmont-Methuen,Employment rate,Total (all ages),Total (all genders),42.9
+2021,Havelock-Belmont-Methuen,Employment rate,Total (all ages),Men+,46.5
+2021,Havelock-Belmont-Methuen,Employment rate,Total (all ages),Women+,39.2
+2021,Havelock-Belmont-Methuen,Employment rate,15 to 24 years,Total (all genders),54.8
+2021,Havelock-Belmont-Methuen,Employment rate,15 to 24 years,Men+,58.5
+2021,Havelock-Belmont-Methuen,Employment rate,15 to 24 years,Women+,52.3
+2021,Havelock-Belmont-Methuen,Employment rate,25 to 34 years,Total (all genders),77.0
+2021,Havelock-Belmont-Methuen,Employment rate,25 to 34 years,Men+,85.0
+2021,Havelock-Belmont-Methuen,Employment rate,25 to 34 years,Women+,70.2
+2021,Havelock-Belmont-Methuen,Employment rate,35 to 44 years,Total (all genders),76.2
+2021,Havelock-Belmont-Methuen,Employment rate,35 to 44 years,Men+,82.9
+2021,Havelock-Belmont-Methuen,Employment rate,35 to 44 years,Women+,69.8
+2021,Havelock-Belmont-Methuen,Employment rate,45 to 54 years,Total (all genders),70.7
+2021,Havelock-Belmont-Methuen,Employment rate,45 to 54 years,Men+,68.3
+2021,Havelock-Belmont-Methuen,Employment rate,45 to 54 years,Women+,74.6
+2021,Havelock-Belmont-Methuen,Employment rate,55 to 64 years,Total (all genders),43.6
+2021,Havelock-Belmont-Methuen,Employment rate,55 to 64 years,Men+,54.4
+2021,Havelock-Belmont-Methuen,Employment rate,55 to 64 years,Women+,33.7
+2021,Havelock-Belmont-Methuen,Employment rate,65 years and over,Total (all genders),10.0
+2021,Havelock-Belmont-Methuen,Employment rate,65 years and over,Men+,13.1
+2021,Havelock-Belmont-Methuen,Employment rate,65 years and over,Women+,6.5
+2021,Havelock-Belmont-Methuen,Unemployment rate,Total (all ages),Total (all genders),13.6
+2021,Havelock-Belmont-Methuen,Unemployment rate,Total (all ages),Men+,13.1
+2021,Havelock-Belmont-Methuen,Unemployment rate,Total (all ages),Women+,14.3
+2021,Havelock-Belmont-Methuen,Unemployment rate,15 to 24 years,Total (all genders),17.9
+2021,Havelock-Belmont-Methuen,Unemployment rate,15 to 24 years,Men+,11.1
+2021,Havelock-Belmont-Methuen,Unemployment rate,15 to 24 years,Women+,20.7
+2021,Havelock-Belmont-Methuen,Unemployment rate,25 to 34 years,Total (all genders),8.2
+2021,Havelock-Belmont-Methuen,Unemployment rate,25 to 34 years,Men+,7.9
+2021,Havelock-Belmont-Methuen,Unemployment rate,25 to 34 years,Women+,5.6
+2021,Havelock-Belmont-Methuen,Unemployment rate,35 to 44 years,Total (all genders),9.7
+2021,Havelock-Belmont-Methuen,Unemployment rate,35 to 44 years,Men+,5.4
+2021,Havelock-Belmont-Methuen,Unemployment rate,35 to 44 years,Women+,17.1
+2021,Havelock-Belmont-Methuen,Unemployment rate,45 to 54 years,Total (all genders),9.3
+2021,Havelock-Belmont-Methuen,Unemployment rate,45 to 54 years,Men+,14.0
+2021,Havelock-Belmont-Methuen,Unemployment rate,45 to 54 years,Women+,4.3
+2021,Havelock-Belmont-Methuen,Unemployment rate,55 to 64 years,Total (all genders),17.0
+2021,Havelock-Belmont-Methuen,Unemployment rate,55 to 64 years,Men+,14.3
+2021,Havelock-Belmont-Methuen,Unemployment rate,55 to 64 years,Women+,20.9
+2021,Havelock-Belmont-Methuen,Unemployment rate,65 years and over,Total (all genders),25.6
+2021,Havelock-Belmont-Methuen,Unemployment rate,65 years and over,Men+,26.7
+2021,Havelock-Belmont-Methuen,Unemployment rate,65 years and over,Women+,23.1
+2021,North Kawartha,Participation rate,Total (all ages),Total (all genders),45.3
+2021,North Kawartha,Participation rate,Total (all ages),Men+,47.4
+2021,North Kawartha,Participation rate,Total (all ages),Women+,42.7
+2021,North Kawartha,Participation rate,15 to 24 years,Total (all genders),65.1
+2021,North Kawartha,Participation rate,15 to 24 years,Men+,81.8
+2021,North Kawartha,Participation rate,15 to 24 years,Women+,42.9
+2021,North Kawartha,Participation rate,25 to 34 years,Total (all genders),88.4
+2021,North Kawartha,Participation rate,25 to 34 years,Men+,86.4
+2021,North Kawartha,Participation rate,25 to 34 years,Women+,90.5
+2021,North Kawartha,Participation rate,35 to 44 years,Total (all genders),78.7
+2021,North Kawartha,Participation rate,35 to 44 years,Men+,82.6
+2021,North Kawartha,Participation rate,35 to 44 years,Women+,78.3
+2021,North Kawartha,Participation rate,45 to 54 years,Total (all genders),81.1
+2021,North Kawartha,Participation rate,45 to 54 years,Men+,76.9
+2021,North Kawartha,Participation rate,45 to 54 years,Women+,81.5
+2021,North Kawartha,Participation rate,55 to 64 years,Total (all genders),44.8
+2021,North Kawartha,Participation rate,55 to 64 years,Men+,47.4
+2021,North Kawartha,Participation rate,55 to 64 years,Women+,41.8
+2021,North Kawartha,Participation rate,65 years and over,Total (all genders),11.7
+2021,North Kawartha,Participation rate,65 years and over,Men+,15.2
+2021,North Kawartha,Participation rate,65 years and over,Women+,8.8
+2021,North Kawartha,Employment rate,Total (all ages),Total (all genders),39.2
+2021,North Kawartha,Employment rate,Total (all ages),Men+,40.7
+2021,North Kawartha,Employment rate,Total (all ages),Women+,37.2
+2021,North Kawartha,Employment rate,15 to 24 years,Total (all genders),53.5
+2021,North Kawartha,Employment rate,15 to 24 years,Men+,77.3
+2021,North Kawartha,Employment rate,15 to 24 years,Women+,33.3
+2021,North Kawartha,Employment rate,25 to 34 years,Total (all genders),79.1
+2021,North Kawartha,Employment rate,25 to 34 years,Men+,72.7
+2021,North Kawartha,Employment rate,25 to 34 years,Women+,85.7
+2021,North Kawartha,Employment rate,35 to 44 years,Total (all genders),76.6
+2021,North Kawartha,Employment rate,35 to 44 years,Men+,78.3
+2021,North Kawartha,Employment rate,35 to 44 years,Women+,73.9
+2021,North Kawartha,Employment rate,45 to 54 years,Total (all genders),69.8
+2021,North Kawartha,Employment rate,45 to 54 years,Men+,65.4
+2021,North Kawartha,Employment rate,45 to 54 years,Women+,74.1
+2021,North Kawartha,Employment rate,55 to 64 years,Total (all genders),36.4
+2021,North Kawartha,Employment rate,55 to 64 years,Men+,40.8
+2021,North Kawartha,Employment rate,55 to 64 years,Women+,32.8
+2021,North Kawartha,Employment rate,65 years and over,Total (all genders),10.1
+2021,North Kawartha,Employment rate,65 years and over,Men+,12.1
+2021,North Kawartha,Employment rate,65 years and over,Women+,7.5
+2021,North Kawartha,Unemployment rate,Total (all ages),Total (all genders),13.5
+2021,North Kawartha,Unemployment rate,Total (all ages),Men+,14.1
+2021,North Kawartha,Unemployment rate,Total (all ages),Women+,13.7
+2021,North Kawartha,Unemployment rate,15 to 24 years,Total (all genders),14.3
+2021,North Kawartha,Unemployment rate,15 to 24 years,Men+,11.1
+2021,North Kawartha,Unemployment rate,15 to 24 years,Women+,22.2
+2021,North Kawartha,Unemployment rate,25 to 34 years,Total (all genders),10.5
+2021,North Kawartha,Unemployment rate,25 to 34 years,Men+,10.5
+2021,North Kawartha,Unemployment rate,25 to 34 years,Women+,10.5
+2021,North Kawartha,Unemployment rate,35 to 44 years,Total (all genders),5.4
+2021,North Kawartha,Unemployment rate,35 to 44 years,Men+,0.0
+2021,North Kawartha,Unemployment rate,35 to 44 years,Women+,0.0
+2021,North Kawartha,Unemployment rate,45 to 54 years,Total (all genders),14.0
+2021,North Kawartha,Unemployment rate,45 to 54 years,Men+,25.0
+2021,North Kawartha,Unemployment rate,45 to 54 years,Women+,9.1
+2021,North Kawartha,Unemployment rate,55 to 64 years,Total (all genders),18.8
+2021,North Kawartha,Unemployment rate,55 to 64 years,Men+,16.7
+2021,North Kawartha,Unemployment rate,55 to 64 years,Women+,21.4
+2021,North Kawartha,Unemployment rate,65 years and over,Total (all genders),19.0
+2021,North Kawartha,Unemployment rate,65 years and over,Men+,20.0
+2021,North Kawartha,Unemployment rate,65 years and over,Women+,0.0
+2021,Trent Lakes,Participation rate,Total (all ages),Total (all genders),48.0
+2021,Trent Lakes,Participation rate,Total (all ages),Men+,50.1
+2021,Trent Lakes,Participation rate,Total (all ages),Women+,46.0
+2021,Trent Lakes,Participation rate,15 to 24 years,Total (all genders),54.3
+2021,Trent Lakes,Participation rate,15 to 24 years,Men+,59.3
+2021,Trent Lakes,Participation rate,15 to 24 years,Women+,46.2
+2021,Trent Lakes,Participation rate,25 to 34 years,Total (all genders),78.6
+2021,Trent Lakes,Participation rate,25 to 34 years,Men+,82.5
+2021,Trent Lakes,Participation rate,25 to 34 years,Women+,76.7
+2021,Trent Lakes,Participation rate,35 to 44 years,Total (all genders),79.2
+2021,Trent Lakes,Participation rate,35 to 44 years,Men+,80.8
+2021,Trent Lakes,Participation rate,35 to 44 years,Women+,74.0
+2021,Trent Lakes,Participation rate,45 to 54 years,Total (all genders),79.7
+2021,Trent Lakes,Participation rate,45 to 54 years,Men+,83.6
+2021,Trent Lakes,Participation rate,45 to 54 years,Women+,77.5
+2021,Trent Lakes,Participation rate,55 to 64 years,Total (all genders),55.9
+2021,Trent Lakes,Participation rate,55 to 64 years,Men+,52.5
+2021,Trent Lakes,Participation rate,55 to 64 years,Women+,59.6
+2021,Trent Lakes,Participation rate,65 years and over,Total (all genders),15.3
+2021,Trent Lakes,Participation rate,65 years and over,Men+,19.1
+2021,Trent Lakes,Participation rate,65 years and over,Women+,11.2
+2021,Trent Lakes,Employment rate,Total (all ages),Total (all genders),43.4
+2021,Trent Lakes,Employment rate,Total (all ages),Men+,45.3
+2021,Trent Lakes,Employment rate,Total (all ages),Women+,41.4
+2021,Trent Lakes,Employment rate,15 to 24 years,Total (all genders),46.7
+2021,Trent Lakes,Employment rate,15 to 24 years,Men+,51.9
+2021,Trent Lakes,Employment rate,15 to 24 years,Women+,35.9
+2021,Trent Lakes,Employment rate,25 to 34 years,Total (all genders),71.4
+2021,Trent Lakes,Employment rate,25 to 34 years,Men+,77.5
+2021,Trent Lakes,Employment rate,25 to 34 years,Women+,67.4
+2021,Trent Lakes,Employment rate,35 to 44 years,Total (all genders),69.3
+2021,Trent Lakes,Employment rate,35 to 44 years,Men+,75.0
+2021,Trent Lakes,Employment rate,35 to 44 years,Women+,62.0
+2021,Trent Lakes,Employment rate,45 to 54 years,Total (all genders),71.9
+2021,Trent Lakes,Employment rate,45 to 54 years,Men+,75.3
+2021,Trent Lakes,Employment rate,45 to 54 years,Women+,67.5
+2021,Trent Lakes,Employment rate,55 to 64 years,Total (all genders),52.6
+2021,Trent Lakes,Employment rate,55 to 64 years,Men+,50.0
+2021,Trent Lakes,Employment rate,55 to 64 years,Women+,56.2
+2021,Trent Lakes,Employment rate,65 years and over,Total (all genders),13.6
+2021,Trent Lakes,Employment rate,65 years and over,Men+,15.8
+2021,Trent Lakes,Employment rate,65 years and over,Women+,10.2
+2021,Trent Lakes,Unemployment rate,Total (all ages),Total (all genders),9.6
+2021,Trent Lakes,Unemployment rate,Total (all ages),Men+,9.2
+2021,Trent Lakes,Unemployment rate,Total (all ages),Women+,9.7
+2021,Trent Lakes,Unemployment rate,15 to 24 years,Total (all genders),14.0
+2021,Trent Lakes,Unemployment rate,15 to 24 years,Men+,12.5
+2021,Trent Lakes,Unemployment rate,15 to 24 years,Women+,22.2
+2021,Trent Lakes,Unemployment rate,25 to 34 years,Total (all genders),9.1
+2021,Trent Lakes,Unemployment rate,25 to 34 years,Men+,6.1
+2021,Trent Lakes,Unemployment rate,25 to 34 years,Women+,12.1
+2021,Trent Lakes,Unemployment rate,35 to 44 years,Total (all genders),12.5
+2021,Trent Lakes,Unemployment rate,35 to 44 years,Men+,9.5
+2021,Trent Lakes,Unemployment rate,35 to 44 years,Women+,16.2
+2021,Trent Lakes,Unemployment rate,45 to 54 years,Total (all genders),10.7
+2021,Trent Lakes,Unemployment rate,45 to 54 years,Men+,9.8
+2021,Trent Lakes,Unemployment rate,45 to 54 years,Women+,11.3
+2021,Trent Lakes,Unemployment rate,55 to 64 years,Total (all genders),6.4
+2021,Trent Lakes,Unemployment rate,55 to 64 years,Men+,6.0
+2021,Trent Lakes,Unemployment rate,55 to 64 years,Women+,5.7
+2021,Trent Lakes,Unemployment rate,65 years and over,Total (all genders),11.1
+2021,Trent Lakes,Unemployment rate,65 years and over,Men+,15.0
+2021,Trent Lakes,Unemployment rate,65 years and over,Women+,0.0

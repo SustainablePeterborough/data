@@ -1,1765 +1,937 @@
-Year,Geography,Persons in low income,GeoCode,Value
-2015,,,,14.5
-2016,,,,12.9
-2017,,,,11.9
-2018,,,,11.2
-2019,,,,10.3
-2020,,,,6.4
-2021,,,,7.4
-2015,Canada,Persons under 18 years,,16.3
-2015,Canada,Persons 18 to 64 years,,15.7
-2015,Canada,Persons 65 years and over,,7.1
-2015,Canada,Males,,14.1
-2015,Canada,"Males, under 18 years",,15.9
-2015,Canada,"Males, 18 to 64 years",,15.4
-2015,Canada,"Males, 65 years and over",,6.1
-2015,Canada,Females,,14.8
-2015,Canada,"Females, under 18 years",,16.6
-2015,Canada,"Females, 18 to 64 years",,16.0
-2015,Canada,"Females, 65 years and over",,8.0
-2015,Atlantic provinces,All persons,,15.7
-2015,Atlantic provinces,Persons under 18 years,,19.0
-2015,Atlantic provinces,Persons 18 to 64 years,,16.3
-2015,Atlantic provinces,Persons 65 years and over,,10.5
-2015,Atlantic provinces,Males,,15.0
-2015,Atlantic provinces,"Males, under 18 years",,18.7
-2015,Atlantic provinces,"Males, 18 to 64 years",,15.8
-2015,Atlantic provinces,"Males, 65 years and over",,8.2
-2015,Atlantic provinces,Females,,16.3
-2015,Atlantic provinces,"Females, under 18 years",,19.3
-2015,Atlantic provinces,"Females, 18 to 64 years",,16.7
-2015,Atlantic provinces,"Females, 65 years and over",,12.4
-2015,Newfoundland and Labrador,All persons,10.0,13.0
-2015,Newfoundland and Labrador,Persons under 18 years,10.0,15.2
-2015,Newfoundland and Labrador,Persons 18 to 64 years,10.0,13.7
-2015,Newfoundland and Labrador,Persons 65 years and over,10.0,8.8
-2015,Newfoundland and Labrador,Males,10.0,11.5
-2015,Newfoundland and Labrador,"Males, under 18 years",10.0,14.1
-2015,Newfoundland and Labrador,"Males, 18 to 64 years",10.0,12.1
-2015,Newfoundland and Labrador,"Males, 65 years and over",10.0,6.9
-2015,Newfoundland and Labrador,Females,10.0,14.5
-2015,Newfoundland and Labrador,"Females, under 18 years",10.0,16.5
-2015,Newfoundland and Labrador,"Females, 18 to 64 years",10.0,15.2
-2015,Newfoundland and Labrador,"Females, 65 years and over",10.0,10.4
-2015,Prince Edward Island,All persons,11.0,15.7
-2015,Prince Edward Island,Persons under 18 years,11.0,17.6
-2015,Prince Edward Island,Persons 18 to 64 years,11.0,15.8
-2015,Prince Edward Island,Persons 65 years and over,11.0,13.2
-2015,Prince Edward Island,Males,11.0,15.0
-2015,Prince Edward Island,"Males, under 18 years",11.0,16.8
-2015,Prince Edward Island,"Males, 18 to 64 years",11.0,16.1
-2015,Prince Edward Island,"Males, 65 years and over",11.0,9.3
-2015,Prince Edward Island,Females,11.0,16.3
-2015,Prince Edward Island,"Females, under 18 years",11.0,18.3
-2015,Prince Edward Island,"Females, 18 to 64 years",11.0,15.6
-2015,Prince Edward Island,"Females, 65 years and over",11.0,16.6
-2015,Nova Scotia,All persons,12.0,16.8
-2015,Nova Scotia,Persons under 18 years,12.0,20.6
-2015,Nova Scotia,Persons 18 to 64 years,12.0,17.6
-2015,Nova Scotia,Persons 65 years and over,12.0,10.4
-2015,Nova Scotia,Males,12.0,16.2
-2015,Nova Scotia,"Males, under 18 years",12.0,19.3
-2015,Nova Scotia,"Males, 18 to 64 years",12.0,17.5
-2015,Nova Scotia,"Males, 65 years and over",12.0,8.2
-2015,Nova Scotia,Females,12.0,17.3
-2015,Nova Scotia,"Females, under 18 years",12.0,22.0
-2015,Nova Scotia,"Females, 18 to 64 years",12.0,17.7
-2015,Nova Scotia,"Females, 65 years and over",12.0,12.2
-2015,New Brunswick,All persons,13.0,16.2
-2015,New Brunswick,Persons under 18 years,13.0,19.9
-2015,New Brunswick,Persons 18 to 64 years,13.0,16.6
-2015,New Brunswick,Persons 65 years and over,13.0,11.2
-2015,New Brunswick,Males,13.0,16.0
-2015,New Brunswick,"Males, under 18 years",13.0,21.5
-2015,New Brunswick,"Males, 18 to 64 years",13.0,16.4
-2015,New Brunswick,"Males, 65 years and over",13.0,8.9
-2015,New Brunswick,Females,13.0,16.4
-2015,New Brunswick,"Females, under 18 years",13.0,18.3
-2015,New Brunswick,"Females, 18 to 64 years",13.0,16.8
-2015,New Brunswick,"Females, 65 years and over",13.0,13.3
-2015,Quebec,All persons,24.0,13.5
-2015,Quebec,Persons under 18 years,24.0,13.9
-2015,Quebec,Persons 18 to 64 years,24.0,15.3
-2015,Quebec,Persons 65 years and over,24.0,6.8
-2015,Quebec,Males,24.0,13.4
-2015,Quebec,"Males, under 18 years",24.0,14.9
-2015,Quebec,"Males, 18 to 64 years",24.0,14.8
-2015,Quebec,"Males, 65 years and over",24.0,6.0
-2015,Quebec,Females,24.0,13.7
-2015,Quebec,"Females, under 18 years",24.0,12.9
-2015,Quebec,"Females, 18 to 64 years",24.0,15.8
-2015,Quebec,"Females, 65 years and over",24.0,7.5
-2015,Ontario,All persons,35.0,15.1
-2015,Ontario,Persons under 18 years,35.0,18.0
-2015,Ontario,Persons 18 to 64 years,35.0,16.4
-2015,Ontario,Persons 65 years and over,35.0,6.1
-2015,Ontario,Males,35.0,14.7
-2015,Ontario,"Males, under 18 years",35.0,17.8
-2015,Ontario,"Males, 18 to 64 years",35.0,16.0
-2015,Ontario,"Males, 65 years and over",35.0,4.7
-2015,Ontario,Females,35.0,15.4
-2015,Ontario,"Females, under 18 years",35.0,18.2
-2015,Ontario,"Females, 18 to 64 years",35.0,16.7
-2015,Ontario,"Females, 65 years and over",35.0,7.2
-2015,Prairie provinces,All persons,,10.8
-2015,Prairie provinces,Persons under 18 years,,14.4
-2015,Prairie provinces,Persons 18 to 64 years,,10.8
-2015,Prairie provinces,Persons 65 years and over,,4.3
-2015,Prairie provinces,Males,,10.3
-2015,Prairie provinces,"Males, under 18 years",,13.2
-2015,Prairie provinces,"Males, 18 to 64 years",,10.5
-2015,Prairie provinces,"Males, 65 years and over",,3.4
-2015,Prairie provinces,Females,,11.3
-2015,Prairie provinces,"Females, under 18 years",,15.7
-2015,Prairie provinces,"Females, 18 to 64 years",,11.1
-2015,Prairie provinces,"Females, 65 years and over",,5.1
-2015,Manitoba,All persons,46.0,14.1
-2015,Manitoba,Persons under 18 years,46.0,19.3
-2015,Manitoba,Persons 18 to 64 years,46.0,14.2
-2015,Manitoba,Persons 65 years and over,46.0,5.9
-2015,Manitoba,Males,46.0,14.5
-2015,Manitoba,"Males, under 18 years",46.0,22.8
-2015,Manitoba,"Males, 18 to 64 years",46.0,13.8
-2015,Manitoba,"Males, 65 years and over",46.0,3.8
-2015,Manitoba,Females,46.0,13.7
-2015,Manitoba,"Females, under 18 years",46.0,15.7
-2015,Manitoba,"Females, 18 to 64 years",46.0,14.5
-2015,Manitoba,"Females, 65 years and over",46.0,7.6
-2015,Saskatchewan,All persons,47.0,12.2
-2015,Saskatchewan,Persons under 18 years,47.0,16.7
-2015,Saskatchewan,Persons 18 to 64 years,47.0,12.0
-2015,Saskatchewan,Persons 65 years and over,47.0,6.1
-2015,Saskatchewan,Males,47.0,10.8
-2015,Saskatchewan,"Males, under 18 years",47.0,15.5
-2015,Saskatchewan,"Males, 18 to 64 years",47.0,10.5
-2015,Saskatchewan,"Males, 65 years and over",47.0,4.3
-2015,Saskatchewan,Females,47.0,13.7
-2015,Saskatchewan,"Females, under 18 years",47.0,18.0
-2015,Saskatchewan,"Females, 18 to 64 years",47.0,13.7
-2015,Saskatchewan,"Females, 65 years and over",47.0,7.6
-2015,Alberta,All persons,48.0,9.4
-2015,Alberta,Persons under 18 years,48.0,12.3
-2015,Alberta,Persons 18 to 64 years,48.0,9.5
-2015,Alberta,Persons 65 years and over,48.0,3.1
-2015,Alberta,Males,48.0,8.9
-2015,Alberta,"Males, under 18 years",48.0,9.8
-2015,Alberta,"Males, 18 to 64 years",48.0,9.6
-2015,Alberta,"Males, 65 years and over",48.0,
-2015,Alberta,Females,48.0,9.9
-2015,Alberta,"Females, under 18 years",48.0,15.0
-2015,Alberta,"Females, 18 to 64 years",48.0,9.5
-2015,Alberta,"Females, 65 years and over",48.0,3.2
-2015,British Columbia,All persons,59.0,18.6
-2015,British Columbia,Persons under 18 years,59.0,16.8
-2015,British Columbia,Persons 18 to 64 years,59.0,20.8
-2015,British Columbia,Persons 65 years and over,59.0,11.7
-2015,British Columbia,Males,59.0,18.5
-2015,British Columbia,"Males, under 18 years",59.0,14.9
-2015,British Columbia,"Males, 18 to 64 years",59.0,21.2
-2015,British Columbia,"Males, 65 years and over",59.0,11.3
-2015,British Columbia,Females,59.0,18.7
-2015,British Columbia,"Females, under 18 years",59.0,18.8
-2015,British Columbia,"Females, 18 to 64 years",59.0,20.4
-2015,British Columbia,"Females, 65 years and over",59.0,12.0
-2015,"Québec, Quebec",All persons,,8.2
-2015,"Québec, Quebec",Persons under 18 years,,
-2015,"Québec, Quebec",Persons 18 to 64 years,,9.6
-2015,"Québec, Quebec",Persons 65 years and over,,9.3
-2015,"Québec, Quebec",Males,,8.4
-2015,"Québec, Quebec","Males, under 18 years",,
-2015,"Québec, Quebec","Males, 18 to 64 years",,9.9
-2015,"Québec, Quebec","Males, 65 years and over",,
-2015,"Québec, Quebec",Females,,8.0
-2015,"Québec, Quebec","Females, under 18 years",,
-2015,"Québec, Quebec","Females, 18 to 64 years",,9.3
-2015,"Québec, Quebec","Females, 65 years and over",,
-2015,"Montréal, Quebec",All persons,,17.2
-2015,"Montréal, Quebec",Persons under 18 years,,19.3
-2015,"Montréal, Quebec",Persons 18 to 64 years,,18.9
-2015,"Montréal, Quebec",Persons 65 years and over,,7.2
-2015,"Montréal, Quebec",Males,,16.8
-2015,"Montréal, Quebec","Males, under 18 years",,20.4
-2015,"Montréal, Quebec","Males, 18 to 64 years",,18.1
-2015,"Montréal, Quebec","Males, 65 years and over",,
-2015,"Montréal, Quebec",Females,,17.6
-2015,"Montréal, Quebec","Females, under 18 years",,18.4
-2015,"Montréal, Quebec","Females, 18 to 64 years",,19.7
-2015,"Montréal, Quebec","Females, 65 years and over",,7.8
-2015,"Ottawa-Gatineau, Ontario/Quebec",All persons,,13.4
-2015,"Ottawa-Gatineau, Ontario/Quebec",Persons under 18 years,,14.2
-2015,"Ottawa-Gatineau, Ontario/Quebec",Persons 18 to 64 years,,15.0
-2015,"Ottawa-Gatineau, Ontario/Quebec",Persons 65 years and over,,
-2015,"Ottawa-Gatineau, Ontario/Quebec",Males,,12.3
-2015,"Ottawa-Gatineau, Ontario/Quebec","Males, under 18 years",,13.6
-2015,"Ottawa-Gatineau, Ontario/Quebec","Males, 18 to 64 years",,13.9
-2015,"Ottawa-Gatineau, Ontario/Quebec","Males, 65 years and over",,
-2015,"Ottawa-Gatineau, Ontario/Quebec",Females,,14.4
-2015,"Ottawa-Gatineau, Ontario/Quebec","Females, under 18 years",,14.7
-2015,"Ottawa-Gatineau, Ontario/Quebec","Females, 18 to 64 years",,16.1
-2015,"Ottawa-Gatineau, Ontario/Quebec","Females, 65 years and over",,
-2015,"Toronto, Ontario",All persons,,19.2
-2015,"Toronto, Ontario",Persons under 18 years,,23.9
-2015,"Toronto, Ontario",Persons 18 to 64 years,,19.9
-2015,"Toronto, Ontario",Persons 65 years and over,,8.6
-2015,"Toronto, Ontario",Males,,18.6
-2015,"Toronto, Ontario","Males, under 18 years",,22.9
-2015,"Toronto, Ontario","Males, 18 to 64 years",,19.4
-2015,"Toronto, Ontario","Males, 65 years and over",,6.5
-2015,"Toronto, Ontario",Females,,19.8
-2015,"Toronto, Ontario","Females, under 18 years",,24.9
-2015,"Toronto, Ontario","Females, 18 to 64 years",,20.3
-2015,"Toronto, Ontario","Females, 65 years and over",,10.2
-2015,"Winnipeg, Manitoba",All persons,,15.7
-2015,"Winnipeg, Manitoba",Persons under 18 years,,21.0
-2015,"Winnipeg, Manitoba",Persons 18 to 64 years,,16.1
-2015,"Winnipeg, Manitoba",Persons 65 years and over,,5.8
-2015,"Winnipeg, Manitoba",Males,,16.0
-2015,"Winnipeg, Manitoba","Males, under 18 years",,24.7
-2015,"Winnipeg, Manitoba","Males, 18 to 64 years",,15.8
-2015,"Winnipeg, Manitoba","Males, 65 years and over",,
-2015,"Winnipeg, Manitoba",Females,,15.4
-2015,"Winnipeg, Manitoba","Females, under 18 years",,17.4
-2015,"Winnipeg, Manitoba","Females, 18 to 64 years",,16.5
-2015,"Winnipeg, Manitoba","Females, 65 years and over",,8.4
-2015,"Calgary, Alberta",All persons,,11.5
-2015,"Calgary, Alberta",Persons under 18 years,,15.4
-2015,"Calgary, Alberta",Persons 18 to 64 years,,11.5
-2015,"Calgary, Alberta",Persons 65 years and over,,
-2015,"Calgary, Alberta",Males,,11.2
-2015,"Calgary, Alberta","Males, under 18 years",,
-2015,"Calgary, Alberta","Males, 18 to 64 years",,11.9
-2015,"Calgary, Alberta","Males, 65 years and over",,
-2015,"Calgary, Alberta",Females,,11.9
-2015,"Calgary, Alberta","Females, under 18 years",,19.0
-2015,"Calgary, Alberta","Females, 18 to 64 years",,11.1
-2015,"Calgary, Alberta","Females, 65 years and over",,
-2015,"Edmonton, Alberta",All persons,,7.6
-2015,"Edmonton, Alberta",Persons under 18 years,,10.2
-2015,"Edmonton, Alberta",Persons 18 to 64 years,,7.6
-2015,"Edmonton, Alberta",Persons 65 years and over,,
-2015,"Edmonton, Alberta",Males,,7.4
-2015,"Edmonton, Alberta","Males, under 18 years",,
-2015,"Edmonton, Alberta","Males, 18 to 64 years",,8.2
-2015,"Edmonton, Alberta","Males, 65 years and over",,
-2015,"Edmonton, Alberta",Females,,7.9
-2015,"Edmonton, Alberta","Females, under 18 years",,
-2015,"Edmonton, Alberta","Females, 18 to 64 years",,7.0
-2015,"Edmonton, Alberta","Females, 65 years and over",,
-2015,"Vancouver, British Columbia",All persons,,19.5
-2015,"Vancouver, British Columbia",Persons under 18 years,,18.3
-2015,"Vancouver, British Columbia",Persons 18 to 64 years,,20.7
-2015,"Vancouver, British Columbia",Persons 65 years and over,,15.3
-2015,"Vancouver, British Columbia",Males,,19.0
-2015,"Vancouver, British Columbia","Males, under 18 years",,17.3
-2015,"Vancouver, British Columbia","Males, 18 to 64 years",,20.1
-2015,"Vancouver, British Columbia","Males, 65 years and over",,16.4
-2015,"Vancouver, British Columbia",Females,,19.9
-2015,"Vancouver, British Columbia","Females, under 18 years",,19.4
-2015,"Vancouver, British Columbia","Females, 18 to 64 years",,21.2
-2015,"Vancouver, British Columbia","Females, 65 years and over",,14.3
-2016,Canada,Persons under 18 years,,13.9
-2016,Canada,Persons 18 to 64 years,,14.0
-2016,Canada,Persons 65 years and over,,7.1
-2016,Canada,Males,,12.4
-2016,Canada,"Males, under 18 years",,13.0
-2016,Canada,"Males, 18 to 64 years",,13.6
-2016,Canada,"Males, 65 years and over",,6.4
-2016,Canada,Females,,13.4
-2016,Canada,"Females, under 18 years",,14.9
-2016,Canada,"Females, 18 to 64 years",,14.5
-2016,Canada,"Females, 65 years and over",,7.6
-2016,Atlantic provinces,All persons,,14.5
-2016,Atlantic provinces,Persons under 18 years,,17.2
-2016,Atlantic provinces,Persons 18 to 64 years,,15.6
-2016,Atlantic provinces,Persons 65 years and over,,8.6
-2016,Atlantic provinces,Males,,14.0
-2016,Atlantic provinces,"Males, under 18 years",,17.9
-2016,Atlantic provinces,"Males, 18 to 64 years",,14.7
-2016,Atlantic provinces,"Males, 65 years and over",,7.4
-2016,Atlantic provinces,Females,,15.0
-2016,Atlantic provinces,"Females, under 18 years",,16.4
-2016,Atlantic provinces,"Females, 18 to 64 years",,16.3
-2016,Atlantic provinces,"Females, 65 years and over",,9.7
-2016,Newfoundland and Labrador,All persons,10.0,12.2
-2016,Newfoundland and Labrador,Persons under 18 years,10.0,13.0
-2016,Newfoundland and Labrador,Persons 18 to 64 years,10.0,13.3
-2016,Newfoundland and Labrador,Persons 65 years and over,10.0,8.0
-2016,Newfoundland and Labrador,Males,10.0,11.1
-2016,Newfoundland and Labrador,"Males, under 18 years",10.0,13.5
-2016,Newfoundland and Labrador,"Males, 18 to 64 years",10.0,11.5
-2016,Newfoundland and Labrador,"Males, 65 years and over",10.0,7.4
-2016,Newfoundland and Labrador,Females,10.0,13.4
-2016,Newfoundland and Labrador,"Females, under 18 years",10.0,12.4
-2016,Newfoundland and Labrador,"Females, 18 to 64 years",10.0,15.1
-2016,Newfoundland and Labrador,"Females, 65 years and over",10.0,8.6
-2016,Prince Edward Island,All persons,11.0,13.9
-2016,Prince Edward Island,Persons under 18 years,11.0,18.5
-2016,Prince Edward Island,Persons 18 to 64 years,11.0,14.1
-2016,Prince Edward Island,Persons 65 years and over,11.0,8.3
-2016,Prince Edward Island,Males,11.0,11.7
-2016,Prince Edward Island,"Males, under 18 years",11.0,15.6
-2016,Prince Edward Island,"Males, 18 to 64 years",11.0,12.7
-2016,Prince Edward Island,"Males, 65 years and over",11.0,
-2016,Prince Edward Island,Females,11.0,15.9
-2016,Prince Edward Island,"Females, under 18 years",11.0,21.4
-2016,Prince Edward Island,"Females, 18 to 64 years",11.0,15.4
-2016,Prince Edward Island,"Females, 65 years and over",11.0,12.3
-2016,Nova Scotia,All persons,12.0,16.4
-2016,Nova Scotia,Persons under 18 years,12.0,19.9
-2016,Nova Scotia,Persons 18 to 64 years,12.0,18.1
-2016,Nova Scotia,Persons 65 years and over,12.0,7.9
-2016,Nova Scotia,Males,12.0,17.3
-2016,Nova Scotia,"Males, under 18 years",12.0,21.4
-2016,Nova Scotia,"Males, 18 to 64 years",12.0,18.8
-2016,Nova Scotia,"Males, 65 years and over",12.0,8.1
-2016,Nova Scotia,Females,12.0,15.6
-2016,Nova Scotia,"Females, under 18 years",12.0,18.3
-2016,Nova Scotia,"Females, 18 to 64 years",12.0,17.4
-2016,Nova Scotia,"Females, 65 years and over",12.0,7.8
-2016,New Brunswick,All persons,13.0,13.9
-2016,New Brunswick,Persons under 18 years,13.0,16.4
-2016,New Brunswick,Persons 18 to 64 years,13.0,14.3
-2016,New Brunswick,Persons 65 years and over,13.0,10.0
-2016,New Brunswick,Males,13.0,12.5
-2016,New Brunswick,"Males, under 18 years",13.0,17.1
-2016,New Brunswick,"Males, 18 to 64 years",13.0,12.6
-2016,New Brunswick,"Males, 65 years and over",13.0,7.4
-2016,New Brunswick,Females,13.0,15.2
-2016,New Brunswick,"Females, under 18 years",13.0,15.7
-2016,New Brunswick,"Females, 18 to 64 years",13.0,16.1
-2016,New Brunswick,"Females, 65 years and over",13.0,12.3
-2016,Quebec,All persons,24.0,11.0
-2016,Quebec,Persons under 18 years,24.0,10.9
-2016,Quebec,Persons 18 to 64 years,24.0,12.0
-2016,Quebec,Persons 65 years and over,24.0,7.3
-2016,Quebec,Males,24.0,11.1
-2016,Quebec,"Males, under 18 years",24.0,10.2
-2016,Quebec,"Males, 18 to 64 years",24.0,12.4
-2016,Quebec,"Males, 65 years and over",24.0,6.9
-2016,Quebec,Females,24.0,10.8
-2016,Quebec,"Females, under 18 years",24.0,11.5
-2016,Quebec,"Females, 18 to 64 years",24.0,11.6
-2016,Quebec,"Females, 65 years and over",24.0,7.7
-2016,Ontario,All persons,35.0,13.7
-2016,Ontario,Persons under 18 years,35.0,15.2
-2016,Ontario,Persons 18 to 64 years,35.0,15.0
-2016,Ontario,Persons 65 years and over,35.0,6.7
-2016,Ontario,Males,35.0,12.6
-2016,Ontario,"Males, under 18 years",35.0,12.9
-2016,Ontario,"Males, 18 to 64 years",35.0,14.0
-2016,Ontario,"Males, 65 years and over",35.0,6.0
-2016,Ontario,Females,35.0,14.7
-2016,Ontario,"Females, under 18 years",35.0,17.5
-2016,Ontario,"Females, 18 to 64 years",35.0,16.0
-2016,Ontario,"Females, 65 years and over",35.0,7.2
-2016,Prairie provinces,All persons,,10.7
-2016,Prairie provinces,Persons under 18 years,,12.0
-2016,Prairie provinces,Persons 18 to 64 years,,11.4
-2016,Prairie provinces,Persons 65 years and over,,4.9
-2016,Prairie provinces,Males,,10.4
-2016,Prairie provinces,"Males, under 18 years",,12.2
-2016,Prairie provinces,"Males, 18 to 64 years",,10.9
-2016,Prairie provinces,"Males, 65 years and over",,4.7
-2016,Prairie provinces,Females,,11.0
-2016,Prairie provinces,"Females, under 18 years",,11.9
-2016,Prairie provinces,"Females, 18 to 64 years",,12.1
-2016,Prairie provinces,"Females, 65 years and over",,5.1
-2016,Manitoba,All persons,46.0,12.4
-2016,Manitoba,Persons under 18 years,46.0,15.5
-2016,Manitoba,Persons 18 to 64 years,46.0,13.1
-2016,Manitoba,Persons 65 years and over,46.0,4.9
-2016,Manitoba,Males,46.0,12.5
-2016,Manitoba,"Males, under 18 years",46.0,16.7
-2016,Manitoba,"Males, 18 to 64 years",46.0,12.9
-2016,Manitoba,"Males, 65 years and over",46.0,3.9
-2016,Manitoba,Females,46.0,12.2
-2016,Manitoba,"Females, under 18 years",46.0,14.2
-2016,Manitoba,"Females, 18 to 64 years",46.0,13.3
-2016,Manitoba,"Females, 65 years and over",46.0,5.7
-2016,Saskatchewan,All persons,47.0,11.1
-2016,Saskatchewan,Persons under 18 years,47.0,12.5
-2016,Saskatchewan,Persons 18 to 64 years,47.0,11.6
-2016,Saskatchewan,Persons 65 years and over,47.0,6.9
-2016,Saskatchewan,Males,47.0,10.3
-2016,Saskatchewan,"Males, under 18 years",47.0,11.7
-2016,Saskatchewan,"Males, 18 to 64 years",47.0,10.7
-2016,Saskatchewan,"Males, 65 years and over",47.0,6.2
-2016,Saskatchewan,Females,47.0,11.9
-2016,Saskatchewan,"Females, under 18 years",47.0,13.3
-2016,Saskatchewan,"Females, 18 to 64 years",47.0,12.5
-2016,Saskatchewan,"Females, 65 years and over",47.0,7.5
-2016,Alberta,All persons,48.0,10.1
-2016,Alberta,Persons under 18 years,48.0,10.8
-2016,Alberta,Persons 18 to 64 years,48.0,10.9
-2016,Alberta,Persons 65 years and over,48.0,4.3
-2016,Alberta,Males,48.0,9.8
-2016,Alberta,"Males, under 18 years",48.0,10.8
-2016,Alberta,"Males, 18 to 64 years",48.0,10.3
-2016,Alberta,"Males, 65 years and over",48.0,4.5
-2016,Alberta,Females,48.0,10.5
-2016,Alberta,"Females, under 18 years",48.0,10.8
-2016,Alberta,"Females, 18 to 64 years",48.0,11.6
-2016,Alberta,"Females, 65 years and over",48.0,4.1
-2016,British Columbia,All persons,59.0,16.0
-2016,British Columbia,Persons under 18 years,59.0,17.4
-2016,British Columbia,Persons 18 to 64 years,59.0,17.4
-2016,British Columbia,Persons 65 years and over,59.0,9.1
-2016,British Columbia,Males,59.0,16.1
-2016,British Columbia,"Males, under 18 years",59.0,17.5
-2016,British Columbia,"Males, 18 to 64 years",59.0,17.8
-2016,British Columbia,"Males, 65 years and over",59.0,7.9
-2016,British Columbia,Females,59.0,15.9
-2016,British Columbia,"Females, under 18 years",59.0,17.3
-2016,British Columbia,"Females, 18 to 64 years",59.0,17.1
-2016,British Columbia,"Females, 65 years and over",59.0,10.3
-2016,"Québec, Quebec",All persons,,6.7
-2016,"Québec, Quebec",Persons under 18 years,,
-2016,"Québec, Quebec",Persons 18 to 64 years,,7.2
-2016,"Québec, Quebec",Persons 65 years and over,,5.4
-2016,"Québec, Quebec",Males,,5.9
-2016,"Québec, Quebec","Males, under 18 years",,
-2016,"Québec, Quebec","Males, 18 to 64 years",,6.8
-2016,"Québec, Quebec","Males, 65 years and over",,
-2016,"Québec, Quebec",Females,,7.4
-2016,"Québec, Quebec","Females, under 18 years",,
-2016,"Québec, Quebec","Females, 18 to 64 years",,7.5
-2016,"Québec, Quebec","Females, 65 years and over",,5.8
-2016,"Montréal, Quebec",All persons,,13.2
-2016,"Montréal, Quebec",Persons under 18 years,,13.6
-2016,"Montréal, Quebec",Persons 18 to 64 years,,13.9
-2016,"Montréal, Quebec",Persons 65 years and over,,9.7
-2016,"Montréal, Quebec",Males,,13.5
-2016,"Montréal, Quebec","Males, under 18 years",,12.6
-2016,"Montréal, Quebec","Males, 18 to 64 years",,14.5
-2016,"Montréal, Quebec","Males, 65 years and over",,10.0
-2016,"Montréal, Quebec",Females,,12.9
-2016,"Montréal, Quebec","Females, under 18 years",,14.7
-2016,"Montréal, Quebec","Females, 18 to 64 years",,13.3
-2016,"Montréal, Quebec","Females, 65 years and over",,9.5
-2016,"Ottawa-Gatineau, Ontario/Quebec",All persons,,10.7
-2016,"Ottawa-Gatineau, Ontario/Quebec",Persons under 18 years,,9.6
-2016,"Ottawa-Gatineau, Ontario/Quebec",Persons 18 to 64 years,,12.5
-2016,"Ottawa-Gatineau, Ontario/Quebec",Persons 65 years and over,,
-2016,"Ottawa-Gatineau, Ontario/Quebec",Males,,10.7
-2016,"Ottawa-Gatineau, Ontario/Quebec","Males, under 18 years",,
-2016,"Ottawa-Gatineau, Ontario/Quebec","Males, 18 to 64 years",,12.7
-2016,"Ottawa-Gatineau, Ontario/Quebec","Males, 65 years and over",,
-2016,"Ottawa-Gatineau, Ontario/Quebec",Females,,10.7
-2016,"Ottawa-Gatineau, Ontario/Quebec","Females, under 18 years",,11.2
-2016,"Ottawa-Gatineau, Ontario/Quebec","Females, 18 to 64 years",,12.3
-2016,"Ottawa-Gatineau, Ontario/Quebec","Females, 65 years and over",,
-2016,"Toronto, Ontario",All persons,,17.6
-2016,"Toronto, Ontario",Persons under 18 years,,21.0
-2016,"Toronto, Ontario",Persons 18 to 64 years,,18.2
-2016,"Toronto, Ontario",Persons 65 years and over,,9.8
-2016,"Toronto, Ontario",Males,,15.9
-2016,"Toronto, Ontario","Males, under 18 years",,16.8
-2016,"Toronto, Ontario","Males, 18 to 64 years",,16.7
-2016,"Toronto, Ontario","Males, 65 years and over",,11.0
-2016,"Toronto, Ontario",Females,,19.1
-2016,"Toronto, Ontario","Females, under 18 years",,25.0
-2016,"Toronto, Ontario","Females, 18 to 64 years",,19.7
-2016,"Toronto, Ontario","Females, 65 years and over",,8.8
-2016,"Winnipeg, Manitoba",All persons,,13.6
-2016,"Winnipeg, Manitoba",Persons under 18 years,,17.6
-2016,"Winnipeg, Manitoba",Persons 18 to 64 years,,14.1
-2016,"Winnipeg, Manitoba",Persons 65 years and over,,5.1
-2016,"Winnipeg, Manitoba",Males,,13.8
-2016,"Winnipeg, Manitoba","Males, under 18 years",,18.3
-2016,"Winnipeg, Manitoba","Males, 18 to 64 years",,14.2
-2016,"Winnipeg, Manitoba","Males, 65 years and over",,3.7
-2016,"Winnipeg, Manitoba",Females,,13.4
-2016,"Winnipeg, Manitoba","Females, under 18 years",,16.8
-2016,"Winnipeg, Manitoba","Females, 18 to 64 years",,14.0
-2016,"Winnipeg, Manitoba","Females, 65 years and over",,6.3
-2016,"Calgary, Alberta",All persons,,11.1
-2016,"Calgary, Alberta",Persons under 18 years,,11.7
-2016,"Calgary, Alberta",Persons 18 to 64 years,,12.0
-2016,"Calgary, Alberta",Persons 65 years and over,,
-2016,"Calgary, Alberta",Males,,10.3
-2016,"Calgary, Alberta","Males, under 18 years",,10.8
-2016,"Calgary, Alberta","Males, 18 to 64 years",,10.8
-2016,"Calgary, Alberta","Males, 65 years and over",,
-2016,"Calgary, Alberta",Females,,11.9
-2016,"Calgary, Alberta","Females, under 18 years",,12.8
-2016,"Calgary, Alberta","Females, 18 to 64 years",,13.1
-2016,"Calgary, Alberta","Females, 65 years and over",,
-2016,"Edmonton, Alberta",All persons,,8.5
-2016,"Edmonton, Alberta",Persons under 18 years,,8.0
-2016,"Edmonton, Alberta",Persons 18 to 64 years,,9.7
-2016,"Edmonton, Alberta",Persons 65 years and over,,
-2016,"Edmonton, Alberta",Males,,8.6
-2016,"Edmonton, Alberta","Males, under 18 years",,
-2016,"Edmonton, Alberta","Males, 18 to 64 years",,9.6
-2016,"Edmonton, Alberta","Males, 65 years and over",,
-2016,"Edmonton, Alberta",Females,,8.4
-2016,"Edmonton, Alberta","Females, under 18 years",,
-2016,"Edmonton, Alberta","Females, 18 to 64 years",,9.7
-2016,"Edmonton, Alberta","Females, 65 years and over",,
-2016,"Vancouver, British Columbia",All persons,,15.6
-2016,"Vancouver, British Columbia",Persons under 18 years,,18.4
-2016,"Vancouver, British Columbia",Persons 18 to 64 years,,16.2
-2016,"Vancouver, British Columbia",Persons 65 years and over,,10.0
-2016,"Vancouver, British Columbia",Males,,15.8
-2016,"Vancouver, British Columbia","Males, under 18 years",,19.2
-2016,"Vancouver, British Columbia","Males, 18 to 64 years",,16.5
-2016,"Vancouver, British Columbia","Males, 65 years and over",,8.5
-2016,"Vancouver, British Columbia",Females,,15.4
-2016,"Vancouver, British Columbia","Females, under 18 years",,17.4
-2016,"Vancouver, British Columbia","Females, 18 to 64 years",,15.9
-2016,"Vancouver, British Columbia","Females, 65 years and over",,11.4
-2017,Canada,Persons under 18 years,,11.7
-2017,Canada,Persons 18 to 64 years,,13.4
-2017,Canada,Persons 65 years and over,,6.1
-2017,Canada,Males,,11.7
-2017,Canada,"Males, under 18 years",,11.5
-2017,Canada,"Males, 18 to 64 years",,13.2
-2017,Canada,"Males, 65 years and over",,5.5
-2017,Canada,Females,,12.1
-2017,Canada,"Females, under 18 years",,12.0
-2017,Canada,"Females, 18 to 64 years",,13.7
-2017,Canada,"Females, 65 years and over",,6.7
-2017,Atlantic provinces,All persons,,13.5
-2017,Atlantic provinces,Persons under 18 years,,16.5
-2017,Atlantic provinces,Persons 18 to 64 years,,14.7
-2017,Atlantic provinces,Persons 65 years and over,,7.0
-2017,Atlantic provinces,Males,,12.3
-2017,Atlantic provinces,"Males, under 18 years",,15.6
-2017,Atlantic provinces,"Males, 18 to 64 years",,13.4
-2017,Atlantic provinces,"Males, 65 years and over",,5.6
-2017,Atlantic provinces,Females,,14.6
-2017,Atlantic provinces,"Females, under 18 years",,17.5
-2017,Atlantic provinces,"Females, 18 to 64 years",,16.0
-2017,Atlantic provinces,"Females, 65 years and over",,8.3
-2017,Newfoundland and Labrador,All persons,10.0,11.3
-2017,Newfoundland and Labrador,Persons under 18 years,10.0,11.5
-2017,Newfoundland and Labrador,Persons 18 to 64 years,10.0,12.6
-2017,Newfoundland and Labrador,Persons 65 years and over,10.0,6.9
-2017,Newfoundland and Labrador,Males,10.0,9.9
-2017,Newfoundland and Labrador,"Males, under 18 years",10.0,11.0
-2017,Newfoundland and Labrador,"Males, 18 to 64 years",10.0,11.0
-2017,Newfoundland and Labrador,"Males, 65 years and over",10.0,5.2
-2017,Newfoundland and Labrador,Females,10.0,12.6
-2017,Newfoundland and Labrador,"Females, under 18 years",10.0,12.1
-2017,Newfoundland and Labrador,"Females, 18 to 64 years",10.0,14.2
-2017,Newfoundland and Labrador,"Females, 65 years and over",10.0,8.3
-2017,Prince Edward Island,All persons,11.0,15.4
-2017,Prince Edward Island,Persons under 18 years,11.0,17.3
-2017,Prince Edward Island,Persons 18 to 64 years,11.0,16.2
-2017,Prince Edward Island,Persons 65 years and over,11.0,10.7
-2017,Prince Edward Island,Males,11.0,15.3
-2017,Prince Edward Island,"Males, under 18 years",11.0,19.0
-2017,Prince Edward Island,"Males, 18 to 64 years",11.0,15.0
-2017,Prince Edward Island,"Males, 65 years and over",11.0,12.0
-2017,Prince Edward Island,Females,11.0,15.4
-2017,Prince Edward Island,"Females, under 18 years",11.0,15.4
-2017,Prince Edward Island,"Females, 18 to 64 years",11.0,17.3
-2017,Prince Edward Island,"Females, 65 years and over",11.0,9.6
-2017,Nova Scotia,All persons,12.0,15.1
-2017,Nova Scotia,Persons under 18 years,12.0,20.0
-2017,Nova Scotia,Persons 18 to 64 years,12.0,16.4
-2017,Nova Scotia,Persons 65 years and over,12.0,6.9
-2017,Nova Scotia,Males,12.0,13.6
-2017,Nova Scotia,"Males, under 18 years",12.0,18.1
-2017,Nova Scotia,"Males, 18 to 64 years",12.0,14.9
-2017,Nova Scotia,"Males, 65 years and over",12.0,5.0
-2017,Nova Scotia,Females,12.0,16.6
-2017,Nova Scotia,"Females, under 18 years",12.0,21.9
-2017,Nova Scotia,"Females, 18 to 64 years",12.0,17.8
-2017,Nova Scotia,"Females, 65 years and over",12.0,8.6
-2017,New Brunswick,All persons,13.0,12.6
-2017,New Brunswick,Persons under 18 years,13.0,15.5
-2017,New Brunswick,Persons 18 to 64 years,13.0,13.8
-2017,New Brunswick,Persons 65 years and over,13.0,6.6
-2017,New Brunswick,Males,13.0,11.7
-2017,New Brunswick,"Males, under 18 years",13.0,14.7
-2017,New Brunswick,"Males, 18 to 64 years",13.0,12.8
-2017,New Brunswick,"Males, 65 years and over",13.0,5.4
-2017,New Brunswick,Females,13.0,13.5
-2017,New Brunswick,"Females, under 18 years",13.0,16.2
-2017,New Brunswick,"Females, 18 to 64 years",13.0,14.7
-2017,New Brunswick,"Females, 65 years and over",13.0,7.7
-2017,Quebec,All persons,24.0,10.9
-2017,Quebec,Persons under 18 years,24.0,10.4
-2017,Quebec,Persons 18 to 64 years,24.0,12.5
-2017,Quebec,Persons 65 years and over,24.0,6.0
-2017,Quebec,Males,24.0,10.9
-2017,Quebec,"Males, under 18 years",24.0,10.2
-2017,Quebec,"Males, 18 to 64 years",24.0,12.7
-2017,Quebec,"Males, 65 years and over",24.0,4.8
-2017,Quebec,Females,24.0,10.9
-2017,Quebec,"Females, under 18 years",24.0,10.6
-2017,Quebec,"Females, 18 to 64 years",24.0,12.2
-2017,Quebec,"Females, 65 years and over",24.0,7.0
-2017,Ontario,All persons,35.0,12.3
-2017,Ontario,Persons under 18 years,35.0,12.2
-2017,Ontario,Persons 18 to 64 years,35.0,14.1
-2017,Ontario,Persons 65 years and over,35.0,5.6
-2017,Ontario,Males,35.0,12.3
-2017,Ontario,"Males, under 18 years",35.0,11.7
-2017,Ontario,"Males, 18 to 64 years",35.0,14.1
-2017,Ontario,"Males, 65 years and over",35.0,5.3
-2017,Ontario,Females,35.0,12.4
-2017,Ontario,"Females, under 18 years",35.0,12.7
-2017,Ontario,"Females, 18 to 64 years",35.0,14.1
-2017,Ontario,"Females, 65 years and over",35.0,5.8
-2017,Prairie provinces,All persons,,9.6
-2017,Prairie provinces,Persons under 18 years,,9.9
-2017,Prairie provinces,Persons 18 to 64 years,,10.7
-2017,Prairie provinces,Persons 65 years and over,,3.9
-2017,Prairie provinces,Males,,9.0
-2017,Prairie provinces,"Males, under 18 years",,9.3
-2017,Prairie provinces,"Males, 18 to 64 years",,10.0
-2017,Prairie provinces,"Males, 65 years and over",,3.5
-2017,Prairie provinces,Females,,10.2
-2017,Prairie provinces,"Females, under 18 years",,10.5
-2017,Prairie provinces,"Females, 18 to 64 years",,11.4
-2017,Prairie provinces,"Females, 65 years and over",,4.3
-2017,Manitoba,All persons,46.0,11.2
-2017,Manitoba,Persons under 18 years,46.0,12.8
-2017,Manitoba,Persons 18 to 64 years,46.0,12.1
-2017,Manitoba,Persons 65 years and over,46.0,5.4
-2017,Manitoba,Males,46.0,10.9
-2017,Manitoba,"Males, under 18 years",46.0,11.7
-2017,Manitoba,"Males, 18 to 64 years",46.0,12.1
-2017,Manitoba,"Males, 65 years and over",46.0,4.7
-2017,Manitoba,Females,46.0,11.5
-2017,Manitoba,"Females, under 18 years",46.0,13.9
-2017,Manitoba,"Females, 18 to 64 years",46.0,12.2
-2017,Manitoba,"Females, 65 years and over",46.0,6.0
-2017,Saskatchewan,All persons,47.0,11.9
-2017,Saskatchewan,Persons under 18 years,47.0,14.4
-2017,Saskatchewan,Persons 18 to 64 years,47.0,12.5
-2017,Saskatchewan,Persons 65 years and over,47.0,5.5
-2017,Saskatchewan,Males,47.0,11.6
-2017,Saskatchewan,"Males, under 18 years",47.0,14.3
-2017,Saskatchewan,"Males, 18 to 64 years",47.0,12.1
-2017,Saskatchewan,"Males, 65 years and over",47.0,4.8
-2017,Saskatchewan,Females,47.0,12.2
-2017,Saskatchewan,"Females, under 18 years",47.0,14.5
-2017,Saskatchewan,"Females, 18 to 64 years",47.0,13.0
-2017,Saskatchewan,"Females, 65 years and over",47.0,6.2
-2017,Alberta,All persons,48.0,8.5
-2017,Alberta,Persons under 18 years,48.0,7.8
-2017,Alberta,Persons 18 to 64 years,48.0,9.8
-2017,Alberta,Persons 65 years and over,48.0,2.9
-2017,Alberta,Males,48.0,7.8
-2017,Alberta,"Males, under 18 years",48.0,7.2
-2017,Alberta,"Males, 18 to 64 years",48.0,8.8
-2017,Alberta,"Males, 65 years and over",48.0,2.7
-2017,Alberta,Females,48.0,9.3
-2017,Alberta,"Females, under 18 years",48.0,8.4
-2017,Alberta,"Females, 18 to 64 years",48.0,10.8
-2017,Alberta,"Females, 65 years and over",48.0,3.0
-2017,British Columbia,All persons,59.0,14.6
-2017,British Columbia,Persons under 18 years,59.0,13.4
-2017,British Columbia,Persons 18 to 64 years,59.0,16.3
-2017,British Columbia,Persons 65 years and over,59.0,9.7
-2017,British Columbia,Males,59.0,14.5
-2017,British Columbia,"Males, under 18 years",59.0,14.8
-2017,British Columbia,"Males, 18 to 64 years",59.0,15.8
-2017,British Columbia,"Males, 65 years and over",59.0,9.1
-2017,British Columbia,Females,59.0,14.8
-2017,British Columbia,"Females, under 18 years",59.0,12.0
-2017,British Columbia,"Females, 18 to 64 years",59.0,16.8
-2017,British Columbia,"Females, 65 years and over",59.0,10.1
-2017,"Québec, Quebec",All persons,,5.7
-2017,"Québec, Quebec",Persons under 18 years,,
-2017,"Québec, Quebec",Persons 18 to 64 years,,6.3
-2017,"Québec, Quebec",Persons 65 years and over,,4.7
-2017,"Québec, Quebec",Males,,6.1
-2017,"Québec, Quebec","Males, under 18 years",,
-2017,"Québec, Quebec","Males, 18 to 64 years",,6.1
-2017,"Québec, Quebec","Males, 65 years and over",,
-2017,"Québec, Quebec",Females,,5.3
-2017,"Québec, Quebec","Females, under 18 years",,
-2017,"Québec, Quebec","Females, 18 to 64 years",,6.5
-2017,"Québec, Quebec","Females, 65 years and over",,
-2017,"Montréal, Quebec",All persons,,14.1
-2017,"Montréal, Quebec",Persons under 18 years,,14.7
-2017,"Montréal, Quebec",Persons 18 to 64 years,,15.0
-2017,"Montréal, Quebec",Persons 65 years and over,,9.3
-2017,"Montréal, Quebec",Males,,14.2
-2017,"Montréal, Quebec","Males, under 18 years",,14.3
-2017,"Montréal, Quebec","Males, 18 to 64 years",,15.4
-2017,"Montréal, Quebec","Males, 65 years and over",,8.2
-2017,"Montréal, Quebec",Females,,14.0
-2017,"Montréal, Quebec","Females, under 18 years",,15.2
-2017,"Montréal, Quebec","Females, 18 to 64 years",,14.6
-2017,"Montréal, Quebec","Females, 65 years and over",,10.2
-2017,"Ottawa-Gatineau, Ontario/Quebec",All persons,,10.9
-2017,"Ottawa-Gatineau, Ontario/Quebec",Persons under 18 years,,8.9
-2017,"Ottawa-Gatineau, Ontario/Quebec",Persons 18 to 64 years,,12.6
-2017,"Ottawa-Gatineau, Ontario/Quebec",Persons 65 years and over,,5.8
-2017,"Ottawa-Gatineau, Ontario/Quebec",Males,,11.0
-2017,"Ottawa-Gatineau, Ontario/Quebec","Males, under 18 years",,10.7
-2017,"Ottawa-Gatineau, Ontario/Quebec","Males, 18 to 64 years",,12.1
-2017,"Ottawa-Gatineau, Ontario/Quebec","Males, 65 years and over",,
-2017,"Ottawa-Gatineau, Ontario/Quebec",Females,,10.8
-2017,"Ottawa-Gatineau, Ontario/Quebec","Females, under 18 years",,7.1
-2017,"Ottawa-Gatineau, Ontario/Quebec","Females, 18 to 64 years",,13.1
-2017,"Ottawa-Gatineau, Ontario/Quebec","Females, 65 years and over",,
-2017,"Toronto, Ontario",All persons,,14.4
-2017,"Toronto, Ontario",Persons under 18 years,,15.4
-2017,"Toronto, Ontario",Persons 18 to 64 years,,15.6
-2017,"Toronto, Ontario",Persons 65 years and over,,7.2
-2017,"Toronto, Ontario",Males,,14.3
-2017,"Toronto, Ontario","Males, under 18 years",,14.0
-2017,"Toronto, Ontario","Males, 18 to 64 years",,15.7
-2017,"Toronto, Ontario","Males, 65 years and over",,7.7
-2017,"Toronto, Ontario",Females,,14.5
-2017,"Toronto, Ontario","Females, under 18 years",,16.8
-2017,"Toronto, Ontario","Females, 18 to 64 years",,15.5
-2017,"Toronto, Ontario","Females, 65 years and over",,6.8
-2017,"Winnipeg, Manitoba",All persons,,12.6
-2017,"Winnipeg, Manitoba",Persons under 18 years,,14.0
-2017,"Winnipeg, Manitoba",Persons 18 to 64 years,,13.5
-2017,"Winnipeg, Manitoba",Persons 65 years and over,,6.4
-2017,"Winnipeg, Manitoba",Males,,12.4
-2017,"Winnipeg, Manitoba","Males, under 18 years",,12.2
-2017,"Winnipeg, Manitoba","Males, 18 to 64 years",,13.7
-2017,"Winnipeg, Manitoba","Males, 65 years and over",,6.0
-2017,"Winnipeg, Manitoba",Females,,12.7
-2017,"Winnipeg, Manitoba","Females, under 18 years",,15.7
-2017,"Winnipeg, Manitoba","Females, 18 to 64 years",,13.3
-2017,"Winnipeg, Manitoba","Females, 65 years and over",,6.7
-2017,"Calgary, Alberta",All persons,,8.0
-2017,"Calgary, Alberta",Persons under 18 years,,8.0
-2017,"Calgary, Alberta",Persons 18 to 64 years,,9.0
-2017,"Calgary, Alberta",Persons 65 years and over,,
-2017,"Calgary, Alberta",Males,,8.1
-2017,"Calgary, Alberta","Males, under 18 years",,6.2
-2017,"Calgary, Alberta","Males, 18 to 64 years",,9.5
-2017,"Calgary, Alberta","Males, 65 years and over",,
-2017,"Calgary, Alberta",Females,,7.9
-2017,"Calgary, Alberta","Females, under 18 years",,9.4
-2017,"Calgary, Alberta","Females, 18 to 64 years",,8.5
-2017,"Calgary, Alberta","Females, 65 years and over",,
-2017,"Edmonton, Alberta",All persons,,9.7
-2017,"Edmonton, Alberta",Persons under 18 years,,8.3
-2017,"Edmonton, Alberta",Persons 18 to 64 years,,11.1
-2017,"Edmonton, Alberta",Persons 65 years and over,,4.4
-2017,"Edmonton, Alberta",Males,,8.2
-2017,"Edmonton, Alberta","Males, under 18 years",,
-2017,"Edmonton, Alberta","Males, 18 to 64 years",,9.0
-2017,"Edmonton, Alberta","Males, 65 years and over",,
-2017,"Edmonton, Alberta",Females,,11.2
-2017,"Edmonton, Alberta","Females, under 18 years",,
-2017,"Edmonton, Alberta","Females, 18 to 64 years",,13.1
-2017,"Edmonton, Alberta","Females, 65 years and over",,
-2017,"Vancouver, British Columbia",All persons,,16.0
-2017,"Vancouver, British Columbia",Persons under 18 years,,13.5
-2017,"Vancouver, British Columbia",Persons 18 to 64 years,,17.3
-2017,"Vancouver, British Columbia",Persons 65 years and over,,13.0
-2017,"Vancouver, British Columbia",Males,,16.2
-2017,"Vancouver, British Columbia","Males, under 18 years",,16.2
-2017,"Vancouver, British Columbia","Males, 18 to 64 years",,16.8
-2017,"Vancouver, British Columbia","Males, 65 years and over",,13.0
-2017,"Vancouver, British Columbia",Females,,15.7
-2017,"Vancouver, British Columbia","Females, under 18 years",,10.5
-2017,"Vancouver, British Columbia","Females, 18 to 64 years",,17.7
-2017,"Vancouver, British Columbia","Females, 65 years and over",,13.0
-2018,Canada,Persons under 18 years,,10.6
-2018,Canada,Persons 18 to 64 years,,12.8
-2018,Canada,Persons 65 years and over,,6.0
-2018,Canada,Males,,11.3
-2018,Canada,"Males, under 18 years",,11.2
-2018,Canada,"Males, 18 to 64 years",,12.8
-2018,Canada,"Males, 65 years and over",,5.3
-2018,Canada,Females,,11.1
-2018,Canada,"Females, under 18 years",,9.9
-2018,Canada,"Females, 18 to 64 years",,12.7
-2018,Canada,"Females, 65 years and over",,6.6
-2018,Atlantic provinces,All persons,,12.3
-2018,Atlantic provinces,Persons under 18 years,,13.4
-2018,Atlantic provinces,Persons 18 to 64 years,,13.7
-2018,Atlantic provinces,Persons 65 years and over,,7.0
-2018,Atlantic provinces,Males,,12.1
-2018,Atlantic provinces,"Males, under 18 years",,13.9
-2018,Atlantic provinces,"Males, 18 to 64 years",,13.8
-2018,Atlantic provinces,"Males, 65 years and over",,5.2
-2018,Atlantic provinces,Females,,12.5
-2018,Atlantic provinces,"Females, under 18 years",,12.9
-2018,Atlantic provinces,"Females, 18 to 64 years",,13.7
-2018,Atlantic provinces,"Females, 65 years and over",,8.7
-2018,Newfoundland and Labrador,All persons,10.0,11.4
-2018,Newfoundland and Labrador,Persons under 18 years,10.0,11.5
-2018,Newfoundland and Labrador,Persons 18 to 64 years,10.0,13.7
-2018,Newfoundland and Labrador,Persons 65 years and over,10.0,4.4
-2018,Newfoundland and Labrador,Males,10.0,11.7
-2018,Newfoundland and Labrador,"Males, under 18 years",10.0,10.9
-2018,Newfoundland and Labrador,"Males, 18 to 64 years",10.0,14.8
-2018,Newfoundland and Labrador,"Males, 65 years and over",10.0,2.7
-2018,Newfoundland and Labrador,Females,10.0,11.1
-2018,Newfoundland and Labrador,"Females, under 18 years",10.0,12.0
-2018,Newfoundland and Labrador,"Females, 18 to 64 years",10.0,12.6
-2018,Newfoundland and Labrador,"Females, 65 years and over",10.0,5.9
-2018,Prince Edward Island,All persons,11.0,13.4
-2018,Prince Edward Island,Persons under 18 years,11.0,12.5
-2018,Prince Edward Island,Persons 18 to 64 years,11.0,14.3
-2018,Prince Edward Island,Persons 65 years and over,11.0,11.5
-2018,Prince Edward Island,Males,11.0,13.4
-2018,Prince Edward Island,"Males, under 18 years",11.0,14.1
-2018,Prince Edward Island,"Males, 18 to 64 years",11.0,14.7
-2018,Prince Edward Island,"Males, 65 years and over",11.0,8.5
-2018,Prince Edward Island,Females,11.0,13.4
-2018,Prince Edward Island,"Females, under 18 years",11.0,10.9
-2018,Prince Edward Island,"Females, 18 to 64 years",11.0,13.9
-2018,Prince Edward Island,"Females, 65 years and over",11.0,14.2
-2018,Nova Scotia,All persons,12.0,13.8
-2018,Nova Scotia,Persons under 18 years,12.0,15.8
-2018,Nova Scotia,Persons 18 to 64 years,12.0,14.9
-2018,Nova Scotia,Persons 65 years and over,12.0,8.8
-2018,Nova Scotia,Males,12.0,13.4
-2018,Nova Scotia,"Males, under 18 years",12.0,17.5
-2018,Nova Scotia,"Males, 18 to 64 years",12.0,14.5
-2018,Nova Scotia,"Males, 65 years and over",12.0,6.3
-2018,Nova Scotia,Females,12.0,14.2
-2018,Nova Scotia,"Females, under 18 years",12.0,14.1
-2018,Nova Scotia,"Females, 18 to 64 years",12.0,15.3
-2018,Nova Scotia,"Females, 65 years and over",12.0,11.0
-2018,New Brunswick,All persons,13.0,10.8
-2018,New Brunswick,Persons under 18 years,13.0,11.9
-2018,New Brunswick,Persons 18 to 64 years,13.0,12.2
-2018,New Brunswick,Persons 65 years and over,13.0,5.9
-2018,New Brunswick,Males,13.0,10.5
-2018,New Brunswick,"Males, under 18 years",13.0,11.4
-2018,New Brunswick,"Males, 18 to 64 years",13.0,12.0
-2018,New Brunswick,"Males, 65 years and over",13.0,5.0
-2018,New Brunswick,Females,13.0,11.1
-2018,New Brunswick,"Females, under 18 years",13.0,12.4
-2018,New Brunswick,"Females, 18 to 64 years",13.0,12.3
-2018,New Brunswick,"Females, 65 years and over",13.0,6.6
-2018,Quebec,All persons,24.0,9.8
-2018,Quebec,Persons under 18 years,24.0,7.6
-2018,Quebec,Persons 18 to 64 years,24.0,11.8
-2018,Quebec,Persons 65 years and over,24.0,5.7
-2018,Quebec,Males,24.0,9.8
-2018,Quebec,"Males, under 18 years",24.0,7.9
-2018,Quebec,"Males, 18 to 64 years",24.0,11.7
-2018,Quebec,"Males, 65 years and over",24.0,4.8
-2018,Quebec,Females,24.0,9.9
-2018,Quebec,"Females, under 18 years",24.0,7.2
-2018,Quebec,"Females, 18 to 64 years",24.0,11.8
-2018,Quebec,"Females, 65 years and over",24.0,6.4
-2018,Ontario,All persons,35.0,11.8
-2018,Ontario,Persons under 18 years,35.0,12.0
-2018,Ontario,Persons 18 to 64 years,35.0,13.3
-2018,Ontario,Persons 65 years and over,35.0,5.7
-2018,Ontario,Males,35.0,12.2
-2018,Ontario,"Males, under 18 years",35.0,12.7
-2018,Ontario,"Males, 18 to 64 years",35.0,13.6
-2018,Ontario,"Males, 65 years and over",35.0,5.6
-2018,Ontario,Females,35.0,11.4
-2018,Ontario,"Females, under 18 years",35.0,11.3
-2018,Ontario,"Females, 18 to 64 years",35.0,13.1
-2018,Ontario,"Females, 65 years and over",35.0,5.8
-2018,Prairie provinces,All persons,,9.6
-2018,Prairie provinces,Persons under 18 years,,10.1
-2018,Prairie provinces,Persons 18 to 64 years,,10.6
-2018,Prairie provinces,Persons 65 years and over,,4.2
-2018,Prairie provinces,Males,,9.6
-2018,Prairie provinces,"Males, under 18 years",,10.5
-2018,Prairie provinces,"Males, 18 to 64 years",,10.6
-2018,Prairie provinces,"Males, 65 years and over",,3.1
-2018,Prairie provinces,Females,,9.6
-2018,Prairie provinces,"Females, under 18 years",,9.7
-2018,Prairie provinces,"Females, 18 to 64 years",,10.6
-2018,Prairie provinces,"Females, 65 years and over",,5.2
-2018,Manitoba,All persons,46.0,11.1
-2018,Manitoba,Persons under 18 years,46.0,13.1
-2018,Manitoba,Persons 18 to 64 years,46.0,11.7
-2018,Manitoba,Persons 65 years and over,46.0,6.1
-2018,Manitoba,Males,46.0,11.2
-2018,Manitoba,"Males, under 18 years",46.0,13.8
-2018,Manitoba,"Males, 18 to 64 years",46.0,11.6
-2018,Manitoba,"Males, 65 years and over",46.0,5.2
-2018,Manitoba,Females,46.0,11.1
-2018,Manitoba,"Females, under 18 years",46.0,12.3
-2018,Manitoba,"Females, 18 to 64 years",46.0,11.8
-2018,Manitoba,"Females, 65 years and over",46.0,6.8
-2018,Saskatchewan,All persons,47.0,10.8
-2018,Saskatchewan,Persons under 18 years,47.0,11.5
-2018,Saskatchewan,Persons 18 to 64 years,47.0,12.1
-2018,Saskatchewan,Persons 65 years and over,47.0,4.6
-2018,Saskatchewan,Males,47.0,10.4
-2018,Saskatchewan,"Males, under 18 years",47.0,10.5
-2018,Saskatchewan,"Males, 18 to 64 years",47.0,12.1
-2018,Saskatchewan,"Males, 65 years and over",47.0,3.1
-2018,Saskatchewan,Females,47.0,11.2
-2018,Saskatchewan,"Females, under 18 years",47.0,12.5
-2018,Saskatchewan,"Females, 18 to 64 years",47.0,12.1
-2018,Saskatchewan,"Females, 65 years and over",47.0,6.0
-2018,Alberta,All persons,48.0,8.8
-2018,Alberta,Persons under 18 years,48.0,8.8
-2018,Alberta,Persons 18 to 64 years,48.0,9.9
-2018,Alberta,Persons 65 years and over,48.0,3.4
-2018,Alberta,Males,48.0,8.9
-2018,Alberta,"Males, under 18 years",48.0,9.4
-2018,Alberta,"Males, 18 to 64 years",48.0,9.9
-2018,Alberta,"Males, 65 years and over",48.0,2.4
-2018,Alberta,Females,48.0,8.7
-2018,Alberta,"Females, under 18 years",48.0,8.1
-2018,Alberta,"Females, 18 to 64 years",48.0,9.9
-2018,Alberta,"Females, 65 years and over",48.0,4.3
-2018,British Columbia,All persons,59.0,13.3
-2018,British Columbia,Persons under 18 years,59.0,11.1
-2018,British Columbia,Persons 18 to 64 years,59.0,15.2
-2018,British Columbia,Persons 65 years and over,59.0,8.5
-2018,British Columbia,Males,59.0,13.4
-2018,British Columbia,"Males, under 18 years",59.0,12.6
-2018,British Columbia,"Males, 18 to 64 years",59.0,15.2
-2018,British Columbia,"Males, 65 years and over",59.0,7.7
-2018,British Columbia,Females,59.0,13.2
-2018,British Columbia,"Females, under 18 years",59.0,9.6
-2018,British Columbia,"Females, 18 to 64 years",59.0,15.2
-2018,British Columbia,"Females, 65 years and over",59.0,9.2
-2018,"Québec, Quebec",All persons,,8.6
-2018,"Québec, Quebec",Persons under 18 years,,
-2018,"Québec, Quebec",Persons 18 to 64 years,,10.0
-2018,"Québec, Quebec",Persons 65 years and over,,5.8
-2018,"Québec, Quebec",Males,,9.1
-2018,"Québec, Quebec","Males, under 18 years",,9.5
-2018,"Québec, Quebec","Males, 18 to 64 years",,10.0
-2018,"Québec, Quebec","Males, 65 years and over",,
-2018,"Québec, Quebec",Females,,8.0
-2018,"Québec, Quebec","Females, under 18 years",,
-2018,"Québec, Quebec","Females, 18 to 64 years",,10.0
-2018,"Québec, Quebec","Females, 65 years and over",,
-2018,"Montréal, Quebec",All persons,,11.3
-2018,"Montréal, Quebec",Persons under 18 years,,9.0
-2018,"Montréal, Quebec",Persons 18 to 64 years,,13.2
-2018,"Montréal, Quebec",Persons 65 years and over,,7.0
-2018,"Montréal, Quebec",Males,,11.0
-2018,"Montréal, Quebec","Males, under 18 years",,9.1
-2018,"Montréal, Quebec","Males, 18 to 64 years",,12.7
-2018,"Montréal, Quebec","Males, 65 years and over",,5.8
-2018,"Montréal, Quebec",Females,,11.7
-2018,"Montréal, Quebec","Females, under 18 years",,8.9
-2018,"Montréal, Quebec","Females, 18 to 64 years",,13.6
-2018,"Montréal, Quebec","Females, 65 years and over",,8.0
-2018,"Ottawa-Gatineau, Ontario/Quebec",All persons,,11.4
-2018,"Ottawa-Gatineau, Ontario/Quebec",Persons under 18 years,,10.2
-2018,"Ottawa-Gatineau, Ontario/Quebec",Persons 18 to 64 years,,13.2
-2018,"Ottawa-Gatineau, Ontario/Quebec",Persons 65 years and over,,5.4
-2018,"Ottawa-Gatineau, Ontario/Quebec",Males,,12.4
-2018,"Ottawa-Gatineau, Ontario/Quebec","Males, under 18 years",,10.7
-2018,"Ottawa-Gatineau, Ontario/Quebec","Males, 18 to 64 years",,14.4
-2018,"Ottawa-Gatineau, Ontario/Quebec","Males, 65 years and over",,5.3
-2018,"Ottawa-Gatineau, Ontario/Quebec",Females,,10.4
-2018,"Ottawa-Gatineau, Ontario/Quebec","Females, under 18 years",,9.7
-2018,"Ottawa-Gatineau, Ontario/Quebec","Females, 18 to 64 years",,11.9
-2018,"Ottawa-Gatineau, Ontario/Quebec","Females, 65 years and over",,5.4
-2018,"Toronto, Ontario",All persons,,14.2
-2018,"Toronto, Ontario",Persons under 18 years,,15.0
-2018,"Toronto, Ontario",Persons 18 to 64 years,,15.4
-2018,"Toronto, Ontario",Persons 65 years and over,,7.8
-2018,"Toronto, Ontario",Males,,15.1
-2018,"Toronto, Ontario","Males, under 18 years",,15.9
-2018,"Toronto, Ontario","Males, 18 to 64 years",,16.2
-2018,"Toronto, Ontario","Males, 65 years and over",,8.5
-2018,"Toronto, Ontario",Females,,13.2
-2018,"Toronto, Ontario","Females, under 18 years",,14.1
-2018,"Toronto, Ontario","Females, 18 to 64 years",,14.5
-2018,"Toronto, Ontario","Females, 65 years and over",,7.1
-2018,"Winnipeg, Manitoba",All persons,,12.4
-2018,"Winnipeg, Manitoba",Persons under 18 years,,14.6
-2018,"Winnipeg, Manitoba",Persons 18 to 64 years,,13.1
-2018,"Winnipeg, Manitoba",Persons 65 years and over,,6.4
-2018,"Winnipeg, Manitoba",Males,,12.1
-2018,"Winnipeg, Manitoba","Males, under 18 years",,14.7
-2018,"Winnipeg, Manitoba","Males, 18 to 64 years",,12.8
-2018,"Winnipeg, Manitoba","Males, 65 years and over",,5.1
-2018,"Winnipeg, Manitoba",Females,,12.7
-2018,"Winnipeg, Manitoba","Females, under 18 years",,14.5
-2018,"Winnipeg, Manitoba","Females, 18 to 64 years",,13.4
-2018,"Winnipeg, Manitoba","Females, 65 years and over",,7.6
-2018,"Calgary, Alberta",All persons,,11.3
-2018,"Calgary, Alberta",Persons under 18 years,,11.8
-2018,"Calgary, Alberta",Persons 18 to 64 years,,12.6
-2018,"Calgary, Alberta",Persons 65 years and over,,
-2018,"Calgary, Alberta",Males,,12.1
-2018,"Calgary, Alberta","Males, under 18 years",,13.6
-2018,"Calgary, Alberta","Males, 18 to 64 years",,13.3
-2018,"Calgary, Alberta","Males, 65 years and over",,
-2018,"Calgary, Alberta",Females,,10.5
-2018,"Calgary, Alberta","Females, under 18 years",,
-2018,"Calgary, Alberta","Females, 18 to 64 years",,11.9
-2018,"Calgary, Alberta","Females, 65 years and over",,
-2018,"Edmonton, Alberta",All persons,,7.2
-2018,"Edmonton, Alberta",Persons under 18 years,,6.5
-2018,"Edmonton, Alberta",Persons 18 to 64 years,,8.3
-2018,"Edmonton, Alberta",Persons 65 years and over,,
-2018,"Edmonton, Alberta",Males,,6.5
-2018,"Edmonton, Alberta","Males, under 18 years",,6.3
-2018,"Edmonton, Alberta","Males, 18 to 64 years",,7.2
-2018,"Edmonton, Alberta","Males, 65 years and over",,
-2018,"Edmonton, Alberta",Females,,8.0
-2018,"Edmonton, Alberta","Females, under 18 years",,6.6
-2018,"Edmonton, Alberta","Females, 18 to 64 years",,9.4
-2018,"Edmonton, Alberta","Females, 65 years and over",,
-2018,"Vancouver, British Columbia",All persons,,13.6
-2018,"Vancouver, British Columbia",Persons under 18 years,,10.5
-2018,"Vancouver, British Columbia",Persons 18 to 64 years,,15.4
-2018,"Vancouver, British Columbia",Persons 65 years and over,,9.0
-2018,"Vancouver, British Columbia",Males,,13.9
-2018,"Vancouver, British Columbia","Males, under 18 years",,12.9
-2018,"Vancouver, British Columbia","Males, 18 to 64 years",,15.4
-2018,"Vancouver, British Columbia","Males, 65 years and over",,8.6
-2018,"Vancouver, British Columbia",Females,,13.2
-2018,"Vancouver, British Columbia","Females, under 18 years",,8.0
-2018,"Vancouver, British Columbia","Females, 18 to 64 years",,15.4
-2018,"Vancouver, British Columbia","Females, 65 years and over",,9.3
-2019,Canada,Persons under 18 years,,9.4
-2019,Canada,Persons 18 to 64 years,,11.8
-2019,Canada,Persons 65 years and over,,5.7
-2019,Canada,Males,,9.9
-2019,Canada,"Males, under 18 years",,9.4
-2019,Canada,"Males, 18 to 64 years",,11.3
-2019,Canada,"Males, 65 years and over",,5.1
-2019,Canada,Females,,10.7
-2019,Canada,"Females, under 18 years",,9.4
-2019,Canada,"Females, 18 to 64 years",,12.3
-2019,Canada,"Females, 65 years and over",,6.3
-2019,Atlantic provinces,All persons,,11.2
-2019,Atlantic provinces,Persons under 18 years,,12.6
-2019,Atlantic provinces,Persons 18 to 64 years,,12.2
-2019,Atlantic provinces,Persons 65 years and over,,6.9
-2019,Atlantic provinces,Males,,9.9
-2019,Atlantic provinces,"Males, under 18 years",,11.9
-2019,Atlantic provinces,"Males, 18 to 64 years",,10.9
-2019,Atlantic provinces,"Males, 65 years and over",,4.8
-2019,Atlantic provinces,Females,,12.4
-2019,Atlantic provinces,"Females, under 18 years",,13.2
-2019,Atlantic provinces,"Females, 18 to 64 years",,13.5
-2019,Atlantic provinces,"Females, 65 years and over",,8.8
-2019,Newfoundland and Labrador,All persons,10.0,11.2
-2019,Newfoundland and Labrador,Persons under 18 years,10.0,15.3
-2019,Newfoundland and Labrador,Persons 18 to 64 years,10.0,11.9
-2019,Newfoundland and Labrador,Persons 65 years and over,10.0,6.0
-2019,Newfoundland and Labrador,Males,10.0,10.3
-2019,Newfoundland and Labrador,"Males, under 18 years",10.0,15.8
-2019,Newfoundland and Labrador,"Males, 18 to 64 years",10.0,10.8
-2019,Newfoundland and Labrador,"Males, 65 years and over",10.0,4.3
-2019,Newfoundland and Labrador,Females,10.0,12.1
-2019,Newfoundland and Labrador,"Females, under 18 years",10.0,14.8
-2019,Newfoundland and Labrador,"Females, 18 to 64 years",10.0,13.0
-2019,Newfoundland and Labrador,"Females, 65 years and over",10.0,7.5
-2019,Prince Edward Island,All persons,11.0,12.3
-2019,Prince Edward Island,Persons under 18 years,11.0,14.6
-2019,Prince Edward Island,Persons 18 to 64 years,11.0,13.2
-2019,Prince Edward Island,Persons 65 years and over,11.0,6.9
-2019,Prince Edward Island,Males,11.0,11.7
-2019,Prince Edward Island,"Males, under 18 years",11.0,17.9
-2019,Prince Edward Island,"Males, 18 to 64 years",11.0,11.5
-2019,Prince Edward Island,"Males, 65 years and over",11.0,
-2019,Prince Edward Island,Females,11.0,12.8
-2019,Prince Edward Island,"Females, under 18 years",11.0,11.0
-2019,Prince Edward Island,"Females, 18 to 64 years",11.0,14.9
-2019,Prince Edward Island,"Females, 65 years and over",11.0,8.2
-2019,Nova Scotia,All persons,12.0,12.0
-2019,Nova Scotia,Persons under 18 years,12.0,10.9
-2019,Nova Scotia,Persons 18 to 64 years,12.0,13.6
-2019,Nova Scotia,Persons 65 years and over,12.0,8.0
-2019,Nova Scotia,Males,12.0,10.7
-2019,Nova Scotia,"Males, under 18 years",12.0,11.3
-2019,Nova Scotia,"Males, 18 to 64 years",12.0,12.1
-2019,Nova Scotia,"Males, 65 years and over",12.0,6.0
-2019,Nova Scotia,Females,12.0,13.2
-2019,Nova Scotia,"Females, under 18 years",12.0,10.5
-2019,Nova Scotia,"Females, 18 to 64 years",12.0,15.1
-2019,Nova Scotia,"Females, 65 years and over",12.0,9.8
-2019,New Brunswick,All persons,13.0,9.9
-2019,New Brunswick,Persons under 18 years,13.0,12.4
-2019,New Brunswick,Persons 18 to 64 years,13.0,10.5
-2019,New Brunswick,Persons 65 years and over,13.0,6.1
-2019,New Brunswick,Males,13.0,8.1
-2019,New Brunswick,"Males, under 18 years",13.0,8.8
-2019,New Brunswick,"Males, 18 to 64 years",13.0,9.5
-2019,New Brunswick,"Males, 65 years and over",13.0,3.4
-2019,New Brunswick,Females,13.0,11.6
-2019,New Brunswick,"Females, under 18 years",13.0,15.9
-2019,New Brunswick,"Females, 18 to 64 years",13.0,11.5
-2019,New Brunswick,"Females, 65 years and over",13.0,8.5
-2019,Quebec,All persons,24.0,8.9
-2019,Quebec,Persons under 18 years,24.0,6.3
-2019,Quebec,Persons 18 to 64 years,24.0,10.8
-2019,Quebec,Persons 65 years and over,24.0,5.4
-2019,Quebec,Males,24.0,9.3
-2019,Quebec,"Males, under 18 years",24.0,7.3
-2019,Quebec,"Males, 18 to 64 years",24.0,11.1
-2019,Quebec,"Males, 65 years and over",24.0,4.8
-2019,Quebec,Females,24.0,8.6
-2019,Quebec,"Females, under 18 years",24.0,5.2
-2019,Quebec,"Females, 18 to 64 years",24.0,10.5
-2019,Quebec,"Females, 65 years and over",24.0,5.9
-2019,Ontario,All persons,35.0,10.9
-2019,Ontario,Persons under 18 years,35.0,11.5
-2019,Ontario,Persons 18 to 64 years,35.0,12.1
-2019,Ontario,Persons 65 years and over,35.0,6.0
-2019,Ontario,Males,35.0,10.1
-2019,Ontario,"Males, under 18 years",35.0,10.8
-2019,Ontario,"Males, 18 to 64 years",35.0,11.2
-2019,Ontario,"Males, 65 years and over",35.0,5.1
-2019,Ontario,Females,35.0,11.7
-2019,Ontario,"Females, under 18 years",35.0,12.1
-2019,Ontario,"Females, 18 to 64 years",35.0,12.9
-2019,Ontario,"Females, 65 years and over",35.0,6.8
-2019,Prairie provinces,All persons,,9.1
-2019,Prairie provinces,Persons under 18 years,,9.2
-2019,Prairie provinces,Persons 18 to 64 years,,10.2
-2019,Prairie provinces,Persons 65 years and over,,4.4
-2019,Prairie provinces,Males,,9.3
-2019,Prairie provinces,"Males, under 18 years",,9.7
-2019,Prairie provinces,"Males, 18 to 64 years",,10.1
-2019,Prairie provinces,"Males, 65 years and over",,5.0
-2019,Prairie provinces,Females,,8.9
-2019,Prairie provinces,"Females, under 18 years",,8.6
-2019,Prairie provinces,"Females, 18 to 64 years",,10.2
-2019,Prairie provinces,"Females, 65 years and over",,3.9
-2019,Manitoba,All persons,46.0,11.5
-2019,Manitoba,Persons under 18 years,46.0,13.5
-2019,Manitoba,Persons 18 to 64 years,46.0,12.2
-2019,Manitoba,Persons 65 years and over,46.0,5.6
-2019,Manitoba,Males,46.0,12.0
-2019,Manitoba,"Males, under 18 years",46.0,14.8
-2019,Manitoba,"Males, 18 to 64 years",46.0,12.5
-2019,Manitoba,"Males, 65 years and over",46.0,5.3
-2019,Manitoba,Females,46.0,11.0
-2019,Manitoba,"Females, under 18 years",46.0,12.0
-2019,Manitoba,"Females, 18 to 64 years",46.0,12.0
-2019,Manitoba,"Females, 65 years and over",46.0,5.9
-2019,Saskatchewan,All persons,47.0,11.9
-2019,Saskatchewan,Persons under 18 years,47.0,12.7
-2019,Saskatchewan,Persons 18 to 64 years,47.0,13.2
-2019,Saskatchewan,Persons 65 years and over,47.0,5.9
-2019,Saskatchewan,Males,47.0,12.4
-2019,Saskatchewan,"Males, under 18 years",47.0,13.3
-2019,Saskatchewan,"Males, 18 to 64 years",47.0,13.5
-2019,Saskatchewan,"Males, 65 years and over",47.0,6.3
-2019,Saskatchewan,Females,47.0,11.4
-2019,Saskatchewan,"Females, under 18 years",47.0,12.0
-2019,Saskatchewan,"Females, 18 to 64 years",47.0,12.8
-2019,Saskatchewan,"Females, 65 years and over",47.0,5.6
-2019,Alberta,All persons,48.0,7.7
-2019,Alberta,Persons under 18 years,48.0,6.9
-2019,Alberta,Persons 18 to 64 years,48.0,8.9
-2019,Alberta,Persons 65 years and over,48.0,3.5
-2019,Alberta,Males,48.0,7.8
-2019,Alberta,"Males, under 18 years",48.0,7.1
-2019,Alberta,"Males, 18 to 64 years",48.0,8.6
-2019,Alberta,"Males, 65 years and over",48.0,4.5
-2019,Alberta,Females,48.0,7.7
-2019,Alberta,"Females, under 18 years",48.0,6.7
-2019,Alberta,"Females, 18 to 64 years",48.0,9.1
-2019,Alberta,"Females, 65 years and over",48.0,2.7
-2019,British Columbia,All persons,59.0,11.9
-2019,British Columbia,Persons under 18 years,59.0,7.3
-2019,British Columbia,Persons 18 to 64 years,59.0,14.8
-2019,British Columbia,Persons 65 years and over,59.0,6.4
-2019,British Columbia,Males,59.0,11.3
-2019,British Columbia,"Males, under 18 years",59.0,7.0
-2019,British Columbia,"Males, 18 to 64 years",59.0,14.0
-2019,British Columbia,"Males, 65 years and over",59.0,5.7
-2019,British Columbia,Females,59.0,12.6
-2019,British Columbia,"Females, under 18 years",59.0,7.6
-2019,British Columbia,"Females, 18 to 64 years",59.0,15.5
-2019,British Columbia,"Females, 65 years and over",59.0,7.1
-2019,"Québec, Quebec",All persons,,8.2
-2019,"Québec, Quebec",Persons under 18 years,,
-2019,"Québec, Quebec",Persons 18 to 64 years,,9.9
-2019,"Québec, Quebec",Persons 65 years and over,,9.3
-2019,"Québec, Quebec",Males,,8.7
-2019,"Québec, Quebec","Males, under 18 years",,
-2019,"Québec, Quebec","Males, 18 to 64 years",,9.8
-2019,"Québec, Quebec","Males, 65 years and over",,
-2019,"Québec, Quebec",Females,,7.7
-2019,"Québec, Quebec","Females, under 18 years",,
-2019,"Québec, Quebec","Females, 18 to 64 years",,10.0
-2019,"Québec, Quebec","Females, 65 years and over",,
-2019,"Montréal, Quebec",All persons,,10.4
-2019,"Montréal, Quebec",Persons under 18 years,,7.4
-2019,"Montréal, Quebec",Persons 18 to 64 years,,12.3
-2019,"Montréal, Quebec",Persons 65 years and over,,6.8
-2019,"Montréal, Quebec",Males,,11.0
-2019,"Montréal, Quebec","Males, under 18 years",,8.8
-2019,"Montréal, Quebec","Males, 18 to 64 years",,12.7
-2019,"Montréal, Quebec","Males, 65 years and over",,
-2019,"Montréal, Quebec",Females,,9.8
-2019,"Montréal, Quebec","Females, under 18 years",,5.8
-2019,"Montréal, Quebec","Females, 18 to 64 years",,11.8
-2019,"Montréal, Quebec","Females, 65 years and over",,7.2
-2019,"Ottawa-Gatineau, Ontario/Quebec",All persons,,8.4
-2019,"Ottawa-Gatineau, Ontario/Quebec",Persons under 18 years,,7.5
-2019,"Ottawa-Gatineau, Ontario/Quebec",Persons 18 to 64 years,,9.3
-2019,"Ottawa-Gatineau, Ontario/Quebec",Persons 65 years and over,,6.0
-2019,"Ottawa-Gatineau, Ontario/Quebec",Males,,8.8
-2019,"Ottawa-Gatineau, Ontario/Quebec","Males, under 18 years",,8.6
-2019,"Ottawa-Gatineau, Ontario/Quebec","Males, 18 to 64 years",,9.6
-2019,"Ottawa-Gatineau, Ontario/Quebec","Males, 65 years and over",,
-2019,"Ottawa-Gatineau, Ontario/Quebec",Females,,8.0
-2019,"Ottawa-Gatineau, Ontario/Quebec","Females, under 18 years",,
-2019,"Ottawa-Gatineau, Ontario/Quebec","Females, 18 to 64 years",,8.9
-2019,"Ottawa-Gatineau, Ontario/Quebec","Females, 65 years and over",,6.9
-2019,"Toronto, Ontario",All persons,,13.1
-2019,"Toronto, Ontario",Persons under 18 years,,16.9
-2019,"Toronto, Ontario",Persons 18 to 64 years,,13.2
-2019,"Toronto, Ontario",Persons 65 years and over,,8.2
-2019,"Toronto, Ontario",Males,,12.2
-2019,"Toronto, Ontario","Males, under 18 years",,16.0
-2019,"Toronto, Ontario","Males, 18 to 64 years",,12.0
-2019,"Toronto, Ontario","Males, 65 years and over",,7.9
-2019,"Toronto, Ontario",Females,,14.0
-2019,"Toronto, Ontario","Females, under 18 years",,17.7
-2019,"Toronto, Ontario","Females, 18 to 64 years",,14.3
-2019,"Toronto, Ontario","Females, 65 years and over",,8.4
-2019,"Winnipeg, Manitoba",All persons,,11.9
-2019,"Winnipeg, Manitoba",Persons under 18 years,,13.2
-2019,"Winnipeg, Manitoba",Persons 18 to 64 years,,12.7
-2019,"Winnipeg, Manitoba",Persons 65 years and over,,7.0
-2019,"Winnipeg, Manitoba",Males,,12.7
-2019,"Winnipeg, Manitoba","Males, under 18 years",,15.0
-2019,"Winnipeg, Manitoba","Males, 18 to 64 years",,13.2
-2019,"Winnipeg, Manitoba","Males, 65 years and over",,7.1
-2019,"Winnipeg, Manitoba",Females,,11.1
-2019,"Winnipeg, Manitoba","Females, under 18 years",,11.4
-2019,"Winnipeg, Manitoba","Females, 18 to 64 years",,12.1
-2019,"Winnipeg, Manitoba","Females, 65 years and over",,7.0
-2019,"Calgary, Alberta",All persons,,5.2
-2019,"Calgary, Alberta",Persons under 18 years,,
-2019,"Calgary, Alberta",Persons 18 to 64 years,,5.9
-2019,"Calgary, Alberta",Persons 65 years and over,,
-2019,"Calgary, Alberta",Males,,5.0
-2019,"Calgary, Alberta","Males, under 18 years",,
-2019,"Calgary, Alberta","Males, 18 to 64 years",,5.5
-2019,"Calgary, Alberta","Males, 65 years and over",,
-2019,"Calgary, Alberta",Females,,5.5
-2019,"Calgary, Alberta","Females, under 18 years",,
-2019,"Calgary, Alberta","Females, 18 to 64 years",,6.3
-2019,"Calgary, Alberta","Females, 65 years and over",,
-2019,"Edmonton, Alberta",All persons,,9.8
-2019,"Edmonton, Alberta",Persons under 18 years,,
-2019,"Edmonton, Alberta",Persons 18 to 64 years,,10.8
-2019,"Edmonton, Alberta",Persons 65 years and over,,
-2019,"Edmonton, Alberta",Males,,9.5
-2019,"Edmonton, Alberta","Males, under 18 years",,9.8
-2019,"Edmonton, Alberta","Males, 18 to 64 years",,10.3
-2019,"Edmonton, Alberta","Males, 65 years and over",,
-2019,"Edmonton, Alberta",Females,,10.0
-2019,"Edmonton, Alberta","Females, under 18 years",,
-2019,"Edmonton, Alberta","Females, 18 to 64 years",,11.4
-2019,"Edmonton, Alberta","Females, 65 years and over",,
-2019,"Vancouver, British Columbia",All persons,,11.5
-2019,"Vancouver, British Columbia",Persons under 18 years,,4.6
-2019,"Vancouver, British Columbia",Persons 18 to 64 years,,14.7
-2019,"Vancouver, British Columbia",Persons 65 years and over,,5.6
-2019,"Vancouver, British Columbia",Males,,10.6
-2019,"Vancouver, British Columbia","Males, under 18 years",,
-2019,"Vancouver, British Columbia","Males, 18 to 64 years",,13.3
-2019,"Vancouver, British Columbia","Males, 65 years and over",,6.1
-2019,"Vancouver, British Columbia",Females,,12.5
-2019,"Vancouver, British Columbia","Females, under 18 years",,
-2019,"Vancouver, British Columbia","Females, 18 to 64 years",,16.0
-2019,"Vancouver, British Columbia","Females, 65 years and over",,
-2020,Canada,Persons under 18 years,,4.7
-2020,Canada,Persons 18 to 64 years,,7.8
-2020,Canada,Persons 65 years and over,,3.1
-2020,Canada,Males,,6.3
-2020,Canada,"Males, under 18 years",,4.7
-2020,Canada,"Males, 18 to 64 years",,7.8
-2020,Canada,"Males, 65 years and over",,2.7
-2020,Canada,Females,,6.4
-2020,Canada,"Females, under 18 years",,4.7
-2020,Canada,"Females, 18 to 64 years",,7.8
-2020,Canada,"Females, 65 years and over",,3.5
-2020,Atlantic provinces,All persons,,7.5
-2020,Atlantic provinces,Persons under 18 years,,6.3
-2020,Atlantic provinces,Persons 18 to 64 years,,9.0
-2020,Atlantic provinces,Persons 65 years and over,,4.4
-2020,Atlantic provinces,Males,,6.9
-2020,Atlantic provinces,"Males, under 18 years",,5.4
-2020,Atlantic provinces,"Males, 18 to 64 years",,8.4
-2020,Atlantic provinces,"Males, 65 years and over",,3.8
-2020,Atlantic provinces,Females,,8.1
-2020,Atlantic provinces,"Females, under 18 years",,7.3
-2020,Atlantic provinces,"Females, 18 to 64 years",,9.5
-2020,Atlantic provinces,"Females, 65 years and over",,5.0
-2020,Newfoundland and Labrador,All persons,10.0,7.0
-2020,Newfoundland and Labrador,Persons under 18 years,10.0,7.9
-2020,Newfoundland and Labrador,Persons 18 to 64 years,10.0,8.1
-2020,Newfoundland and Labrador,Persons 65 years and over,10.0,3.4
-2020,Newfoundland and Labrador,Males,10.0,6.5
-2020,Newfoundland and Labrador,"Males, under 18 years",10.0,
-2020,Newfoundland and Labrador,"Males, 18 to 64 years",10.0,7.7
-2020,Newfoundland and Labrador,"Males, 65 years and over",10.0,3.0
-2020,Newfoundland and Labrador,Females,10.0,7.4
-2020,Newfoundland and Labrador,"Females, under 18 years",10.0,9.1
-2020,Newfoundland and Labrador,"Females, 18 to 64 years",10.0,8.4
-2020,Newfoundland and Labrador,"Females, 65 years and over",10.0,3.7
-2020,Prince Edward Island,All persons,11.0,7.6
-2020,Prince Edward Island,Persons under 18 years,11.0,7.2
-2020,Prince Edward Island,Persons 18 to 64 years,11.0,8.7
-2020,Prince Edward Island,Persons 65 years and over,11.0,4.5
-2020,Prince Edward Island,Males,11.0,7.9
-2020,Prince Edward Island,"Males, under 18 years",11.0,6.1
-2020,Prince Edward Island,"Males, 18 to 64 years",11.0,9.1
-2020,Prince Edward Island,"Males, 65 years and over",11.0,6.0
-2020,Prince Edward Island,Females,11.0,7.2
-2020,Prince Edward Island,"Females, under 18 years",11.0,8.3
-2020,Prince Edward Island,"Females, 18 to 64 years",11.0,8.3
-2020,Prince Edward Island,"Females, 65 years and over",11.0,3.2
-2020,Nova Scotia,All persons,12.0,7.7
-2020,Nova Scotia,Persons under 18 years,12.0,5.5
-2020,Nova Scotia,Persons 18 to 64 years,12.0,9.5
-2020,Nova Scotia,Persons 65 years and over,12.0,4.5
-2020,Nova Scotia,Males,12.0,6.6
-2020,Nova Scotia,"Males, under 18 years",12.0,4.1
-2020,Nova Scotia,"Males, 18 to 64 years",12.0,8.3
-2020,Nova Scotia,"Males, 65 years and over",12.0,4.0
-2020,Nova Scotia,Females,12.0,8.8
-2020,Nova Scotia,"Females, under 18 years",12.0,7.1
-2020,Nova Scotia,"Females, 18 to 64 years",12.0,10.6
-2020,Nova Scotia,"Females, 65 years and over",12.0,4.9
-2020,New Brunswick,All persons,13.0,7.6
-2020,New Brunswick,Persons under 18 years,13.0,6.1
-2020,New Brunswick,Persons 18 to 64 years,13.0,9.0
-2020,New Brunswick,Persons 65 years and over,13.0,5.1
-2020,New Brunswick,Males,13.0,7.3
-2020,New Brunswick,"Males, under 18 years",13.0,6.0
-2020,New Brunswick,"Males, 18 to 64 years",13.0,8.8
-2020,New Brunswick,"Males, 65 years and over",13.0,3.8
-2020,New Brunswick,Females,13.0,8.0
-2020,New Brunswick,"Females, under 18 years",13.0,6.3
-2020,New Brunswick,"Females, 18 to 64 years",13.0,9.1
-2020,New Brunswick,"Females, 65 years and over",13.0,6.3
-2020,Quebec,All persons,24.0,4.8
-2020,Quebec,Persons under 18 years,24.0,2.3
-2020,Quebec,Persons 18 to 64 years,24.0,6.4
-2020,Quebec,Persons 65 years and over,24.0,2.3
-2020,Quebec,Males,24.0,4.6
-2020,Quebec,"Males, under 18 years",24.0,
-2020,Quebec,"Males, 18 to 64 years",24.0,6.3
-2020,Quebec,"Males, 65 years and over",24.0,1.8
-2020,Quebec,Females,24.0,5.0
-2020,Quebec,"Females, under 18 years",24.0,2.6
-2020,Quebec,"Females, 18 to 64 years",24.0,6.6
-2020,Quebec,"Females, 65 years and over",24.0,2.7
-2020,Ontario,All persons,35.0,6.8
-2020,Ontario,Persons under 18 years,35.0,5.6
-2020,Ontario,Persons 18 to 64 years,35.0,8.1
-2020,Ontario,Persons 65 years and over,35.0,3.3
-2020,Ontario,Males,35.0,6.9
-2020,Ontario,"Males, under 18 years",35.0,5.5
-2020,Ontario,"Males, 18 to 64 years",35.0,8.2
-2020,Ontario,"Males, 65 years and over",35.0,3.2
-2020,Ontario,Females,35.0,6.7
-2020,Ontario,"Females, under 18 years",35.0,5.7
-2020,Ontario,"Females, 18 to 64 years",35.0,8.0
-2020,Ontario,"Females, 65 years and over",35.0,3.3
-2020,Prairie provinces,All persons,,6.0
-2020,Prairie provinces,Persons under 18 years,,5.0
-2020,Prairie provinces,Persons 18 to 64 years,,7.0
-2020,Prairie provinces,Persons 65 years and over,,2.8
-2020,Prairie provinces,Males,,6.1
-2020,Prairie provinces,"Males, under 18 years",,5.4
-2020,Prairie provinces,"Males, 18 to 64 years",,7.2
-2020,Prairie provinces,"Males, 65 years and over",,2.2
-2020,Prairie provinces,Females,,5.8
-2020,Prairie provinces,"Females, under 18 years",,4.6
-2020,Prairie provinces,"Females, 18 to 64 years",,6.9
-2020,Prairie provinces,"Females, 65 years and over",,3.3
-2020,Manitoba,All persons,46.0,6.8
-2020,Manitoba,Persons under 18 years,46.0,6.0
-2020,Manitoba,Persons 18 to 64 years,46.0,8.2
-2020,Manitoba,Persons 65 years and over,46.0,2.3
-2020,Manitoba,Males,46.0,7.0
-2020,Manitoba,"Males, under 18 years",46.0,6.8
-2020,Manitoba,"Males, 18 to 64 years",46.0,8.5
-2020,Manitoba,"Males, 65 years and over",46.0,1.4
-2020,Manitoba,Females,46.0,6.5
-2020,Manitoba,"Females, under 18 years",46.0,5.2
-2020,Manitoba,"Females, 18 to 64 years",46.0,7.9
-2020,Manitoba,"Females, 65 years and over",46.0,3.0
-2020,Saskatchewan,All persons,47.0,6.7
-2020,Saskatchewan,Persons under 18 years,47.0,6.6
-2020,Saskatchewan,Persons 18 to 64 years,47.0,7.7
-2020,Saskatchewan,Persons 65 years and over,47.0,2.9
-2020,Saskatchewan,Males,47.0,7.2
-2020,Saskatchewan,"Males, under 18 years",47.0,7.8
-2020,Saskatchewan,"Males, 18 to 64 years",47.0,8.0
-2020,Saskatchewan,"Males, 65 years and over",47.0,2.8
-2020,Saskatchewan,Females,47.0,6.2
-2020,Saskatchewan,"Females, under 18 years",47.0,5.4
-2020,Saskatchewan,"Females, 18 to 64 years",47.0,7.4
-2020,Saskatchewan,"Females, 65 years and over",47.0,3.1
-2020,Alberta,All persons,48.0,5.5
-2020,Alberta,Persons under 18 years,48.0,4.2
-2020,Alberta,Persons 18 to 64 years,48.0,6.5
-2020,Alberta,Persons 65 years and over,48.0,2.9
-2020,Alberta,Males,48.0,5.5
-2020,Alberta,"Males, under 18 years",48.0,4.3
-2020,Alberta,"Males, 18 to 64 years",48.0,6.6
-2020,Alberta,"Males, 65 years and over",48.0,2.3
-2020,Alberta,Females,48.0,5.5
-2020,Alberta,"Females, under 18 years",48.0,4.2
-2020,Alberta,"Females, 18 to 64 years",48.0,6.5
-2020,Alberta,"Females, 65 years and over",48.0,3.5
-2020,British Columbia,All persons,59.0,7.6
-2020,British Columbia,Persons under 18 years,59.0,5.0
-2020,British Columbia,Persons 18 to 64 years,59.0,9.5
-2020,British Columbia,Persons 65 years and over,59.0,3.7
-2020,British Columbia,Males,59.0,7.6
-2020,British Columbia,"Males, under 18 years",59.0,5.4
-2020,British Columbia,"Males, 18 to 64 years",59.0,9.6
-2020,British Columbia,"Males, 65 years and over",59.0,2.9
-2020,British Columbia,Females,59.0,7.6
-2020,British Columbia,"Females, under 18 years",59.0,4.6
-2020,British Columbia,"Females, 18 to 64 years",59.0,9.3
-2020,British Columbia,"Females, 65 years and over",59.0,4.5
-2020,"Québec, Quebec",All persons,,3.2
-2020,"Québec, Quebec",Persons under 18 years,,
-2020,"Québec, Quebec",Persons 18 to 64 years,,4.5
-2020,"Québec, Quebec",Persons 65 years and over,,
-2020,"Québec, Quebec",Males,,3.3
-2020,"Québec, Quebec","Males, under 18 years",,
-2020,"Québec, Quebec","Males, 18 to 64 years",,4.6
-2020,"Québec, Quebec","Males, 65 years and over",,
-2020,"Québec, Quebec",Females,,3.1
-2020,"Québec, Quebec","Females, under 18 years",,
-2020,"Québec, Quebec","Females, 18 to 64 years",,4.5
-2020,"Québec, Quebec","Females, 65 years and over",,
-2020,"Montréal, Quebec",All persons,,5.4
-2020,"Montréal, Quebec",Persons under 18 years,,
-2020,"Montréal, Quebec",Persons 18 to 64 years,,6.8
-2020,"Montréal, Quebec",Persons 65 years and over,,2.9
-2020,"Montréal, Quebec",Males,,4.9
-2020,"Montréal, Quebec","Males, under 18 years",,
-2020,"Montréal, Quebec","Males, 18 to 64 years",,6.2
-2020,"Montréal, Quebec","Males, 65 years and over",,
-2020,"Montréal, Quebec",Females,,6.0
-2020,"Montréal, Quebec","Females, under 18 years",,
-2020,"Montréal, Quebec","Females, 18 to 64 years",,7.5
-2020,"Montréal, Quebec","Females, 65 years and over",,3.3
-2020,"Ottawa-Gatineau, Ontario/Quebec",All persons,,5.5
-2020,"Ottawa-Gatineau, Ontario/Quebec",Persons under 18 years,,
-2020,"Ottawa-Gatineau, Ontario/Quebec",Persons 18 to 64 years,,7.1
-2020,"Ottawa-Gatineau, Ontario/Quebec",Persons 65 years and over,,3.4
-2020,"Ottawa-Gatineau, Ontario/Quebec",Males,,6.2
-2020,"Ottawa-Gatineau, Ontario/Quebec","Males, under 18 years",,
-2020,"Ottawa-Gatineau, Ontario/Quebec","Males, 18 to 64 years",,8.3
-2020,"Ottawa-Gatineau, Ontario/Quebec","Males, 65 years and over",,
-2020,"Ottawa-Gatineau, Ontario/Quebec",Females,,4.8
-2020,"Ottawa-Gatineau, Ontario/Quebec","Females, under 18 years",,
-2020,"Ottawa-Gatineau, Ontario/Quebec","Females, 18 to 64 years",,6.0
-2020,"Ottawa-Gatineau, Ontario/Quebec","Females, 65 years and over",,
-2020,"Toronto, Ontario",All persons,,8.6
-2020,"Toronto, Ontario",Persons under 18 years,,9.0
-2020,"Toronto, Ontario",Persons 18 to 64 years,,9.4
-2020,"Toronto, Ontario",Persons 65 years and over,,4.2
-2020,"Toronto, Ontario",Males,,8.6
-2020,"Toronto, Ontario","Males, under 18 years",,8.9
-2020,"Toronto, Ontario","Males, 18 to 64 years",,9.5
-2020,"Toronto, Ontario","Males, 65 years and over",,4.3
-2020,"Toronto, Ontario",Females,,8.5
-2020,"Toronto, Ontario","Females, under 18 years",,9.2
-2020,"Toronto, Ontario","Females, 18 to 64 years",,9.3
-2020,"Toronto, Ontario","Females, 65 years and over",,4.1
-2020,"Winnipeg, Manitoba",All persons,,6.6
-2020,"Winnipeg, Manitoba",Persons under 18 years,,5.3
-2020,"Winnipeg, Manitoba",Persons 18 to 64 years,,8.0
-2020,"Winnipeg, Manitoba",Persons 65 years and over,,2.5
-2020,"Winnipeg, Manitoba",Males,,7.4
-2020,"Winnipeg, Manitoba","Males, under 18 years",,6.6
-2020,"Winnipeg, Manitoba","Males, 18 to 64 years",,9.1
-2020,"Winnipeg, Manitoba","Males, 65 years and over",,1.6
-2020,"Winnipeg, Manitoba",Females,,5.8
-2020,"Winnipeg, Manitoba","Females, under 18 years",,4.0
-2020,"Winnipeg, Manitoba","Females, 18 to 64 years",,7.0
-2020,"Winnipeg, Manitoba","Females, 65 years and over",,3.3
-2020,"Calgary, Alberta",All persons,,6.8
-2020,"Calgary, Alberta",Persons under 18 years,,
-2020,"Calgary, Alberta",Persons 18 to 64 years,,7.8
-2020,"Calgary, Alberta",Persons 65 years and over,,
-2020,"Calgary, Alberta",Males,,6.9
-2020,"Calgary, Alberta","Males, under 18 years",,
-2020,"Calgary, Alberta","Males, 18 to 64 years",,7.9
-2020,"Calgary, Alberta","Males, 65 years and over",,
-2020,"Calgary, Alberta",Females,,6.7
-2020,"Calgary, Alberta","Females, under 18 years",,
-2020,"Calgary, Alberta","Females, 18 to 64 years",,7.8
-2020,"Calgary, Alberta","Females, 65 years and over",,
-2020,"Edmonton, Alberta",All persons,,5.2
-2020,"Edmonton, Alberta",Persons under 18 years,,3.2
-2020,"Edmonton, Alberta",Persons 18 to 64 years,,6.0
-2020,"Edmonton, Alberta",Persons 65 years and over,,4.1
-2020,"Edmonton, Alberta",Males,,5.3
-2020,"Edmonton, Alberta","Males, under 18 years",,
-2020,"Edmonton, Alberta","Males, 18 to 64 years",,6.3
-2020,"Edmonton, Alberta","Males, 65 years and over",,
-2020,"Edmonton, Alberta",Females,,5.0
-2020,"Edmonton, Alberta","Females, under 18 years",,
-2020,"Edmonton, Alberta","Females, 18 to 64 years",,5.8
-2020,"Edmonton, Alberta","Females, 65 years and over",,
-2020,"Vancouver, British Columbia",All persons,,7.8
-2020,"Vancouver, British Columbia",Persons under 18 years,,4.7
-2020,"Vancouver, British Columbia",Persons 18 to 64 years,,9.4
-2020,"Vancouver, British Columbia",Persons 65 years and over,,4.4
-2020,"Vancouver, British Columbia",Males,,8.0
-2020,"Vancouver, British Columbia","Males, under 18 years",,
-2020,"Vancouver, British Columbia","Males, 18 to 64 years",,9.8
-2020,"Vancouver, British Columbia","Males, 65 years and over",,3.5
-2020,"Vancouver, British Columbia",Females,,7.5
-2020,"Vancouver, British Columbia","Females, under 18 years",,4.5
-2020,"Vancouver, British Columbia","Females, 18 to 64 years",,8.9
-2020,"Vancouver, British Columbia","Females, 65 years and over",,5.2
-2021,Canada,Persons under 18 years,,6.4
-2021,Canada,Persons 18 to 64 years,,8.2
-2021,Canada,Persons 65 years and over,,5.6
-2021,Canada,Males,,7.0
-2021,Canada,"Males, under 18 years",,6.1
-2021,Canada,"Males, 18 to 64 years",,7.9
-2021,Canada,"Males, 65 years and over",,4.9
-2021,Canada,Females,,7.7
-2021,Canada,"Females, under 18 years",,6.6
-2021,Canada,"Females, 18 to 64 years",,8.5
-2021,Canada,"Females, 65 years and over",,6.1
-2021,Atlantic provinces,All persons,,7.8
-2021,Atlantic provinces,Persons under 18 years,,7.1
-2021,Atlantic provinces,Persons 18 to 64 years,,8.4
-2021,Atlantic provinces,Persons 65 years and over,,6.8
-2021,Atlantic provinces,Males,,6.7
-2021,Atlantic provinces,"Males, under 18 years",,6.0
-2021,Atlantic provinces,"Males, 18 to 64 years",,7.3
-2021,Atlantic provinces,"Males, 65 years and over",,5.8
-2021,Atlantic provinces,Females,,8.8
-2021,Atlantic provinces,"Females, under 18 years",,8.3
-2021,Atlantic provinces,"Females, 18 to 64 years",,9.4
-2021,Atlantic provinces,"Females, 65 years and over",,7.6
-2021,Newfoundland and Labrador,All persons,10.0,8.1
-2021,Newfoundland and Labrador,Persons under 18 years,10.0,9.9
-2021,Newfoundland and Labrador,Persons 18 to 64 years,10.0,8.9
-2021,Newfoundland and Labrador,Persons 65 years and over,10.0,4.7
-2021,Newfoundland and Labrador,Males,10.0,6.8
-2021,Newfoundland and Labrador,"Males, under 18 years",10.0,7.5
-2021,Newfoundland and Labrador,"Males, 18 to 64 years",10.0,7.3
-2021,Newfoundland and Labrador,"Males, 65 years and over",10.0,4.8
-2021,Newfoundland and Labrador,Females,10.0,9.4
-2021,Newfoundland and Labrador,"Females, under 18 years",10.0,12.5
-2021,Newfoundland and Labrador,"Females, 18 to 64 years",10.0,10.4
-2021,Newfoundland and Labrador,"Females, 65 years and over",10.0,4.6
-2021,Prince Edward Island,All persons,11.0,7.4
-2021,Prince Edward Island,Persons under 18 years,11.0,4.4
-2021,Prince Edward Island,Persons 18 to 64 years,11.0,8.8
-2021,Prince Edward Island,Persons 65 years and over,11.0,5.7
-2021,Prince Edward Island,Males,11.0,6.3
-2021,Prince Edward Island,"Males, under 18 years",11.0,
-2021,Prince Edward Island,"Males, 18 to 64 years",11.0,7.3
-2021,Prince Edward Island,"Males, 65 years and over",11.0,
-2021,Prince Edward Island,Females,11.0,8.4
-2021,Prince Edward Island,"Females, under 18 years",11.0,
-2021,Prince Edward Island,"Females, 18 to 64 years",11.0,10.3
-2021,Prince Edward Island,"Females, 65 years and over",11.0,6.6
-2021,Nova Scotia,All persons,12.0,8.6
-2021,Nova Scotia,Persons under 18 years,12.0,6.1
-2021,Nova Scotia,Persons 18 to 64 years,12.0,9.1
-2021,Nova Scotia,Persons 65 years and over,12.0,9.1
-2021,Nova Scotia,Males,12.0,7.5
-2021,Nova Scotia,"Males, under 18 years",12.0,5.2
-2021,Nova Scotia,"Males, 18 to 64 years",12.0,7.9
-2021,Nova Scotia,"Males, 65 years and over",12.0,8.1
-2021,Nova Scotia,Females,12.0,9.6
-2021,Nova Scotia,"Females, under 18 years",12.0,7.1
-2021,Nova Scotia,"Females, 18 to 64 years",12.0,10.2
-2021,Nova Scotia,"Females, 65 years and over",12.0,9.9
-2021,New Brunswick,All persons,13.0,6.7
-2021,New Brunswick,Persons under 18 years,13.0,7.2
-2021,New Brunswick,Persons 18 to 64 years,13.0,7.0
-2021,New Brunswick,Persons 65 years and over,13.0,5.6
-2021,New Brunswick,Males,13.0,5.8
-2021,New Brunswick,"Males, under 18 years",13.0,6.3
-2021,New Brunswick,"Males, 18 to 64 years",13.0,6.4
-2021,New Brunswick,"Males, 65 years and over",13.0,3.9
-2021,New Brunswick,Females,13.0,7.6
-2021,New Brunswick,"Females, under 18 years",13.0,8.1
-2021,New Brunswick,"Females, 18 to 64 years",13.0,7.6
-2021,New Brunswick,"Females, 65 years and over",13.0,7.1
-2021,Quebec,All persons,24.0,5.2
-2021,Quebec,Persons under 18 years,24.0,3.0
-2021,Quebec,Persons 18 to 64 years,24.0,6.0
-2021,Quebec,Persons 65 years and over,24.0,4.9
-2021,Quebec,Males,24.0,5.0
-2021,Quebec,"Males, under 18 years",24.0,2.7
-2021,Quebec,"Males, 18 to 64 years",24.0,6.1
-2021,Quebec,"Males, 65 years and over",24.0,4.0
-2021,Quebec,Females,24.0,5.4
-2021,Quebec,"Females, under 18 years",24.0,3.2
-2021,Quebec,"Females, 18 to 64 years",24.0,5.9
-2021,Quebec,"Females, 65 years and over",24.0,5.7
-2021,Ontario,All persons,35.0,7.7
-2021,Ontario,Persons under 18 years,35.0,6.8
-2021,Ontario,Persons 18 to 64 years,35.0,8.7
-2021,Ontario,Persons 65 years and over,35.0,5.1
-2021,Ontario,Males,35.0,7.6
-2021,Ontario,"Males, under 18 years",35.0,6.6
-2021,Ontario,"Males, 18 to 64 years",35.0,8.6
-2021,Ontario,"Males, 65 years and over",35.0,4.8
-2021,Ontario,Females,35.0,7.8
-2021,Ontario,"Females, under 18 years",35.0,7.0
-2021,Ontario,"Females, 18 to 64 years",35.0,8.8
-2021,Ontario,"Females, 65 years and over",35.0,5.4
-2021,Prairie provinces,All persons,,8.2
-2021,Prairie provinces,Persons under 18 years,,8.1
-2021,Prairie provinces,Persons 18 to 64 years,,8.9
-2021,Prairie provinces,Persons 65 years and over,,5.8
-2021,Prairie provinces,Males,,8.0
-2021,Prairie provinces,"Males, under 18 years",,7.8
-2021,Prairie provinces,"Males, 18 to 64 years",,8.7
-2021,Prairie provinces,"Males, 65 years and over",,5.0
-2021,Prairie provinces,Females,,8.5
-2021,Prairie provinces,"Females, under 18 years",,8.4
-2021,Prairie provinces,"Females, 18 to 64 years",,9.0
-2021,Prairie provinces,"Females, 65 years and over",,6.5
-2021,Manitoba,All persons,46.0,8.8
-2021,Manitoba,Persons under 18 years,46.0,9.5
-2021,Manitoba,Persons 18 to 64 years,46.0,9.5
-2021,Manitoba,Persons 65 years and over,46.0,5.8
-2021,Manitoba,Males,46.0,8.6
-2021,Manitoba,"Males, under 18 years",46.0,8.8
-2021,Manitoba,"Males, 18 to 64 years",46.0,9.7
-2021,Manitoba,"Males, 65 years and over",46.0,4.4
-2021,Manitoba,Females,46.0,9.1
-2021,Manitoba,"Females, under 18 years",46.0,10.2
-2021,Manitoba,"Females, 18 to 64 years",46.0,9.2
-2021,Manitoba,"Females, 65 years and over",46.0,7.0
-2021,Saskatchewan,All persons,47.0,9.1
-2021,Saskatchewan,Persons under 18 years,47.0,8.5
-2021,Saskatchewan,Persons 18 to 64 years,47.0,10.4
-2021,Saskatchewan,Persons 65 years and over,47.0,5.5
-2021,Saskatchewan,Males,47.0,9.1
-2021,Saskatchewan,"Males, under 18 years",47.0,9.7
-2021,Saskatchewan,"Males, 18 to 64 years",47.0,10.2
-2021,Saskatchewan,"Males, 65 years and over",47.0,4.2
-2021,Saskatchewan,Females,47.0,9.1
-2021,Saskatchewan,"Females, under 18 years",47.0,7.3
-2021,Saskatchewan,"Females, 18 to 64 years",47.0,10.6
-2021,Saskatchewan,"Females, 65 years and over",47.0,6.6
-2021,Alberta,All persons,48.0,7.8
-2021,Alberta,Persons under 18 years,48.0,7.5
-2021,Alberta,Persons 18 to 64 years,48.0,8.3
-2021,Alberta,Persons 65 years and over,48.0,5.9
-2021,Alberta,Males,48.0,7.5
-2021,Alberta,"Males, under 18 years",48.0,6.9
-2021,Alberta,"Males, 18 to 64 years",48.0,8.1
-2021,Alberta,"Males, 65 years and over",48.0,5.5
-2021,Alberta,Females,48.0,8.1
-2021,Alberta,"Females, under 18 years",48.0,8.1
-2021,Alberta,"Females, 18 to 64 years",48.0,8.6
-2021,Alberta,"Females, 65 years and over",48.0,6.3
-2021,British Columbia,All persons,59.0,8.8
-2021,British Columbia,Persons under 18 years,59.0,7.9
-2021,British Columbia,Persons 18 to 64 years,59.0,9.5
-2021,British Columbia,Persons 65 years and over,59.0,7.0
-2021,British Columbia,Males,59.0,7.7
-2021,British Columbia,"Males, under 18 years",59.0,8.3
-2021,British Columbia,"Males, 18 to 64 years",59.0,8.1
-2021,British Columbia,"Males, 65 years and over",59.0,6.1
-2021,British Columbia,Females,59.0,9.7
-2021,British Columbia,"Females, under 18 years",59.0,7.5
-2021,British Columbia,"Females, 18 to 64 years",59.0,10.9
-2021,British Columbia,"Females, 65 years and over",59.0,7.8
-2021,"Québec, Quebec",All persons,,3.9
-2021,"Québec, Quebec",Persons under 18 years,,
-2021,"Québec, Quebec",Persons 18 to 64 years,,4.8
-2021,"Québec, Quebec",Persons 65 years and over,,3.9
-2021,"Québec, Quebec",Males,,4.2
-2021,"Québec, Quebec","Males, under 18 years",,
-2021,"Québec, Quebec","Males, 18 to 64 years",,5.2
-2021,"Québec, Quebec","Males, 65 years and over",,
-2021,"Québec, Quebec",Females,,3.6
-2021,"Québec, Quebec","Females, under 18 years",,
-2021,"Québec, Quebec","Females, 18 to 64 years",,4.5
-2021,"Québec, Quebec","Females, 65 years and over",,3.8
-2021,"Montréal, Quebec",All persons,,5.7
-2021,"Montréal, Quebec",Persons under 18 years,,3.8
-2021,"Montréal, Quebec",Persons 18 to 64 years,,6.1
-2021,"Montréal, Quebec",Persons 65 years and over,,6.1
-2021,"Montréal, Quebec",Males,,5.1
-2021,"Montréal, Quebec","Males, under 18 years",,
-2021,"Montréal, Quebec","Males, 18 to 64 years",,5.9
-2021,"Montréal, Quebec","Males, 65 years and over",,4.7
-2021,"Montréal, Quebec",Females,,6.2
-2021,"Montréal, Quebec","Females, under 18 years",,4.4
-2021,"Montréal, Quebec","Females, 18 to 64 years",,6.4
-2021,"Montréal, Quebec","Females, 65 years and over",,7.4
-2021,"Ottawa-Gatineau, Ontario/Quebec",All persons,,6.5
-2021,"Ottawa-Gatineau, Ontario/Quebec",Persons under 18 years,,
-2021,"Ottawa-Gatineau, Ontario/Quebec",Persons 18 to 64 years,,7.9
-2021,"Ottawa-Gatineau, Ontario/Quebec",Persons 65 years and over,,3.8
-2021,"Ottawa-Gatineau, Ontario/Quebec",Males,,6.0
-2021,"Ottawa-Gatineau, Ontario/Quebec","Males, under 18 years",,
-2021,"Ottawa-Gatineau, Ontario/Quebec","Males, 18 to 64 years",,7.6
-2021,"Ottawa-Gatineau, Ontario/Quebec","Males, 65 years and over",,
-2021,"Ottawa-Gatineau, Ontario/Quebec",Females,,7.1
-2021,"Ottawa-Gatineau, Ontario/Quebec","Females, under 18 years",,
-2021,"Ottawa-Gatineau, Ontario/Quebec","Females, 18 to 64 years",,8.1
-2021,"Ottawa-Gatineau, Ontario/Quebec","Females, 65 years and over",,4.9
-2021,"Toronto, Ontario",All persons,,9.4
-2021,"Toronto, Ontario",Persons under 18 years,,9.1
-2021,"Toronto, Ontario",Persons 18 to 64 years,,10.0
-2021,"Toronto, Ontario",Persons 65 years and over,,7.1
-2021,"Toronto, Ontario",Males,,9.1
-2021,"Toronto, Ontario","Males, under 18 years",,8.7
-2021,"Toronto, Ontario","Males, 18 to 64 years",,9.7
-2021,"Toronto, Ontario","Males, 65 years and over",,7.2
-2021,"Toronto, Ontario",Females,,9.6
-2021,"Toronto, Ontario","Females, under 18 years",,9.5
-2021,"Toronto, Ontario","Females, 18 to 64 years",,10.3
-2021,"Toronto, Ontario","Females, 65 years and over",,7.1
-2021,"Winnipeg, Manitoba",All persons,,9.3
-2021,"Winnipeg, Manitoba",Persons under 18 years,,10.9
-2021,"Winnipeg, Manitoba",Persons 18 to 64 years,,9.5
-2021,"Winnipeg, Manitoba",Persons 65 years and over,,6.5
-2021,"Winnipeg, Manitoba",Males,,8.5
-2021,"Winnipeg, Manitoba","Males, under 18 years",,8.9
-2021,"Winnipeg, Manitoba","Males, 18 to 64 years",,9.4
-2021,"Winnipeg, Manitoba","Males, 65 years and over",,4.1
-2021,"Winnipeg, Manitoba",Females,,10.2
-2021,"Winnipeg, Manitoba","Females, under 18 years",,12.9
-2021,"Winnipeg, Manitoba","Females, 18 to 64 years",,9.7
-2021,"Winnipeg, Manitoba","Females, 65 years and over",,8.6
-2021,"Calgary, Alberta",All persons,,8.0
-2021,"Calgary, Alberta",Persons under 18 years,,8.7
-2021,"Calgary, Alberta",Persons 18 to 64 years,,7.8
-2021,"Calgary, Alberta",Persons 65 years and over,,7.7
-2021,"Calgary, Alberta",Males,,7.7
-2021,"Calgary, Alberta","Males, under 18 years",,9.9
-2021,"Calgary, Alberta","Males, 18 to 64 years",,7.3
-2021,"Calgary, Alberta","Males, 65 years and over",,
-2021,"Calgary, Alberta",Females,,8.3
-2021,"Calgary, Alberta","Females, under 18 years",,7.6
-2021,"Calgary, Alberta","Females, 18 to 64 years",,8.4
-2021,"Calgary, Alberta","Females, 65 years and over",,9.1
-2021,"Edmonton, Alberta",All persons,,7.1
-2021,"Edmonton, Alberta",Persons under 18 years,,
-2021,"Edmonton, Alberta",Persons 18 to 64 years,,7.5
-2021,"Edmonton, Alberta",Persons 65 years and over,,5.2
-2021,"Edmonton, Alberta",Males,,7.1
-2021,"Edmonton, Alberta","Males, under 18 years",,
-2021,"Edmonton, Alberta","Males, 18 to 64 years",,7.9
-2021,"Edmonton, Alberta","Males, 65 years and over",,
-2021,"Edmonton, Alberta",Females,,7.1
-2021,"Edmonton, Alberta","Females, under 18 years",,
-2021,"Edmonton, Alberta","Females, 18 to 64 years",,7.1
-2021,"Edmonton, Alberta","Females, 65 years and over",,5.5
-2021,"Vancouver, British Columbia",All persons,,9.2
-2021,"Vancouver, British Columbia",Persons under 18 years,,8.4
-2021,"Vancouver, British Columbia",Persons 18 to 64 years,,9.6
-2021,"Vancouver, British Columbia",Persons 65 years and over,,8.6
-2021,"Vancouver, British Columbia",Males,,8.0
-2021,"Vancouver, British Columbia","Males, under 18 years",,9.2
-2021,"Vancouver, British Columbia","Males, 18 to 64 years",,7.9
-2021,"Vancouver, British Columbia","Males, 65 years and over",,7.3
-2021,"Vancouver, British Columbia",Females,,10.4
-2021,"Vancouver, British Columbia","Females, under 18 years",,
-2021,"Vancouver, British Columbia","Females, 18 to 64 years",,11.1
-2021,"Vancouver, British Columbia","Females, 65 years and over",,9.8
+Year,Geography,Gender,Age,Value
+2020,Canada,Total (all genders),Total (all ages),8.1
+2020,Canada,Total (all genders),0 to 17 years,8.5
+2020,Canada,Total (all genders),18 to 24 years,14.0
+2020,Canada,Total (all genders),25 to 54 years,7.9
+2020,Canada,Total (all genders),55 to 64 years,9.0
+2020,Canada,Total (all genders),65 years and over,4.7
+2015,Canada,Total (all genders),Total (all ages),14.5
+2015,Canada,Total (all genders),0 to 17 years,18.0
+2015,Canada,Total (all genders),18 to 24 years,20.9
+2015,Canada,Total (all genders),25 to 54 years,14.3
+2015,Canada,Total (all genders),55 to 64 years,13.2
+2015,Canada,Total (all genders),65 years and over,8.1
+2020,Canada,Total (all genders),Total (all ages),21.5
+2020,Canada,Total (all genders),0 to 17 years,96.5
+2020,Canada,Total (all genders),18 to 24 years,53.3
+2020,Canada,Total (all genders),25 to 54 years,20.7
+2020,Canada,Total (all genders),55 to 64 years,27.1
+2020,Canada,Total (all genders),65 years and over,10.0
+2015,Canada,Total (all genders),Total (all ages),31.1
+2015,Canada,Total (all genders),0 to 17 years,99.1
+2015,Canada,Total (all genders),18 to 24 years,66.7
+2015,Canada,Total (all genders),25 to 54 years,30.3
+2015,Canada,Total (all genders),55 to 64 years,35.2
+2015,Canada,Total (all genders),65 years and over,17.9
+2020,Canada,Men+,Total (all ages),8.2
+2020,Canada,Men+,0 to 17 years,8.5
+2020,Canada,Men+,18 to 24 years,13.9
+2020,Canada,Men+,25 to 54 years,8.1
+2020,Canada,Men+,55 to 64 years,9.4
+2020,Canada,Men+,65 years and over,4.3
+2015,Canada,Men+,Total (all ages),14.1
+2015,Canada,Men+,0 to 17 years,18.1
+2015,Canada,Men+,18 to 24 years,19.9
+2015,Canada,Men+,25 to 54 years,13.7
+2015,Canada,Men+,55 to 64 years,13.3
+2015,Canada,Men+,65 years and over,7.2
+2020,Canada,Men+,Total (all ages),23.4
+2020,Canada,Men+,0 to 17 years,96.8
+2020,Canada,Men+,18 to 24 years,52.2
+2020,Canada,Men+,25 to 54 years,21.4
+2020,Canada,Men+,55 to 64 years,28.6
+2020,Canada,Men+,65 years and over,10.7
+2015,Canada,Men+,Total (all ages),32.2
+2015,Canada,Men+,0 to 17 years,99.0
+2015,Canada,Men+,18 to 24 years,62.1
+2015,Canada,Men+,25 to 54 years,29.7
+2015,Canada,Men+,55 to 64 years,36.7
+2015,Canada,Men+,65 years and over,18.7
+2020,Canada,Women+,Total (all ages),8.0
+2020,Canada,Women+,0 to 17 years,8.4
+2020,Canada,Women+,18 to 24 years,14.1
+2020,Canada,Women+,25 to 54 years,7.7
+2020,Canada,Women+,55 to 64 years,8.7
+2020,Canada,Women+,65 years and over,5.0
+2015,Canada,Women+,Total (all ages),14.8
+2015,Canada,Women+,0 to 17 years,18.0
+2015,Canada,Women+,18 to 24 years,22.0
+2015,Canada,Women+,25 to 54 years,14.9
+2015,Canada,Women+,55 to 64 years,13.0
+2015,Canada,Women+,65 years and over,8.9
+2020,Canada,Women+,Total (all ages),19.7
+2020,Canada,Women+,0 to 17 years,96.2
+2020,Canada,Women+,18 to 24 years,54.7
+2020,Canada,Women+,25 to 54 years,19.7
+2020,Canada,Women+,55 to 64 years,25.6
+2020,Canada,Women+,65 years and over,9.7
+2015,Canada,Women+,Total (all ages),30.0
+2015,Canada,Women+,0 to 17 years,99.3
+2015,Canada,Women+,18 to 24 years,72.2
+2015,Canada,Women+,25 to 54 years,31.1
+2015,Canada,Women+,55 to 64 years,33.8
+2015,Canada,Women+,65 years and over,17.5
+2020,Ontario,Total (all genders),Total (all ages),8.3
+2020,Ontario,Total (all genders),0 to 17 years,8.7
+2020,Ontario,Total (all genders),18 to 24 years,13.7
+2020,Ontario,Total (all genders),25 to 54 years,8.3
+2020,Ontario,Total (all genders),55 to 64 years,8.9
+2020,Ontario,Total (all genders),65 years and over,4.8
+2015,Ontario,Total (all genders),Total (all ages),15.5
+2015,Ontario,Total (all genders),0 to 17 years,20.0
+2015,Ontario,Total (all genders),18 to 24 years,21.7
+2015,Ontario,Total (all genders),25 to 54 years,15.7
+2015,Ontario,Total (all genders),55 to 64 years,13.7
+2015,Ontario,Total (all genders),65 years and over,7.7
+2020,Ontario,Total (all genders),Total (all ages),23.9
+2020,Ontario,Total (all genders),0 to 17 years,96.7
+2020,Ontario,Total (all genders),18 to 24 years,59.6
+2020,Ontario,Total (all genders),25 to 54 years,23.3
+2020,Ontario,Total (all genders),55 to 64 years,29.8
+2020,Ontario,Total (all genders),65 years and over,10.5
+2015,Ontario,Total (all genders),Total (all ages),32.8
+2015,Ontario,Total (all genders),0 to 17 years,99.5
+2015,Ontario,Total (all genders),18 to 24 years,74.3
+2015,Ontario,Total (all genders),25 to 54 years,33.1
+2015,Ontario,Total (all genders),55 to 64 years,37.8
+2015,Ontario,Total (all genders),65 years and over,16.0
+2020,Ontario,Men+,Total (all ages),8.5
+2020,Ontario,Men+,0 to 17 years,8.7
+2020,Ontario,Men+,18 to 24 years,14.0
+2020,Ontario,Men+,25 to 54 years,8.5
+2020,Ontario,Men+,55 to 64 years,9.3
+2020,Ontario,Men+,65 years and over,4.5
+2015,Ontario,Men+,Total (all ages),15.3
+2015,Ontario,Men+,0 to 17 years,20.0
+2015,Ontario,Men+,18 to 24 years,21.0
+2015,Ontario,Men+,25 to 54 years,15.0
+2015,Ontario,Men+,55 to 64 years,13.9
+2015,Ontario,Men+,65 years and over,7.2
+2020,Ontario,Men+,Total (all ages),26.9
+2020,Ontario,Men+,0 to 17 years,97.1
+2020,Ontario,Men+,18 to 24 years,59.9
+2020,Ontario,Men+,25 to 54 years,24.6
+2020,Ontario,Men+,55 to 64 years,32.0
+2020,Ontario,Men+,65 years and over,11.9
+2015,Ontario,Men+,Total (all ages),35.3
+2015,Ontario,Men+,0 to 17 years,99.2
+2015,Ontario,Men+,18 to 24 years,71.6
+2015,Ontario,Men+,25 to 54 years,33.0
+2015,Ontario,Men+,55 to 64 years,39.7
+2015,Ontario,Men+,65 years and over,17.7
+2020,Ontario,Women+,Total (all ages),8.1
+2020,Ontario,Women+,0 to 17 years,8.7
+2020,Ontario,Women+,18 to 24 years,13.4
+2020,Ontario,Women+,25 to 54 years,8.0
+2020,Ontario,Women+,55 to 64 years,8.5
+2020,Ontario,Women+,65 years and over,5.0
+2015,Ontario,Women+,Total (all ages),15.8
+2015,Ontario,Women+,0 to 17 years,20.0
+2015,Ontario,Women+,18 to 24 years,22.4
+2015,Ontario,Women+,25 to 54 years,16.3
+2015,Ontario,Women+,55 to 64 years,13.5
+2015,Ontario,Women+,65 years and over,8.2
+2020,Ontario,Women+,Total (all ages),21.1
+2020,Ontario,Women+,0 to 17 years,96.3
+2020,Ontario,Women+,18 to 24 years,59.3
+2020,Ontario,Women+,25 to 54 years,21.7
+2020,Ontario,Women+,55 to 64 years,27.7
+2020,Ontario,Women+,65 years and over,9.8
+2015,Ontario,Women+,Total (all ages),30.5
+2015,Ontario,Women+,0 to 17 years,99.7
+2015,Ontario,Women+,18 to 24 years,77.4
+2015,Ontario,Women+,25 to 54 years,33.2
+2015,Ontario,Women+,55 to 64 years,36.1
+2015,Ontario,Women+,65 years and over,15.2
+2020,Asphodel-Norwood,Total (all genders),Total (all ages),5.7
+2020,Asphodel-Norwood,Total (all genders),0 to 17 years,5.2
+2020,Asphodel-Norwood,Total (all genders),18 to 24 years,10.2
+2020,Asphodel-Norwood,Total (all genders),25 to 54 years,5.6
+2020,Asphodel-Norwood,Total (all genders),55 to 64 years,8.1
+2020,Asphodel-Norwood,Total (all genders),65 years and over,3.4
+2015,Asphodel-Norwood,Total (all genders),Total (all ages),11.7
+2015,Asphodel-Norwood,Total (all genders),0 to 17 years,14.4
+2015,Asphodel-Norwood,Total (all genders),18 to 24 years,17.5
+2015,Asphodel-Norwood,Total (all genders),25 to 54 years,11.3
+2015,Asphodel-Norwood,Total (all genders),55 to 64 years,15.9
+2015,Asphodel-Norwood,Total (all genders),65 years and over,3.4
+2020,Asphodel-Norwood,Total (all genders),Total (all ages),19.4
+2020,Asphodel-Norwood,Total (all genders),0 to 17 years,0.0
+2020,Asphodel-Norwood,Total (all genders),18 to 24 years,0.0
+2020,Asphodel-Norwood,Total (all genders),25 to 54 years,18.5
+2020,Asphodel-Norwood,Total (all genders),55 to 64 years,25.0
+2020,Asphodel-Norwood,Total (all genders),65 years and over,12.2
+2015,Asphodel-Norwood,Total (all genders),Total (all ages),20.7
+2015,Asphodel-Norwood,Total (all genders),0 to 17 years,0.0
+2015,Asphodel-Norwood,Total (all genders),18 to 24 years,0.0
+2015,Asphodel-Norwood,Total (all genders),25 to 54 years,22.2
+2015,Asphodel-Norwood,Total (all genders),55 to 64 years,30.0
+2015,Asphodel-Norwood,Total (all genders),65 years and over,11.1
+2020,Asphodel-Norwood,Men+,Total (all ages),5.5
+2020,Asphodel-Norwood,Men+,0 to 17 years,6.3
+2020,Asphodel-Norwood,Men+,18 to 24 years,9.4
+2020,Asphodel-Norwood,Men+,25 to 54 years,5.1
+2020,Asphodel-Norwood,Men+,55 to 64 years,9.9
+2020,Asphodel-Norwood,Men+,65 years and over,0.0
+2015,Asphodel-Norwood,Men+,Total (all ages),11.2
+2015,Asphodel-Norwood,Men+,0 to 17 years,10.6
+2015,Asphodel-Norwood,Men+,18 to 24 years,17.4
+2015,Asphodel-Norwood,Men+,25 to 54 years,9.0
+2015,Asphodel-Norwood,Men+,55 to 64 years,19.2
+2015,Asphodel-Norwood,Men+,65 years and over,7.2
+2020,Asphodel-Norwood,Men+,Total (all ages),20.8
+2020,Asphodel-Norwood,Men+,0 to 17 years,0.0
+2020,Asphodel-Norwood,Men+,18 to 24 years,0.0
+2020,Asphodel-Norwood,Men+,25 to 54 years,23.5
+2020,Asphodel-Norwood,Men+,55 to 64 years,27.3
+2020,Asphodel-Norwood,Men+,65 years and over,0.0
+2015,Asphodel-Norwood,Men+,Total (all ages),23.3
+2015,Asphodel-Norwood,Men+,0 to 17 years,0.0
+2015,Asphodel-Norwood,Men+,18 to 24 years,0.0
+2015,Asphodel-Norwood,Men+,25 to 54 years,0.0
+2015,Asphodel-Norwood,Men+,55 to 64 years,37.5
+2015,Asphodel-Norwood,Men+,65 years and over,28.6
+2020,Asphodel-Norwood,Women+,Total (all ages),6.0
+2020,Asphodel-Norwood,Women+,0 to 17 years,3.9
+2020,Asphodel-Norwood,Women+,18 to 24 years,11.1
+2020,Asphodel-Norwood,Women+,25 to 54 years,6.0
+2020,Asphodel-Norwood,Women+,55 to 64 years,6.6
+2020,Asphodel-Norwood,Women+,65 years and over,4.7
+2015,Asphodel-Norwood,Women+,Total (all ages),12.2
+2015,Asphodel-Norwood,Women+,0 to 17 years,18.7
+2015,Asphodel-Norwood,Women+,18 to 24 years,17.6
+2015,Asphodel-Norwood,Women+,25 to 54 years,14.2
+2015,Asphodel-Norwood,Women+,55 to 64 years,13.6
+2015,Asphodel-Norwood,Women+,65 years and over,0.0
+2020,Asphodel-Norwood,Women+,Total (all ages),17.6
+2020,Asphodel-Norwood,Women+,0 to 17 years,0.0
+2020,Asphodel-Norwood,Women+,18 to 24 years,0.0
+2020,Asphodel-Norwood,Women+,25 to 54 years,0.0
+2020,Asphodel-Norwood,Women+,55 to 64 years,33.3
+2020,Asphodel-Norwood,Women+,65 years and over,11.1
+2015,Asphodel-Norwood,Women+,Total (all ages),18.2
+2015,Asphodel-Norwood,Women+,0 to 17 years,0.0
+2015,Asphodel-Norwood,Women+,18 to 24 years,0.0
+2015,Asphodel-Norwood,Women+,25 to 54 years,44.4
+2015,Asphodel-Norwood,Women+,55 to 64 years,0.0
+2015,Asphodel-Norwood,Women+,65 years and over,0.0
+2020,Otonabee-South Monaghan,Total (all genders),Total (all ages),5.1
+2020,Otonabee-South Monaghan,Total (all genders),0 to 17 years,7.4
+2020,Otonabee-South Monaghan,Total (all genders),18 to 24 years,4.8
+2020,Otonabee-South Monaghan,Total (all genders),25 to 54 years,6.1
+2020,Otonabee-South Monaghan,Total (all genders),55 to 64 years,4.5
+2020,Otonabee-South Monaghan,Total (all genders),65 years and over,2.1
+2015,Otonabee-South Monaghan,Total (all genders),Total (all ages),8.1
+2015,Otonabee-South Monaghan,Total (all genders),0 to 17 years,11.3
+2015,Otonabee-South Monaghan,Total (all genders),18 to 24 years,0.0
+2015,Otonabee-South Monaghan,Total (all genders),25 to 54 years,9.3
+2015,Otonabee-South Monaghan,Total (all genders),55 to 64 years,10.8
+2015,Otonabee-South Monaghan,Total (all genders),65 years and over,3.6
+2020,Otonabee-South Monaghan,Total (all genders),Total (all ages),11.3
+2020,Otonabee-South Monaghan,Total (all genders),0 to 17 years,0.0
+2020,Otonabee-South Monaghan,Total (all genders),18 to 24 years,0.0
+2020,Otonabee-South Monaghan,Total (all genders),25 to 54 years,19.0
+2020,Otonabee-South Monaghan,Total (all genders),55 to 64 years,11.4
+2020,Otonabee-South Monaghan,Total (all genders),65 years and over,0.0
+2015,Otonabee-South Monaghan,Total (all genders),Total (all ages),21.7
+2015,Otonabee-South Monaghan,Total (all genders),0 to 17 years,0.0
+2015,Otonabee-South Monaghan,Total (all genders),18 to 24 years,0.0
+2015,Otonabee-South Monaghan,Total (all genders),25 to 54 years,35.6
+2015,Otonabee-South Monaghan,Total (all genders),55 to 64 years,29.4
+2015,Otonabee-South Monaghan,Total (all genders),65 years and over,0.0
+2020,Otonabee-South Monaghan,Men+,Total (all ages),5.2
+2020,Otonabee-South Monaghan,Men+,0 to 17 years,7.0
+2020,Otonabee-South Monaghan,Men+,18 to 24 years,0.0
+2020,Otonabee-South Monaghan,Men+,25 to 54 years,6.5
+2020,Otonabee-South Monaghan,Men+,55 to 64 years,5.3
+2020,Otonabee-South Monaghan,Men+,65 years and over,2.4
+2015,Otonabee-South Monaghan,Men+,Total (all ages),8.7
+2015,Otonabee-South Monaghan,Men+,0 to 17 years,11.0
+2015,Otonabee-South Monaghan,Men+,18 to 24 years,0.0
+2015,Otonabee-South Monaghan,Men+,25 to 54 years,10.3
+2015,Otonabee-South Monaghan,Men+,55 to 64 years,11.2
+2015,Otonabee-South Monaghan,Men+,65 years and over,2.9
+2020,Otonabee-South Monaghan,Men+,Total (all ages),14.9
+2020,Otonabee-South Monaghan,Men+,0 to 17 years,0.0
+2020,Otonabee-South Monaghan,Men+,18 to 24 years,0.0
+2020,Otonabee-South Monaghan,Men+,25 to 54 years,22.2
+2020,Otonabee-South Monaghan,Men+,55 to 64 years,0.0
+2020,Otonabee-South Monaghan,Men+,65 years and over,0.0
+2015,Otonabee-South Monaghan,Men+,Total (all ages),25.3
+2015,Otonabee-South Monaghan,Men+,0 to 17 years,0.0
+2015,Otonabee-South Monaghan,Men+,18 to 24 years,0.0
+2015,Otonabee-South Monaghan,Men+,25 to 54 years,35.3
+2015,Otonabee-South Monaghan,Men+,55 to 64 years,23.8
+2015,Otonabee-South Monaghan,Men+,65 years and over,0.0
+2020,Otonabee-South Monaghan,Women+,Total (all ages),4.9
+2020,Otonabee-South Monaghan,Women+,0 to 17 years,8.6
+2020,Otonabee-South Monaghan,Women+,18 to 24 years,0.0
+2020,Otonabee-South Monaghan,Women+,25 to 54 years,5.8
+2020,Otonabee-South Monaghan,Women+,55 to 64 years,3.7
+2020,Otonabee-South Monaghan,Women+,65 years and over,0.0
+2015,Otonabee-South Monaghan,Women+,Total (all ages),7.7
+2015,Otonabee-South Monaghan,Women+,0 to 17 years,10.6
+2015,Otonabee-South Monaghan,Women+,18 to 24 years,0.0
+2015,Otonabee-South Monaghan,Women+,25 to 54 years,8.3
+2015,Otonabee-South Monaghan,Women+,55 to 64 years,10.3
+2015,Otonabee-South Monaghan,Women+,65 years and over,4.3
+2020,Otonabee-South Monaghan,Women+,Total (all ages),6.8
+2020,Otonabee-South Monaghan,Women+,0 to 17 years,0.0
+2020,Otonabee-South Monaghan,Women+,18 to 24 years,0.0
+2020,Otonabee-South Monaghan,Women+,25 to 54 years,0.0
+2020,Otonabee-South Monaghan,Women+,55 to 64 years,0.0
+2020,Otonabee-South Monaghan,Women+,65 years and over,0.0
+2015,Otonabee-South Monaghan,Women+,Total (all ages),16.7
+2015,Otonabee-South Monaghan,Women+,0 to 17 years,0.0
+2015,Otonabee-South Monaghan,Women+,18 to 24 years,0.0
+2015,Otonabee-South Monaghan,Women+,25 to 54 years,33.3
+2015,Otonabee-South Monaghan,Women+,55 to 64 years,30.8
+2015,Otonabee-South Monaghan,Women+,65 years and over,0.0
+2020,Hiawatha First Nation,Total (all genders),Total (all ages),0.0
+2020,Hiawatha First Nation,Total (all genders),0 to 17 years,0.0
+2020,Hiawatha First Nation,Total (all genders),18 to 24 years,0.0
+2020,Hiawatha First Nation,Total (all genders),25 to 54 years,0.0
+2020,Hiawatha First Nation,Total (all genders),55 to 64 years,0.0
+2020,Hiawatha First Nation,Total (all genders),65 years and over,0.0
+2015,Hiawatha First Nation,Total (all genders),Total (all ages),0.0
+2015,Hiawatha First Nation,Total (all genders),0 to 17 years,0.0
+2015,Hiawatha First Nation,Total (all genders),18 to 24 years,0.0
+2015,Hiawatha First Nation,Total (all genders),25 to 54 years,0.0
+2015,Hiawatha First Nation,Total (all genders),55 to 64 years,0.0
+2015,Hiawatha First Nation,Total (all genders),65 years and over,0.0
+2020,Hiawatha First Nation,Total (all genders),Total (all ages),0.0
+2020,Hiawatha First Nation,Total (all genders),0 to 17 years,0.0
+2020,Hiawatha First Nation,Total (all genders),18 to 24 years,0.0
+2020,Hiawatha First Nation,Total (all genders),25 to 54 years,0.0
+2020,Hiawatha First Nation,Total (all genders),55 to 64 years,0.0
+2020,Hiawatha First Nation,Total (all genders),65 years and over,0.0
+2015,Hiawatha First Nation,Total (all genders),Total (all ages),0.0
+2015,Hiawatha First Nation,Total (all genders),0 to 17 years,0.0
+2015,Hiawatha First Nation,Total (all genders),18 to 24 years,0.0
+2015,Hiawatha First Nation,Total (all genders),25 to 54 years,0.0
+2015,Hiawatha First Nation,Total (all genders),55 to 64 years,0.0
+2015,Hiawatha First Nation,Total (all genders),65 years and over,0.0
+2020,Hiawatha First Nation,Men+,Total (all ages),0.0
+2020,Hiawatha First Nation,Men+,0 to 17 years,0.0
+2020,Hiawatha First Nation,Men+,18 to 24 years,0.0
+2020,Hiawatha First Nation,Men+,25 to 54 years,0.0
+2020,Hiawatha First Nation,Men+,55 to 64 years,0.0
+2020,Hiawatha First Nation,Men+,65 years and over,0.0
+2015,Hiawatha First Nation,Men+,Total (all ages),0.0
+2015,Hiawatha First Nation,Men+,0 to 17 years,0.0
+2015,Hiawatha First Nation,Men+,18 to 24 years,0.0
+2015,Hiawatha First Nation,Men+,25 to 54 years,0.0
+2015,Hiawatha First Nation,Men+,55 to 64 years,0.0
+2015,Hiawatha First Nation,Men+,65 years and over,0.0
+2020,Hiawatha First Nation,Men+,Total (all ages),0.0
+2020,Hiawatha First Nation,Men+,0 to 17 years,0.0
+2020,Hiawatha First Nation,Men+,18 to 24 years,0.0
+2020,Hiawatha First Nation,Men+,25 to 54 years,0.0
+2020,Hiawatha First Nation,Men+,55 to 64 years,0.0
+2020,Hiawatha First Nation,Men+,65 years and over,0.0
+2015,Hiawatha First Nation,Men+,Total (all ages),0.0
+2015,Hiawatha First Nation,Men+,0 to 17 years,0.0
+2015,Hiawatha First Nation,Men+,18 to 24 years,0.0
+2015,Hiawatha First Nation,Men+,25 to 54 years,0.0
+2015,Hiawatha First Nation,Men+,55 to 64 years,0.0
+2015,Hiawatha First Nation,Men+,65 years and over,0.0
+2020,Hiawatha First Nation,Women+,Total (all ages),0.0
+2020,Hiawatha First Nation,Women+,0 to 17 years,0.0
+2020,Hiawatha First Nation,Women+,18 to 24 years,0.0
+2020,Hiawatha First Nation,Women+,25 to 54 years,0.0
+2020,Hiawatha First Nation,Women+,55 to 64 years,0.0
+2020,Hiawatha First Nation,Women+,65 years and over,0.0
+2015,Hiawatha First Nation,Women+,Total (all ages),0.0
+2015,Hiawatha First Nation,Women+,0 to 17 years,0.0
+2015,Hiawatha First Nation,Women+,18 to 24 years,0.0
+2015,Hiawatha First Nation,Women+,25 to 54 years,0.0
+2015,Hiawatha First Nation,Women+,55 to 64 years,0.0
+2015,Hiawatha First Nation,Women+,65 years and over,0.0
+2020,Hiawatha First Nation,Women+,Total (all ages),0.0
+2020,Hiawatha First Nation,Women+,0 to 17 years,0.0
+2020,Hiawatha First Nation,Women+,18 to 24 years,0.0
+2020,Hiawatha First Nation,Women+,25 to 54 years,0.0
+2020,Hiawatha First Nation,Women+,55 to 64 years,0.0
+2020,Hiawatha First Nation,Women+,65 years and over,0.0
+2015,Hiawatha First Nation,Women+,Total (all ages),0.0
+2015,Hiawatha First Nation,Women+,0 to 17 years,0.0
+2015,Hiawatha First Nation,Women+,18 to 24 years,0.0
+2015,Hiawatha First Nation,Women+,25 to 54 years,0.0
+2015,Hiawatha First Nation,Women+,55 to 64 years,0.0
+2015,Hiawatha First Nation,Women+,65 years and over,0.0
+2020,Cavan Monaghan,Total (all genders),Total (all ages),3.5
+2020,Cavan Monaghan,Total (all genders),0 to 17 years,3.3
+2020,Cavan Monaghan,Total (all genders),18 to 24 years,4.4
+2020,Cavan Monaghan,Total (all genders),25 to 54 years,2.9
+2020,Cavan Monaghan,Total (all genders),55 to 64 years,7.5
+2020,Cavan Monaghan,Total (all genders),65 years and over,1.3
+2015,Cavan Monaghan,Total (all genders),Total (all ages),7.7
+2015,Cavan Monaghan,Total (all genders),0 to 17 years,11.8
+2015,Cavan Monaghan,Total (all genders),18 to 24 years,7.0
+2015,Cavan Monaghan,Total (all genders),25 to 54 years,6.3
+2015,Cavan Monaghan,Total (all genders),55 to 64 years,9.4
+2015,Cavan Monaghan,Total (all genders),65 years and over,4.3
+2020,Cavan Monaghan,Total (all genders),Total (all ages),15.8
+2020,Cavan Monaghan,Total (all genders),0 to 17 years,0.0
+2020,Cavan Monaghan,Total (all genders),18 to 24 years,80.0
+2020,Cavan Monaghan,Total (all genders),25 to 54 years,14.6
+2020,Cavan Monaghan,Total (all genders),55 to 64 years,27.8
+2020,Cavan Monaghan,Total (all genders),65 years and over,5.5
+2015,Cavan Monaghan,Total (all genders),Total (all ages),22.5
+2015,Cavan Monaghan,Total (all genders),0 to 17 years,0.0
+2015,Cavan Monaghan,Total (all genders),18 to 24 years,0.0
+2015,Cavan Monaghan,Total (all genders),25 to 54 years,27.7
+2015,Cavan Monaghan,Total (all genders),55 to 64 years,22.9
+2015,Cavan Monaghan,Total (all genders),65 years and over,14.9
+2020,Cavan Monaghan,Men+,Total (all ages),3.4
+2020,Cavan Monaghan,Men+,0 to 17 years,2.6
+2020,Cavan Monaghan,Men+,18 to 24 years,0.0
+2020,Cavan Monaghan,Men+,25 to 54 years,2.0
+2020,Cavan Monaghan,Men+,55 to 64 years,8.5
+2020,Cavan Monaghan,Men+,65 years and over,0.0
+2015,Cavan Monaghan,Men+,Total (all ages),7.4
+2015,Cavan Monaghan,Men+,0 to 17 years,11.3
+2015,Cavan Monaghan,Men+,18 to 24 years,6.7
+2015,Cavan Monaghan,Men+,25 to 54 years,5.5
+2015,Cavan Monaghan,Men+,55 to 64 years,11.3
+2015,Cavan Monaghan,Men+,65 years and over,3.9
+2020,Cavan Monaghan,Men+,Total (all ages),19.2
+2020,Cavan Monaghan,Men+,0 to 17 years,0.0
+2020,Cavan Monaghan,Men+,18 to 24 years,0.0
+2020,Cavan Monaghan,Men+,25 to 54 years,14.8
+2020,Cavan Monaghan,Men+,55 to 64 years,27.3
+2020,Cavan Monaghan,Men+,65 years and over,0.0
+2015,Cavan Monaghan,Men+,Total (all ages),23.1
+2015,Cavan Monaghan,Men+,0 to 17 years,0.0
+2015,Cavan Monaghan,Men+,18 to 24 years,0.0
+2015,Cavan Monaghan,Men+,25 to 54 years,27.3
+2015,Cavan Monaghan,Men+,55 to 64 years,35.0
+2015,Cavan Monaghan,Men+,65 years and over,0.0
+2020,Cavan Monaghan,Women+,Total (all ages),3.7
+2020,Cavan Monaghan,Women+,0 to 17 years,3.0
+2020,Cavan Monaghan,Women+,18 to 24 years,0.0
+2020,Cavan Monaghan,Women+,25 to 54 years,3.7
+2020,Cavan Monaghan,Women+,55 to 64 years,7.1
+2020,Cavan Monaghan,Women+,65 years and over,0.0
+2015,Cavan Monaghan,Women+,Total (all ages),8.0
+2015,Cavan Monaghan,Women+,0 to 17 years,12.4
+2015,Cavan Monaghan,Women+,18 to 24 years,5.9
+2015,Cavan Monaghan,Women+,25 to 54 years,6.8
+2015,Cavan Monaghan,Women+,55 to 64 years,8.0
+2015,Cavan Monaghan,Women+,65 years and over,5.3
+2020,Cavan Monaghan,Women+,Total (all ages),13.9
+2020,Cavan Monaghan,Women+,0 to 17 years,0.0
+2020,Cavan Monaghan,Women+,18 to 24 years,0.0
+2020,Cavan Monaghan,Women+,25 to 54 years,0.0
+2020,Cavan Monaghan,Women+,55 to 64 years,26.7
+2020,Cavan Monaghan,Women+,65 years and over,0.0
+2015,Cavan Monaghan,Women+,Total (all ages),21.9
+2015,Cavan Monaghan,Women+,0 to 17 years,0.0
+2015,Cavan Monaghan,Women+,18 to 24 years,0.0
+2015,Cavan Monaghan,Women+,25 to 54 years,28.6
+2015,Cavan Monaghan,Women+,55 to 64 years,0.0
+2015,Cavan Monaghan,Women+,65 years and over,16.7
+2020,Peterborough (City),Total (all genders),Total (all ages),9.8
+2020,Peterborough (City),Total (all genders),0 to 17 years,8.2
+2020,Peterborough (City),Total (all genders),18 to 24 years,25.3
+2020,Peterborough (City),Total (all genders),25 to 54 years,9.4
+2020,Peterborough (City),Total (all genders),55 to 64 years,12.7
+2020,Peterborough (City),Total (all genders),65 years and over,3.5
+2015,Peterborough (City),Total (all genders),Total (all ages),18.3
+2015,Peterborough (City),Total (all genders),0 to 17 years,21.6
+2015,Peterborough (City),Total (all genders),18 to 24 years,37.2
+2015,Peterborough (City),Total (all genders),25 to 54 years,18.8
+2015,Peterborough (City),Total (all genders),55 to 64 years,15.9
+2015,Peterborough (City),Total (all genders),65 years and over,6.6
+2020,Peterborough (City),Total (all genders),Total (all ages),26.1
+2020,Peterborough (City),Total (all genders),0 to 17 years,100.0
+2020,Peterborough (City),Total (all genders),18 to 24 years,61.0
+2020,Peterborough (City),Total (all genders),25 to 54 years,25.4
+2020,Peterborough (City),Total (all genders),55 to 64 years,34.2
+2020,Peterborough (City),Total (all genders),65 years and over,8.2
+2015,Peterborough (City),Total (all genders),Total (all ages),38.9
+2015,Peterborough (City),Total (all genders),0 to 17 years,100.0
+2015,Peterborough (City),Total (all genders),18 to 24 years,84.2
+2015,Peterborough (City),Total (all genders),25 to 54 years,40.5
+2015,Peterborough (City),Total (all genders),55 to 64 years,39.9
+2015,Peterborough (City),Total (all genders),65 years and over,15.2
+2020,Peterborough (City),Men+,Total (all ages),10.1
+2020,Peterborough (City),Men+,0 to 17 years,7.8
+2020,Peterborough (City),Men+,18 to 24 years,23.4
+2020,Peterborough (City),Men+,25 to 54 years,10.5
+2020,Peterborough (City),Men+,55 to 64 years,13.6
+2020,Peterborough (City),Men+,65 years and over,3.2
+2015,Peterborough (City),Men+,Total (all ages),18.2
+2015,Peterborough (City),Men+,0 to 17 years,20.8
+2015,Peterborough (City),Men+,18 to 24 years,36.0
+2015,Peterborough (City),Men+,25 to 54 years,18.7
+2015,Peterborough (City),Men+,55 to 64 years,16.4
+2015,Peterborough (City),Men+,65 years and over,5.8
+2020,Peterborough (City),Men+,Total (all ages),30.2
+2020,Peterborough (City),Men+,0 to 17 years,0.0
+2020,Peterborough (City),Men+,18 to 24 years,60.0
+2020,Peterborough (City),Men+,25 to 54 years,28.2
+2020,Peterborough (City),Men+,55 to 64 years,38.7
+2020,Peterborough (City),Men+,65 years and over,10.2
+2015,Peterborough (City),Men+,Total (all ages),44.0
+2015,Peterborough (City),Men+,0 to 17 years,100.0
+2015,Peterborough (City),Men+,18 to 24 years,83.1
+2015,Peterborough (City),Men+,25 to 54 years,41.5
+2015,Peterborough (City),Men+,55 to 64 years,43.1
+2015,Peterborough (City),Men+,65 years and over,18.7
+2020,Peterborough (City),Women+,Total (all ages),9.5
+2020,Peterborough (City),Women+,0 to 17 years,8.5
+2020,Peterborough (City),Women+,18 to 24 years,27.2
+2020,Peterborough (City),Women+,25 to 54 years,8.4
+2020,Peterborough (City),Women+,55 to 64 years,12.0
+2020,Peterborough (City),Women+,65 years and over,3.8
+2015,Peterborough (City),Women+,Total (all ages),18.3
+2015,Peterborough (City),Women+,0 to 17 years,22.4
+2015,Peterborough (City),Women+,18 to 24 years,38.2
+2015,Peterborough (City),Women+,25 to 54 years,18.9
+2015,Peterborough (City),Women+,55 to 64 years,15.4
+2015,Peterborough (City),Women+,65 years and over,7.2
+2020,Peterborough (City),Women+,Total (all ages),23.0
+2020,Peterborough (City),Women+,0 to 17 years,100.0
+2020,Peterborough (City),Women+,18 to 24 years,61.9
+2020,Peterborough (City),Women+,25 to 54 years,22.1
+2020,Peterborough (City),Women+,55 to 64 years,30.2
+2020,Peterborough (City),Women+,65 years and over,7.3
+2015,Peterborough (City),Women+,Total (all ages),34.8
+2015,Peterborough (City),Women+,0 to 17 years,100.0
+2015,Peterborough (City),Women+,18 to 24 years,85.7
+2015,Peterborough (City),Women+,25 to 54 years,39.1
+2015,Peterborough (City),Women+,55 to 64 years,37.5
+2015,Peterborough (City),Women+,65 years and over,13.7
+2020,Selwyn,Total (all genders),Total (all ages),3.5
+2020,Selwyn,Total (all genders),0 to 17 years,4.1
+2020,Selwyn,Total (all genders),18 to 24 years,4.5
+2020,Selwyn,Total (all genders),25 to 54 years,3.6
+2020,Selwyn,Total (all genders),55 to 64 years,5.0
+2020,Selwyn,Total (all genders),65 years and over,1.9
+2015,Selwyn,Total (all genders),Total (all ages),8.8
+2015,Selwyn,Total (all genders),0 to 17 years,12.9
+2015,Selwyn,Total (all genders),18 to 24 years,9.8
+2015,Selwyn,Total (all genders),25 to 54 years,8.4
+2015,Selwyn,Total (all genders),55 to 64 years,10.2
+2015,Selwyn,Total (all genders),65 years and over,4.8
+2020,Selwyn,Total (all genders),Total (all ages),14.5
+2020,Selwyn,Total (all genders),0 to 17 years,0.0
+2020,Selwyn,Total (all genders),18 to 24 years,53.8
+2020,Selwyn,Total (all genders),25 to 54 years,16.7
+2020,Selwyn,Total (all genders),55 to 64 years,27.0
+2020,Selwyn,Total (all genders),65 years and over,6.4
+2015,Selwyn,Total (all genders),Total (all ages),27.7
+2015,Selwyn,Total (all genders),0 to 17 years,0.0
+2015,Selwyn,Total (all genders),18 to 24 years,64.7
+2015,Selwyn,Total (all genders),25 to 54 years,35.9
+2015,Selwyn,Total (all genders),55 to 64 years,36.4
+2015,Selwyn,Total (all genders),65 years and over,14.3
+2020,Selwyn,Men+,Total (all ages),3.7
+2020,Selwyn,Men+,0 to 17 years,3.7
+2020,Selwyn,Men+,18 to 24 years,6.9
+2020,Selwyn,Men+,25 to 54 years,3.4
+2020,Selwyn,Men+,55 to 64 years,6.7
+2020,Selwyn,Men+,65 years and over,1.7
+2015,Selwyn,Men+,Total (all ages),8.7
+2015,Selwyn,Men+,0 to 17 years,14.8
+2015,Selwyn,Men+,18 to 24 years,10.9
+2015,Selwyn,Men+,25 to 54 years,7.9
+2015,Selwyn,Men+,55 to 64 years,9.0
+2015,Selwyn,Men+,65 years and over,4.4
+2020,Selwyn,Men+,Total (all ages),17.9
+2020,Selwyn,Men+,0 to 17 years,0.0
+2020,Selwyn,Men+,18 to 24 years,0.0
+2020,Selwyn,Men+,25 to 54 years,17.5
+2020,Selwyn,Men+,55 to 64 years,35.1
+2020,Selwyn,Men+,65 years and over,7.5
+2015,Selwyn,Men+,Total (all ages),25.9
+2015,Selwyn,Men+,0 to 17 years,0.0
+2015,Selwyn,Men+,18 to 24 years,75.0
+2015,Selwyn,Men+,25 to 54 years,29.1
+2015,Selwyn,Men+,55 to 64 years,29.5
+2015,Selwyn,Men+,65 years and over,14.5
+2020,Selwyn,Women+,Total (all ages),3.3
+2020,Selwyn,Women+,0 to 17 years,4.5
+2020,Selwyn,Women+,18 to 24 years,0.0
+2020,Selwyn,Women+,25 to 54 years,3.8
+2020,Selwyn,Women+,55 to 64 years,3.4
+2020,Selwyn,Women+,65 years and over,2.1
+2015,Selwyn,Women+,Total (all ages),8.9
+2015,Selwyn,Women+,0 to 17 years,11.0
+2015,Selwyn,Women+,18 to 24 years,8.5
+2015,Selwyn,Women+,25 to 54 years,8.9
+2015,Selwyn,Women+,55 to 64 years,11.2
+2015,Selwyn,Women+,65 years and over,5.1
+2020,Selwyn,Women+,Total (all ages),12.1
+2020,Selwyn,Women+,0 to 17 years,0.0
+2020,Selwyn,Women+,18 to 24 years,0.0
+2020,Selwyn,Women+,25 to 54 years,17.4
+2020,Selwyn,Women+,55 to 64 years,22.9
+2020,Selwyn,Women+,65 years and over,5.6
+2015,Selwyn,Women+,Total (all ages),29.4
+2015,Selwyn,Women+,0 to 17 years,0.0
+2015,Selwyn,Women+,18 to 24 years,62.5
+2015,Selwyn,Women+,25 to 54 years,45.9
+2015,Selwyn,Women+,55 to 64 years,42.2
+2015,Selwyn,Women+,65 years and over,14.2
+2020,Curve Lake First Nation,Total (all genders),Total (all ages),0.0
+2020,Curve Lake First Nation,Total (all genders),0 to 17 years,0.0
+2020,Curve Lake First Nation,Total (all genders),18 to 24 years,0.0
+2020,Curve Lake First Nation,Total (all genders),25 to 54 years,0.0
+2020,Curve Lake First Nation,Total (all genders),55 to 64 years,0.0
+2020,Curve Lake First Nation,Total (all genders),65 years and over,0.0
+2015,Curve Lake First Nation,Total (all genders),Total (all ages),0.0
+2015,Curve Lake First Nation,Total (all genders),0 to 17 years,0.0
+2015,Curve Lake First Nation,Total (all genders),18 to 24 years,0.0
+2015,Curve Lake First Nation,Total (all genders),25 to 54 years,0.0
+2015,Curve Lake First Nation,Total (all genders),55 to 64 years,0.0
+2015,Curve Lake First Nation,Total (all genders),65 years and over,0.0
+2020,Curve Lake First Nation,Total (all genders),Total (all ages),0.0
+2020,Curve Lake First Nation,Total (all genders),0 to 17 years,0.0
+2020,Curve Lake First Nation,Total (all genders),18 to 24 years,0.0
+2020,Curve Lake First Nation,Total (all genders),25 to 54 years,0.0
+2020,Curve Lake First Nation,Total (all genders),55 to 64 years,0.0
+2020,Curve Lake First Nation,Total (all genders),65 years and over,0.0
+2015,Curve Lake First Nation,Total (all genders),Total (all ages),0.0
+2015,Curve Lake First Nation,Total (all genders),0 to 17 years,0.0
+2015,Curve Lake First Nation,Total (all genders),18 to 24 years,0.0
+2015,Curve Lake First Nation,Total (all genders),25 to 54 years,0.0
+2015,Curve Lake First Nation,Total (all genders),55 to 64 years,0.0
+2015,Curve Lake First Nation,Total (all genders),65 years and over,0.0
+2020,Curve Lake First Nation,Men+,Total (all ages),0.0
+2020,Curve Lake First Nation,Men+,0 to 17 years,0.0
+2020,Curve Lake First Nation,Men+,18 to 24 years,0.0
+2020,Curve Lake First Nation,Men+,25 to 54 years,0.0
+2020,Curve Lake First Nation,Men+,55 to 64 years,0.0
+2020,Curve Lake First Nation,Men+,65 years and over,0.0
+2015,Curve Lake First Nation,Men+,Total (all ages),0.0
+2015,Curve Lake First Nation,Men+,0 to 17 years,0.0
+2015,Curve Lake First Nation,Men+,18 to 24 years,0.0
+2015,Curve Lake First Nation,Men+,25 to 54 years,0.0
+2015,Curve Lake First Nation,Men+,55 to 64 years,0.0
+2015,Curve Lake First Nation,Men+,65 years and over,0.0
+2020,Curve Lake First Nation,Men+,Total (all ages),0.0
+2020,Curve Lake First Nation,Men+,0 to 17 years,0.0
+2020,Curve Lake First Nation,Men+,18 to 24 years,0.0
+2020,Curve Lake First Nation,Men+,25 to 54 years,0.0
+2020,Curve Lake First Nation,Men+,55 to 64 years,0.0
+2020,Curve Lake First Nation,Men+,65 years and over,0.0
+2015,Curve Lake First Nation,Men+,Total (all ages),0.0
+2015,Curve Lake First Nation,Men+,0 to 17 years,0.0
+2015,Curve Lake First Nation,Men+,18 to 24 years,0.0
+2015,Curve Lake First Nation,Men+,25 to 54 years,0.0
+2015,Curve Lake First Nation,Men+,55 to 64 years,0.0
+2015,Curve Lake First Nation,Men+,65 years and over,0.0
+2020,Curve Lake First Nation,Women+,Total (all ages),0.0
+2020,Curve Lake First Nation,Women+,0 to 17 years,0.0
+2020,Curve Lake First Nation,Women+,18 to 24 years,0.0
+2020,Curve Lake First Nation,Women+,25 to 54 years,0.0
+2020,Curve Lake First Nation,Women+,55 to 64 years,0.0
+2020,Curve Lake First Nation,Women+,65 years and over,0.0
+2015,Curve Lake First Nation,Women+,Total (all ages),0.0
+2015,Curve Lake First Nation,Women+,0 to 17 years,0.0
+2015,Curve Lake First Nation,Women+,18 to 24 years,0.0
+2015,Curve Lake First Nation,Women+,25 to 54 years,0.0
+2015,Curve Lake First Nation,Women+,55 to 64 years,0.0
+2015,Curve Lake First Nation,Women+,65 years and over,0.0
+2020,Curve Lake First Nation,Women+,Total (all ages),0.0
+2020,Curve Lake First Nation,Women+,0 to 17 years,0.0
+2020,Curve Lake First Nation,Women+,18 to 24 years,0.0
+2020,Curve Lake First Nation,Women+,25 to 54 years,0.0
+2020,Curve Lake First Nation,Women+,55 to 64 years,0.0
+2020,Curve Lake First Nation,Women+,65 years and over,0.0
+2015,Curve Lake First Nation,Women+,Total (all ages),0.0
+2015,Curve Lake First Nation,Women+,0 to 17 years,0.0
+2015,Curve Lake First Nation,Women+,18 to 24 years,0.0
+2015,Curve Lake First Nation,Women+,25 to 54 years,0.0
+2015,Curve Lake First Nation,Women+,55 to 64 years,0.0
+2015,Curve Lake First Nation,Women+,65 years and over,0.0
+2020,Douro-Dummer,Total (all genders),Total (all ages),3.0
+2020,Douro-Dummer,Total (all genders),0 to 17 years,0.0
+2020,Douro-Dummer,Total (all genders),18 to 24 years,0.0
+2020,Douro-Dummer,Total (all genders),25 to 54 years,3.2
+2020,Douro-Dummer,Total (all genders),55 to 64 years,6.4
+2020,Douro-Dummer,Total (all genders),65 years and over,2.3
+2015,Douro-Dummer,Total (all genders),Total (all ages),6.8
+2015,Douro-Dummer,Total (all genders),0 to 17 years,7.5
+2015,Douro-Dummer,Total (all genders),18 to 24 years,5.4
+2015,Douro-Dummer,Total (all genders),25 to 54 years,7.5
+2015,Douro-Dummer,Total (all genders),55 to 64 years,7.8
+2015,Douro-Dummer,Total (all genders),65 years and over,4.8
+2020,Douro-Dummer,Total (all genders),Total (all ages),15.8
+2020,Douro-Dummer,Total (all genders),0 to 17 years,0.0
+2020,Douro-Dummer,Total (all genders),18 to 24 years,0.0
+2020,Douro-Dummer,Total (all genders),25 to 54 years,25.0
+2020,Douro-Dummer,Total (all genders),55 to 64 years,27.5
+2020,Douro-Dummer,Total (all genders),65 years and over,0.0
+2015,Douro-Dummer,Total (all genders),Total (all ages),25.0
+2015,Douro-Dummer,Total (all genders),0 to 17 years,0.0
+2015,Douro-Dummer,Total (all genders),18 to 24 years,0.0
+2015,Douro-Dummer,Total (all genders),25 to 54 years,35.9
+2015,Douro-Dummer,Total (all genders),55 to 64 years,0.0
+2015,Douro-Dummer,Total (all genders),65 years and over,18.0
+2020,Douro-Dummer,Men+,Total (all ages),4.1
+2020,Douro-Dummer,Men+,0 to 17 years,0.0
+2020,Douro-Dummer,Men+,18 to 24 years,0.0
+2020,Douro-Dummer,Men+,25 to 54 years,4.1
+2020,Douro-Dummer,Men+,55 to 64 years,9.8
+2020,Douro-Dummer,Men+,65 years and over,2.1
+2015,Douro-Dummer,Men+,Total (all ages),6.9
+2015,Douro-Dummer,Men+,0 to 17 years,6.5
+2015,Douro-Dummer,Men+,18 to 24 years,0.0
+2015,Douro-Dummer,Men+,25 to 54 years,8.4
+2015,Douro-Dummer,Men+,55 to 64 years,9.6
+2015,Douro-Dummer,Men+,65 years and over,4.3
+2020,Douro-Dummer,Men+,Total (all ages),22.4
+2020,Douro-Dummer,Men+,0 to 17 years,0.0
+2020,Douro-Dummer,Men+,18 to 24 years,0.0
+2020,Douro-Dummer,Men+,25 to 54 years,26.1
+2020,Douro-Dummer,Men+,55 to 64 years,32.0
+2020,Douro-Dummer,Men+,65 years and over,0.0
+2015,Douro-Dummer,Men+,Total (all ages),26.6
+2015,Douro-Dummer,Men+,0 to 17 years,0.0
+2015,Douro-Dummer,Men+,18 to 24 years,0.0
+2015,Douro-Dummer,Men+,25 to 54 years,40.0
+2015,Douro-Dummer,Men+,55 to 64 years,0.0
+2015,Douro-Dummer,Men+,65 years and over,21.1
+2020,Douro-Dummer,Women+,Total (all ages),2.1
+2020,Douro-Dummer,Women+,0 to 17 years,0.0
+2020,Douro-Dummer,Women+,18 to 24 years,0.0
+2020,Douro-Dummer,Women+,25 to 54 years,2.4
+2020,Douro-Dummer,Women+,55 to 64 years,3.4
+2020,Douro-Dummer,Women+,65 years and over,2.5
+2015,Douro-Dummer,Women+,Total (all ages),6.8
+2015,Douro-Dummer,Women+,0 to 17 years,7.8
+2015,Douro-Dummer,Women+,18 to 24 years,0.0
+2015,Douro-Dummer,Women+,25 to 54 years,6.2
+2015,Douro-Dummer,Women+,55 to 64 years,6.2
+2015,Douro-Dummer,Women+,65 years and over,6.2
+2020,Douro-Dummer,Women+,Total (all ages),10.7
+2020,Douro-Dummer,Women+,0 to 17 years,0.0
+2020,Douro-Dummer,Women+,18 to 24 years,0.0
+2020,Douro-Dummer,Women+,25 to 54 years,0.0
+2020,Douro-Dummer,Women+,55 to 64 years,0.0
+2020,Douro-Dummer,Women+,65 years and over,0.0
+2015,Douro-Dummer,Women+,Total (all ages),21.2
+2015,Douro-Dummer,Women+,0 to 17 years,0.0
+2015,Douro-Dummer,Women+,18 to 24 years,0.0
+2015,Douro-Dummer,Women+,25 to 54 years,0.0
+2015,Douro-Dummer,Women+,55 to 64 years,0.0
+2015,Douro-Dummer,Women+,65 years and over,16.1
+2020,Havelock-Belmont-Methuen,Total (all genders),Total (all ages),7.3
+2020,Havelock-Belmont-Methuen,Total (all genders),0 to 17 years,7.1
+2020,Havelock-Belmont-Methuen,Total (all genders),18 to 24 years,0.0
+2020,Havelock-Belmont-Methuen,Total (all genders),25 to 54 years,5.8
+2020,Havelock-Belmont-Methuen,Total (all genders),55 to 64 years,18.6
+2020,Havelock-Belmont-Methuen,Total (all genders),65 years and over,2.2
+2015,Havelock-Belmont-Methuen,Total (all genders),Total (all ages),16.2
+2015,Havelock-Belmont-Methuen,Total (all genders),0 to 17 years,19.0
+2015,Havelock-Belmont-Methuen,Total (all genders),18 to 24 years,18.2
+2015,Havelock-Belmont-Methuen,Total (all genders),25 to 54 years,18.4
+2015,Havelock-Belmont-Methuen,Total (all genders),55 to 64 years,24.7
+2015,Havelock-Belmont-Methuen,Total (all genders),65 years and over,5.7
+2020,Havelock-Belmont-Methuen,Total (all genders),Total (all ages),17.2
+2020,Havelock-Belmont-Methuen,Total (all genders),0 to 17 years,0.0
+2020,Havelock-Belmont-Methuen,Total (all genders),18 to 24 years,0.0
+2020,Havelock-Belmont-Methuen,Total (all genders),25 to 54 years,21.6
+2020,Havelock-Belmont-Methuen,Total (all genders),55 to 64 years,37.8
+2020,Havelock-Belmont-Methuen,Total (all genders),65 years and over,0.0
+2015,Havelock-Belmont-Methuen,Total (all genders),Total (all ages),31.6
+2015,Havelock-Belmont-Methuen,Total (all genders),0 to 17 years,0.0
+2015,Havelock-Belmont-Methuen,Total (all genders),18 to 24 years,0.0
+2015,Havelock-Belmont-Methuen,Total (all genders),25 to 54 years,46.9
+2015,Havelock-Belmont-Methuen,Total (all genders),55 to 64 years,40.0
+2015,Havelock-Belmont-Methuen,Total (all genders),65 years and over,16.4
+2020,Havelock-Belmont-Methuen,Men+,Total (all ages),8.2
+2020,Havelock-Belmont-Methuen,Men+,0 to 17 years,9.4
+2020,Havelock-Belmont-Methuen,Men+,18 to 24 years,0.0
+2020,Havelock-Belmont-Methuen,Men+,25 to 54 years,6.9
+2020,Havelock-Belmont-Methuen,Men+,55 to 64 years,18.9
+2020,Havelock-Belmont-Methuen,Men+,65 years and over,2.4
+2015,Havelock-Belmont-Methuen,Men+,Total (all ages),16.0
+2015,Havelock-Belmont-Methuen,Men+,0 to 17 years,18.8
+2015,Havelock-Belmont-Methuen,Men+,18 to 24 years,20.0
+2015,Havelock-Belmont-Methuen,Men+,25 to 54 years,17.4
+2015,Havelock-Belmont-Methuen,Men+,55 to 64 years,25.3
+2015,Havelock-Belmont-Methuen,Men+,65 years and over,5.3
+2020,Havelock-Belmont-Methuen,Men+,Total (all ages),17.3
+2020,Havelock-Belmont-Methuen,Men+,0 to 17 years,0.0
+2020,Havelock-Belmont-Methuen,Men+,18 to 24 years,0.0
+2020,Havelock-Belmont-Methuen,Men+,25 to 54 years,25.0
+2020,Havelock-Belmont-Methuen,Men+,55 to 64 years,30.0
+2020,Havelock-Belmont-Methuen,Men+,65 years and over,0.0
+2015,Havelock-Belmont-Methuen,Men+,Total (all ages),27.4
+2015,Havelock-Belmont-Methuen,Men+,0 to 17 years,0.0
+2015,Havelock-Belmont-Methuen,Men+,18 to 24 years,0.0
+2015,Havelock-Belmont-Methuen,Men+,25 to 54 years,43.5
+2015,Havelock-Belmont-Methuen,Men+,55 to 64 years,35.0
+2015,Havelock-Belmont-Methuen,Men+,65 years and over,0.0
+2020,Havelock-Belmont-Methuen,Women+,Total (all ages),6.4
+2020,Havelock-Belmont-Methuen,Women+,0 to 17 years,0.0
+2020,Havelock-Belmont-Methuen,Women+,18 to 24 years,0.0
+2020,Havelock-Belmont-Methuen,Women+,25 to 54 years,4.7
+2020,Havelock-Belmont-Methuen,Women+,55 to 64 years,17.3
+2020,Havelock-Belmont-Methuen,Women+,65 years and over,0.0
+2015,Havelock-Belmont-Methuen,Women+,Total (all ages),16.5
+2015,Havelock-Belmont-Methuen,Women+,0 to 17 years,17.9
+2015,Havelock-Belmont-Methuen,Women+,18 to 24 years,20.8
+2015,Havelock-Belmont-Methuen,Women+,25 to 54 years,18.5
+2015,Havelock-Belmont-Methuen,Women+,55 to 64 years,24.2
+2015,Havelock-Belmont-Methuen,Women+,65 years and over,7.0
+2020,Havelock-Belmont-Methuen,Women+,Total (all ages),17.1
+2020,Havelock-Belmont-Methuen,Women+,0 to 17 years,0.0
+2020,Havelock-Belmont-Methuen,Women+,18 to 24 years,0.0
+2020,Havelock-Belmont-Methuen,Women+,25 to 54 years,0.0
+2020,Havelock-Belmont-Methuen,Women+,55 to 64 years,47.1
+2020,Havelock-Belmont-Methuen,Women+,65 years and over,0.0
+2015,Havelock-Belmont-Methuen,Women+,Total (all ages),37.7
+2015,Havelock-Belmont-Methuen,Women+,0 to 17 years,0.0
+2015,Havelock-Belmont-Methuen,Women+,18 to 24 years,0.0
+2015,Havelock-Belmont-Methuen,Women+,25 to 54 years,50.0
+2015,Havelock-Belmont-Methuen,Women+,55 to 64 years,46.7
+2015,Havelock-Belmont-Methuen,Women+,65 years and over,21.9
+2020,North Kawartha,Total (all genders),Total (all ages),6.0
+2020,North Kawartha,Total (all genders),0 to 17 years,0.0
+2020,North Kawartha,Total (all genders),18 to 24 years,0.0
+2020,North Kawartha,Total (all genders),25 to 54 years,7.0
+2020,North Kawartha,Total (all genders),55 to 64 years,10.5
+2020,North Kawartha,Total (all genders),65 years and over,2.2
+2015,North Kawartha,Total (all genders),Total (all ages),12.6
+2015,North Kawartha,Total (all genders),0 to 17 years,16.0
+2015,North Kawartha,Total (all genders),18 to 24 years,25.7
+2015,North Kawartha,Total (all genders),25 to 54 years,13.9
+2015,North Kawartha,Total (all genders),55 to 64 years,8.7
+2015,North Kawartha,Total (all genders),65 years and over,9.8
+2020,North Kawartha,Total (all genders),Total (all ages),20.6
+2020,North Kawartha,Total (all genders),0 to 17 years,0.0
+2020,North Kawartha,Total (all genders),18 to 24 years,0.0
+2020,North Kawartha,Total (all genders),25 to 54 years,30.8
+2020,North Kawartha,Total (all genders),55 to 64 years,40.0
+2020,North Kawartha,Total (all genders),65 years and over,7.0
+2015,North Kawartha,Total (all genders),Total (all ages),31.6
+2015,North Kawartha,Total (all genders),0 to 17 years,0.0
+2015,North Kawartha,Total (all genders),18 to 24 years,0.0
+2015,North Kawartha,Total (all genders),25 to 54 years,35.3
+2015,North Kawartha,Total (all genders),55 to 64 years,31.6
+2015,North Kawartha,Total (all genders),65 years and over,28.6
+2020,North Kawartha,Men+,Total (all ages),7.0
+2020,North Kawartha,Men+,0 to 17 years,0.0
+2020,North Kawartha,Men+,18 to 24 years,0.0
+2020,North Kawartha,Men+,25 to 54 years,8.5
+2020,North Kawartha,Men+,55 to 64 years,14.5
+2020,North Kawartha,Men+,65 years and over,0.0
+2015,North Kawartha,Men+,Total (all ages),11.1
+2015,North Kawartha,Men+,0 to 17 years,13.2
+2015,North Kawartha,Men+,18 to 24 years,0.0
+2015,North Kawartha,Men+,25 to 54 years,12.7
+2015,North Kawartha,Men+,55 to 64 years,10.7
+2015,North Kawartha,Men+,65 years and over,7.5
+2020,North Kawartha,Men+,Total (all ages),25.9
+2020,North Kawartha,Men+,0 to 17 years,0.0
+2020,North Kawartha,Men+,18 to 24 years,0.0
+2020,North Kawartha,Men+,25 to 54 years,0.0
+2020,North Kawartha,Men+,55 to 64 years,45.0
+2020,North Kawartha,Men+,65 years and over,0.0
+2015,North Kawartha,Men+,Total (all ages),27.9
+2015,North Kawartha,Men+,0 to 17 years,0.0
+2015,North Kawartha,Men+,18 to 24 years,0.0
+2015,North Kawartha,Men+,25 to 54 years,25.0
+2015,North Kawartha,Men+,55 to 64 years,28.6
+2015,North Kawartha,Men+,65 years and over,25.0
+2020,North Kawartha,Women+,Total (all ages),4.8
+2020,North Kawartha,Women+,0 to 17 years,0.0
+2020,North Kawartha,Women+,18 to 24 years,0.0
+2020,North Kawartha,Women+,25 to 54 years,5.6
+2020,North Kawartha,Women+,55 to 64 years,6.0
+2020,North Kawartha,Women+,65 years and over,0.0
+2015,North Kawartha,Women+,Total (all ages),14.2
+2015,North Kawartha,Women+,0 to 17 years,18.9
+2015,North Kawartha,Women+,18 to 24 years,30.0
+2015,North Kawartha,Women+,25 to 54 years,15.3
+2015,North Kawartha,Women+,55 to 64 years,5.0
+2015,North Kawartha,Women+,65 years and over,12.5
+2020,North Kawartha,Women+,Total (all ages),16.3
+2020,North Kawartha,Women+,0 to 17 years,0.0
+2020,North Kawartha,Women+,18 to 24 years,0.0
+2020,North Kawartha,Women+,25 to 54 years,0.0
+2020,North Kawartha,Women+,55 to 64 years,0.0
+2020,North Kawartha,Women+,65 years and over,0.0
+2015,North Kawartha,Women+,Total (all ages),36.4
+2015,North Kawartha,Women+,0 to 17 years,0.0
+2015,North Kawartha,Women+,18 to 24 years,0.0
+2015,North Kawartha,Women+,25 to 54 years,0.0
+2015,North Kawartha,Women+,55 to 64 years,0.0
+2015,North Kawartha,Women+,65 years and over,31.6
+2020,Trent Lakes,Total (all genders),Total (all ages),5.2
+2020,Trent Lakes,Total (all genders),0 to 17 years,9.3
+2020,Trent Lakes,Total (all genders),18 to 24 years,0.0
+2020,Trent Lakes,Total (all genders),25 to 54 years,5.9
+2020,Trent Lakes,Total (all genders),55 to 64 years,8.8
+2020,Trent Lakes,Total (all genders),65 years and over,0.0
+2015,Trent Lakes,Total (all genders),Total (all ages),9.6
+2015,Trent Lakes,Total (all genders),0 to 17 years,16.0
+2015,Trent Lakes,Total (all genders),18 to 24 years,12.5
+2015,Trent Lakes,Total (all genders),25 to 54 years,13.4
+2015,Trent Lakes,Total (all genders),55 to 64 years,9.3
+2015,Trent Lakes,Total (all genders),65 years and over,3.1
+2020,Trent Lakes,Total (all genders),Total (all ages),12.9
+2020,Trent Lakes,Total (all genders),0 to 17 years,0.0
+2020,Trent Lakes,Total (all genders),18 to 24 years,0.0
+2020,Trent Lakes,Total (all genders),25 to 54 years,16.7
+2020,Trent Lakes,Total (all genders),55 to 64 years,26.8
+2020,Trent Lakes,Total (all genders),65 years and over,0.0
+2015,Trent Lakes,Total (all genders),Total (all ages),25.6
+2015,Trent Lakes,Total (all genders),0 to 17 years,0.0
+2015,Trent Lakes,Total (all genders),18 to 24 years,0.0
+2015,Trent Lakes,Total (all genders),25 to 54 years,45.2
+2015,Trent Lakes,Total (all genders),55 to 64 years,27.8
+2015,Trent Lakes,Total (all genders),65 years and over,11.1
+2020,Trent Lakes,Men+,Total (all ages),5.7
+2020,Trent Lakes,Men+,0 to 17 years,9.2
+2020,Trent Lakes,Men+,18 to 24 years,0.0
+2020,Trent Lakes,Men+,25 to 54 years,5.5
+2020,Trent Lakes,Men+,55 to 64 years,11.3
+2020,Trent Lakes,Men+,65 years and over,0.0
+2015,Trent Lakes,Men+,Total (all ages),10.0
+2015,Trent Lakes,Men+,0 to 17 years,13.8
+2015,Trent Lakes,Men+,18 to 24 years,15.6
+2015,Trent Lakes,Men+,25 to 54 years,14.2
+2015,Trent Lakes,Men+,55 to 64 years,11.5
+2015,Trent Lakes,Men+,65 years and over,3.4
+2020,Trent Lakes,Men+,Total (all ages),16.0
+2020,Trent Lakes,Men+,0 to 17 years,0.0
+2020,Trent Lakes,Men+,18 to 24 years,0.0
+2020,Trent Lakes,Men+,25 to 54 years,0.0
+2020,Trent Lakes,Men+,55 to 64 years,35.3
+2020,Trent Lakes,Men+,65 years and over,0.0
+2015,Trent Lakes,Men+,Total (all ages),25.3
+2015,Trent Lakes,Men+,0 to 17 years,0.0
+2015,Trent Lakes,Men+,18 to 24 years,0.0
+2015,Trent Lakes,Men+,25 to 54 years,47.6
+2015,Trent Lakes,Men+,55 to 64 years,22.7
+2015,Trent Lakes,Men+,65 years and over,10.0
+2020,Trent Lakes,Women+,Total (all ages),4.5
+2020,Trent Lakes,Women+,0 to 17 years,8.0
+2020,Trent Lakes,Women+,18 to 24 years,0.0
+2020,Trent Lakes,Women+,25 to 54 years,6.4
+2020,Trent Lakes,Women+,55 to 64 years,6.2
+2020,Trent Lakes,Women+,65 years and over,0.0
+2015,Trent Lakes,Women+,Total (all ages),9.3
+2015,Trent Lakes,Women+,0 to 17 years,20.0
+2015,Trent Lakes,Women+,18 to 24 years,0.0
+2015,Trent Lakes,Women+,25 to 54 years,12.7
+2015,Trent Lakes,Women+,55 to 64 years,7.4
+2015,Trent Lakes,Women+,65 years and over,3.4
+2020,Trent Lakes,Women+,Total (all ages),10.5
+2020,Trent Lakes,Women+,0 to 17 years,0.0
+2020,Trent Lakes,Women+,18 to 24 years,0.0
+2020,Trent Lakes,Women+,25 to 54 years,28.6
+2020,Trent Lakes,Women+,55 to 64 years,17.4
+2020,Trent Lakes,Women+,65 years and over,0.0
+2015,Trent Lakes,Women+,Total (all ages),24.1
+2015,Trent Lakes,Women+,0 to 17 years,0.0
+2015,Trent Lakes,Women+,18 to 24 years,0.0
+2015,Trent Lakes,Women+,25 to 54 years,55.6
+2015,Trent Lakes,Women+,55 to 64 years,28.6
+2015,Trent Lakes,Women+,65 years and over,12.5
