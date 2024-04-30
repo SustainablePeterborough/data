@@ -63,6 +63,117 @@
       "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
     },
     {
+      "path": "8-5-4/data.csv",
+      "name": "8-5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Place of residence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Asphodel-Norwood",
+                "Otonabee-South Monaghan",
+                "Hiawatha First Nation",
+                "Cavan Monaghan",
+                "Peterborough",
+                "Selwyn",
+                "Curve Lake First Nation",
+                "Douro-Dummer",
+                "Havelock-Belmont-Methuen",
+                "North Kawartha",
+                "Trent Lakes",
+                ""
+              ]
+            },
+            "title": "Place of residence"
+          },
+          {
+            "name": "Place of work",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Belleville (CY), Ont.",
+                "Madoc (TP), Ont.",
+                "Cobourg (T), Ont.",
+                "Alnwick/Haldimand (TP), Ont.",
+                "Trent Hills (MU), Ont.",
+                "Asphodel-Norwood (TP), Ont.",
+                "Otonabee-South Monaghan (TP), Ont.",
+                "Cavan Monaghan (TP), Ont.",
+                "Peterborough (City)(CY), Ont.",
+                "Selwyn (TP), Ont.",
+                "Douro-Dummer (TP), Ont.",
+                "Havelock-Belmont-Methuen (TP), Ont.",
+                "Pickering (CY), Ont.",
+                "Oshawa (CY), Ont.",
+                "Clarington (MU), Ont.",
+                "Scugog (TP), Ont.",
+                "Toronto (C), Ont.",
+                "Ottawa (CV), Ont.",
+                "Port Hope (MU), Ont.",
+                "Kawartha Lakes (CY), Ont.",
+                "Ajax (T), Ont.",
+                "Whitby (T), Ont.",
+                "Uxbridge (TP), Ont.",
+                "Markham (CY), Ont.",
+                "Mississauga (CY), Ont.",
+                "Oakville (T), Ont.",
+                "Hiawatha First Nation (IRI), Ont.",
+                "Hamilton (TP), Ont.",
+                "Vaughan (CY), Ont.",
+                "Kingston (CY), Ont.",
+                "Deseronto (T), Ont.",
+                "Quinte West (CY), Ont.",
+                "Stirling-Rawdon (TP), Ont.",
+                "Centre Hastings (MU), Ont.",
+                "Marmora and Lake (MU), Ont.",
+                "Bancroft (T), Ont.",
+                "Cramahe (TP), Ont.",
+                "Curve Lake First Nation (IRI), Ont.",
+                "North Kawartha (TP), Ont.",
+                "Trent Lakes (MU), Ont.",
+                "Brock (TP), Ont.",
+                "Richmond Hill (T), Ont.",
+                "Whitchurch-Stouffville (T), Ont.",
+                "Aurora (T), Ont.",
+                "Newmarket (T), Ont.",
+                "Brampton (CY), Ont.",
+                "Guelph (CY), Ont.",
+                "Burlington (CY), Ont.",
+                "Hamilton (C), Ont.",
+                "Barrie (CY), Ont.",
+                "Muskoka Lakes (TP), Ont.",
+                "North Bay (CY), Ont.",
+                "Bracebridge (T), Ont.",
+                "Highlands East (MU), Ont.",
+                "Minden Hills (TP), Ont.",
+                "Georgina (T), Ont.",
+                ""
+              ]
+            },
+            "title": "Place of work"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "8.5.4 Test indicator"
+    },
+    {
       "path": "8-1-1/data.csv",
       "name": "8-1-1",
       "profile": "tabular-data-resource",
