@@ -12,7 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cavan Monaghan",
+                "Curve Lake First Nation",
+                "Douro-Dummer",
+                "Hiawatha First Nation",
+                "Otonabee-South Monaghan",
+                "Peterborough (City)",
+                "Selwyn",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
