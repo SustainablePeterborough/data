@@ -32,14 +32,14 @@ The World Trade Organization (WTO)",,,,,line
 #10-c-1,notstarted,World Bank,,,,,line
 #11-1-1,notstarted,United Nations Human Settlements Programme (UN-Habitat) ,,,,,line
 #11-2-1,complete,United Nations Human Settlements Programme (UN-Habitat),,,,Percentage,bar
-#11-3-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
+#11-3-1,complete,United Nations Human Settlements Programme (UN-Habitat),,,,Population density and dwelling counts,bar
 #11-3-2,notstarted,UN-Habitat,,,,,line
 #11-4-1,notstarted,UNESCO Institute for Statistics (UIS),,,,,line
 #11-5-1,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #11-5-2,notstarted,United Nations Office for Disaster Reduction (UNISDR),,,,,line
 #11-5-3,notstarted,United Nations Office for Disaster Reduction (UNISDR),True,,,,line
 #11-6-1,notstarted,"UN-Habitat, UNSD",,,,,line
-#11-6-2,notstarted,World Health Organization (WHO),,,,,line
+#11-6-2,complete,World Health Organization (WHO),,,,AQI,line
 #11-7-1,notstarted,UN-HABITAT,,,,,line
 #11-7-2,notstarted,"United Nations Office on Drugs and Crime (UNODC)
 ",,,,,line
@@ -285,7 +285,7 @@ United Nations Statistics Division (UNSD)",,,,,line
 #8-4-2,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #8-5-1,complete,International Labour Organization (ILO),,,,,line
 #8-5-2,complete,International Labour Organization (ILO) ,,,,Percentage,bar
-#8-5-3,complete,,,,,,line
+#8-5-3,complete,,,,,Percentage,bar
 #8-5-4,complete,,,,,,line
 #8-6-1,notstarted,International Labour Organization (ILO),,,,,line
 #8-7-1,notstarted,"United Nations Children&apos;s Fund (UNICEF)

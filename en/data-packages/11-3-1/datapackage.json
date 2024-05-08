@@ -12,8 +12,42 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Geography",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Asphodel-Norwood",
+                "Cavan Monaghan",
+                "Curve Lake First Nation",
+                "Douro-Dummer",
+                "Havelock-Belmont-Methuen",
+                "Hiawatha First Nation",
+                "North Kawartha",
+                "Otonabee-South Monaghan",
+                "Peterborough (City)",
+                "Selwyn",
+                "Trent Lakes",
+                ""
+              ]
+            },
+            "title": "Geography"
+          },
+          {
+            "name": "Population and dwelling counts",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total population",
+                "Total private dwellings",
+                "Population density per square kilometre",
+                ""
+              ]
+            },
+            "title": "Population and dwelling counts"
           },
           {
             "name": "Value",

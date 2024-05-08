@@ -20,8 +20,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Canada",
-                "Ontario",
                 "Asphodel-Norwood",
                 "Otonabee-South Monaghan",
                 "Hiawatha First Nation",
@@ -39,45 +37,15 @@
             "title": "Geography"
           },
           {
-            "name": "Age",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total (all ages)",
-                "15 to 24 years",
-                "25 to 64 years",
-                "65 years and over",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
-            "name": "Gender",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total (all genders)",
-                "Men+",
-                "Women+",
-                ""
-              ]
-            },
-            "title": "Gender"
-          },
-          {
             "name": "Main mode of commuting",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total - Main mode of commuting",
                 "Car, truck or van",
-                "Driver (only worker in vehicle)",
-                "Passenger (only worker in vehicle)",
                 "Sustainable transportation",
-                "Public transit",
                 "Active transportation",
                 "Other method",
+                "Public transit",
                 ""
               ]
             },
@@ -94,5 +62,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-3",
-  "title": "Main mode of commuting by commuting duration, time leaving for work, age and gender"
+  "title": "Main mode of commuting"
 }
