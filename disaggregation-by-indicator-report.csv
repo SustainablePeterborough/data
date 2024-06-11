@@ -1,9 +1,10 @@
 Indicator,Disaggregations,Number of disaggregations
-#1-1-1,"Geography, Age, Gender",3
+#1-1-1,"Geography, Gender, Age",3
 #11-2-1,Geography,1
 #11-3-1,"Geography, Population and dwelling counts",2
+#11-6-2,Select Year,1
 #8-1-1,Geography,1
 #8-5-1,"Geography, Household size",2
-#8-5-2,"Geography, Labour force status, Age, Gender",4
+#8-5-2,"Geography, Gender, Age, Labour force status",4
 #8-5-3,"Geography, Main mode of commuting",2
 #8-5-4,"Place of residence, Place of work",2
